@@ -1,0 +1,28 @@
+#!/bin/bash
+#SBATCH --gres=gpu:rtxa6000:1
+#SBATCH -J catp_eval_top_cs_ctg
+
+echo "Environment activation..."
+eval "$($(which conda) 'shell.bash' 'hook')"
+conda activate csctg_eval_env
+echo "Environment activated."
+
+seeds=(789 3443 9817)
+datasets=('pplm_prompts' 'sts_benchmark_test' 'cloze_2018_test' 'owt_neutral_prompts')
+len=50
+attributes=('sentiment' 'topic')
+model='cat_paw'
+
+echo "Start Evaluation..."
+for attribute in "${attributes[@]}"
+do
+    for dataset in "${datasets[@]}"
+    do
+        for seed in "${seeds[@]}"
+        do
+            folder="${model}-${dataset}-${attribute}-None-len${len}-${seed}"
+            python3 ./scripts/evaluation_pipeline.py --results_folder_path ./results --control_attribute "$attribute" --batch_size 128 --folder "$folder"
+        done
+    done
+done
+echo "End Evaluation."
