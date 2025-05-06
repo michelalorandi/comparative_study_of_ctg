@@ -1,0 +1,756 @@
+id,original_id,prompt,control_attribute_value,text
+PPLM-Bow_0_World,PPLM-Bow_0,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""In summary"" with a World topic [/INST] ",World,"ductIn summary, the United Nations' latest report on global hunger highlights the alarming rate at which the world's population is facing food insecurity. With climate change, conflict, and inequality cited as the main drivers, the number of undernourished people has increased for the third year in a row, with"
+PPLM-Bow_0_Sports,PPLM-Bow_0,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""In summary"" with a Sports topic [/INST] ",Sports,"ng>In summary, the team's performance this season has been nothing short of phenomenal. Despite a few setbacks along the way, they have consistently demonstrated their strength and determination, and their commitment to working together as a cohesive unit has paid off in a big way. With a string of impress"
+PPLM-Bow_0_Business,PPLM-Bow_0,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""In summary"" with a Business topic [/INST] ",Business,":// In summary, the company's latest financial reports show a significant increase in profits, despite a slight decline in sales. This is largely due to the successful implementation of cost-cutting measures and efficient resource allocation. The board of directors is optimistic about the future, and plans to expand operations into new markets"
+PPLM-Bow_0_Science/Technology,PPLM-Bow_0,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""In summary"" with a Science/Technology topic [/INST] ",Science/Technology,"se In summary, the new study published in the journal Nature reveals that the molecular structure of the human brain is significantly more complex than previously thought. The research team used advanced imaging techniques to map the neural connections within the brain, and found that the number of synapses, or neural connections, is far higher than previously"
+PPLM-Bow_1_World,PPLM-Bow_1,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""This essay discusses"" with a World topic [/INST] ",World,ductivity.
+PPLM-Bow_1_Sports,PPLM-Bow_1,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""This essay discusses"" with a Sports topic [/INST] ",Sports,quarterback Colin Kaepernick's decision to kneel during the national anthem before NFL games as a form of protest against police brutality and racial injustice in the United States.
+PPLM-Bow_1_Business,PPLM-Bow_1,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""This essay discusses"" with a Business topic [/INST] ",Business,"pecially in the business world, where the ability to effectively communicate ideas and plans is crucial for success. This essay discusses the importance of developing strong written and verbal communication skills in business, and how they can be improved through practice and training.
+
+Effective communication is essential in business for a variety of reasons. First"
+PPLM-Bow_1_Science/Technology,PPLM-Bow_1,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""This essay discusses"" with a Science/Technology topic [/INST] ",Science/Technology,"This essay discusses the potential of graphene, a revolutionary material made of a single layer of carbon atoms, to revolutionize the way we generate and store energy."
+PPLM-Bow_2_World,PPLM-Bow_2,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""Views on"" with a World topic [/INST] ",World,"n Views on the global economy have been mixed, with some experts predicting a recession and others forecasting continued growth."
+PPLM-Bow_2_Sports,PPLM-Bow_2,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""Views on"" with a Sports topic [/INST] ",Sports,quarterback Colin Kaepernick's decision to kneel during the national anthem has sparked a heated debate across the country.
+PPLM-Bow_2_Business,PPLM-Bow_2,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""Views on"" with a Business topic [/INST] ",Business,gain Views on the future of work and why we should embrace the gig economy.
+PPLM-Bow_2_Science/Technology,PPLM-Bow_2,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""Views on"" with a Science/Technology topic [/INST] ",Science/Technology,"several matters relating to the software update that has been made available for the robotic spacecraft are provided in the most recent version of the Space com online publication, according to a notification that was just sent out to the relevant mailing list. The alert further stated that some of the new viewing options would not be immediately"
+PPLM-Bow_3_World,PPLM-Bow_3,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The connection"" with a World topic [/INST] ",World,"��� The connection between space technology and sustainable development was highlighted at a recent conference, where experts discussed the potential for space-based solutions to address global challenges such as climate change, poverty, and inequality. 🌎"
+PPLM-Bow_3_Sports,PPLM-Bow_3,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The connection"" with a Sports topic [/INST] ",Sports,"standing ovation that the home team received after their incredible comeback victory was a testament to the connection that they had with their fans. Despite being down by three goals with only ten minutes left in the game, they never gave up, and their determination and spirit paid off as they managed to score four goals in the"
+PPLM-Bow_3_Business,PPLM-Bow_3,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The connection"" with a Business topic [/INST] ",Business,"��� The connection between the new software system and the company's existing infrastructure was seamless, allowing for a smooth transition and increased efficiency in data management."
+PPLM-Bow_3_Science/Technology,PPLM-Bow_3,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The connection"" with a Science/Technology topic [/INST] ",Science/Technology,"[The connection between the newly discovered exoplanet and its parent star was a subject of great interest to astronomers. The planet, which was located in a distant corner of the galaxy, had been found to have a highly unusual orbit, one that brought it dangerously close to its star at certain times of the year."
+PPLM-Bow_4_World,PPLM-Bow_4,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""Foundational to this is"" with a World topic [/INST] ",World,"- Foundational to this is an understanding of the critical role that education plays in promoting peace and stability.
+
+Peace and stability are essential for a thriving world, and education is a crucial factor in achieving these goals. Education gives people the skills and knowledge to think critically, solve problems, and work"
+PPLM-Bow_4_Sports,PPLM-Bow_4,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""Foundational to this is"" with a Sports topic [/INST] ",Sports,"with a Sports topic Foundational to this is the belief that every child deserves access to quality coaching and resources, regardless of their background or financial situation. The organization's mission is to provide disadvantaged youth with the opportunity to develop their athletic skills, build confidence, and learn valuable life lessons through sports."
+PPLM-Bow_4_Business,PPLM-Bow_4,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""Foundational to this is"" with a Business topic [/INST] ",Business,"standing effective communication which connects employees, management, and customers. By improving internal communication, companies can increase productivity, employee engagement, and customer satisfaction. Effective communication is foundational to this, as it allows for the efficient exchange of information and promotes a positive work environment. When employees understand their roles and responsib"
+PPLM-Bow_4_Science/Technology,PPLM-Bow_4,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""Foundational to this is"" with a Science/Technology topic [/INST] ",Science/Technology,"Foundational to this is the principle of quantum superposition, which states that a quantum system can exist in multiple states simultaneously. This concept has been applied to the development of quantum computers, which have the potential to revolutionize the way we approach complex computational problems. By harnessing the power of superposition, quantum computers can perform calculations"
+PPLM-Bow_5_World,PPLM-Bow_5,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""To review,"" with a World topic [/INST] ",World,"quarter the size of the sail the company plans to fly in 2016. The story should be fluent, interesting, and with correct grammar and spelling.
+
+To review, the company has been working on developing a revolutionary new sail that will allow them to harness the power of the wind in a"
+PPLM-Bow_5_Sports,PPLM-Bow_5,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""To review,"" with a Sports topic [/INST] ",Sports,"standing on the sidelines, the coach took a deep breath as he prepared to review the game footage. His team had just suffered a crushing defeat, and he needed to figure out where things had gone wrong. He started the playback, his eyes scanning the screen as he watched his players move up and down the"
+PPLM-Bow_5_Business,PPLM-Bow_5,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""To review,"" with a Business topic [/INST] ",Business,"To review, the company's financial reports for the past quarter have shown a significant increase in profits, exceeding expectations and forecasts. This is largely due to the successful implementation of the new marketing strategy, which has resulted in a notable increase in sales and revenue. The cost-cutting measures introduced last"
+PPLM-Bow_5_Science/Technology,PPLM-Bow_5,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""To review,"" with a Science/Technology topic [/INST] ",Science/Technology,"standing in front of the whiteboard, Dr. Maria Rodriguez began her presentation by saying, ""To review, we have made significant progress in the development of our new AI algorithm. Our team has been working tirelessly to refine the code and optimize its performance. Now, let's take a look at the"
+PPLM-Bow_6_World,PPLM-Bow_6,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""In brief,"" with a World topic [/INST] ",World,"quarter the size of the sail the company plans to fly in 2016. The solar sail, made of thin, lightweight material, will unfurl in space and use the sun's energy to propel a spacecraft forward. This technology has the potential to revolutionize space travel, making it faster, che"
+PPLM-Bow_6_Sports,PPLM-Bow_6,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""In brief,"" with a Sports topic [/INST] ",Sports,"ngs. In brief, the team's performance was lackluster, with too many errors and a lack of cohesion on the field. Despite their efforts, they were unable to pull off a win, leaving fans disappointed and eager for improvement in the next game."
+PPLM-Bow_6_Business,PPLM-Bow_6,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""In brief,"" with a Business topic [/INST] ",Business,"ailable. In brief, the company's latest financial report shows a significant increase in profits, exceeding analyst expectations. This is largely due to the successful launch of their new product line, which has seen high demand and positive customer feedback. The company's stock prices have accordingly risen, and investors are optim"
+PPLM-Bow_6_Science/Technology,PPLM-Bow_6,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""In brief,"" with a Science/Technology topic [/INST] ",Science/Technology,"standing in front of the imposing steel structure, Dr. Maria Rodriguez couldn't help but feel a sense of pride and accomplishment. She had spent the last three years leading a team of engineers and scientists in the development of the world's first advanced fusion reactor, and now, finally, it was"
+PPLM-Bow_7_World,PPLM-Bow_7,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""An illustration of"" with a World topic [/INST] ",World,"duct, An illustration of the devastating impact of climate change can be seen in the shrinking ice caps at the North and South Poles."
+PPLM-Bow_7_Sports,PPLM-Bow_7,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""An illustration of"" with a Sports topic [/INST] ",Sports,"xAn illustration of the unique spirit of teamwork in basketball is seen in the way players work together on the court. Players must rely on each other to make shots, set screens, and play defense in a coordinated effort that results in a beautifully executed play. Each player has their own strengths and weakness"
+PPLM-Bow_7_Business,PPLM-Bow_7,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""An illustration of"" with a Business topic [/INST] ",Business,"ailable to help companies of all sizes and industries, from startups to Fortune 500 corporations. An illustration of this is the company's recent work with a major retailer, where they used their AI-powered chatbots to automate customer service and saw a 30%"
+PPLM-Bow_7_Science/Technology,PPLM-Bow_7,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""An illustration of"" with a Science/Technology topic [/INST] ",Science/Technology,"로 An illustration of the powerful capabilities of artificial intelligence, a team of researchers recently developed a new algorithm that can create highly realistic videos from still images. The algorithm, which was published in a leading scientific journal, uses a combination of machine learning and computer vision techniques to generate videos that are nearly indistinguishable from"
+PPLM-Bow_8_World,PPLM-Bow_8,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""Furthermore,"" with a World topic [/INST] ",World,"truth be told, the damage inflicted by these new policies will not be limited to the business world. Furthermore, the ripple effects will be felt across the entire social fabric of the nation, as increased economic inequality and decreased access to essential services like healthcare, education, and infrastructure threaten the very foundations"
+PPLM-Bow_8_Sports,PPLM-Bow_8,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""Furthermore,"" with a Sports topic [/INST] ",Sports,"xFurthermore, the new data shows that the athlete's performance has been steadily improving over the past year, indicating a strong potential for success in upcoming competitions. The athlete's coach attributed this improvement to a recent change in training strategy, which has included a greater focus on strength and condition"
+PPLM-Bow_8_Business,PPLM-Bow_8,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""Furthermore,"" with a Business topic [/INST] ",Business,"Furthermore, the company's new marketing strategy has proven to be highly effective, resulting in a significant increase in sales and brand recognition."
+PPLM-Bow_8_Science/Technology,PPLM-Bow_8,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""Furthermore,"" with a Science/Technology topic [/INST] ",Science/Technology,"ailable data, furthermore, the study also revealed that the newly discovered asteroid has a highly eccentric orbit, which takes it dangerously close to Earth's orbit."
+PPLM-Bow_9_World,PPLM-Bow_9,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The central theme"" with a World topic [/INST] ",World,"quarter The central theme of the conference was the impact of climate change on global food systems, and how agriculture must adapt to the challenges presented by a warming world."
+PPLM-Bow_9_Sports,PPLM-Bow_9,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The central theme"" with a Sports topic [/INST] ",Sports,"quarterback, Joe Montana, threw a 20-yard pass to Jerry Rice."
+PPLM-Bow_9_Business,PPLM-Bow_9,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The central theme"" with a Business topic [/INST] ",Business,"��� The central theme of the company's annual report was the importance of innovation in driving business growth. Throughout the report, the CEO emphasized how the company's commitment to innovation had led to the development of new products and services, which in turn had fueled the company's expansion into"
+PPLM-Bow_9_Science/Technology,PPLM-Bow_9,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The central theme"" with a Science/Technology topic [/INST] ",Science/Technology,"- Holographic technology has been a staple of science fiction for decades, but scientists are making strides toward making it a reality.
+
+The central theme of the research is using holographic projections to create a more immersive and interactive experience for users. While traditional screens provide a two"
+PPLM-Bow_10_World,PPLM-Bow_10,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""To conclude,"" with a World topic [/INST] ",World,"States have agreed to a binding treaty on business and human rights. This ground-breaking treaty aims to prevent abuses by corporations operating across borders. It's a vital step towards a world where businesses respect human rights and are held accountable for their actions. To conclude, this treaty marks a significant"
+PPLM-Bow_10_Sports,PPLM-Bow_10,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""To conclude,"" with a Sports topic [/INST] ",Sports,"ng to a close, the championship game was neck and neck until the very end. The crowd was on the edge of their seats as the home team, down by a single point, had the ball and were driving down the court. With only seconds left on the clock, the team's star player stepped up to the free throw"
+PPLM-Bow_10_Business,PPLM-Bow_10,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""To conclude,"" with a Business topic [/INST] ",Business,"duct, the presentation is a great success. The audience is impressed by the data and analysis presented, and the company's future plans are met with excitement and anticipation. The team is proud of their work and feels confident that their efforts will pay off in the long run. As the presentation comes to a close, the CE"
+PPLM-Bow_10_Science/Technology,PPLM-Bow_10,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""To conclude,"" with a Science/Technology topic [/INST] ",Science/Technology,seismic activity on the moon.
+PPLM-Bow_11_World,PPLM-Bow_11,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The key aspect"" with a World topic [/INST] ",World,"strat The key aspect of the agreement is a major step forward in the fight against climate change. The deal, which was signed by nearly 200 countries, sets a goal of limiting global warming to well below 2 degrees Celsius and pursuing efforts to limit it even further to 1.5 degrees"
+PPLM-Bow_11_Sports,PPLM-Bow_11,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The key aspect"" with a Sports topic [/INST] ",Sports,s The key aspect of the team's success this season has been their ability to work together as a cohesive unit.
+PPLM-Bow_11_Business,PPLM-Bow_11,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The key aspect"" with a Business topic [/INST] ",Business,"pecially in the business world, where the ability to effectively communicate ideas and plans is crucial for success. The key aspect of successful communication in business is the ability to articulate complex ideas in a clear and concise manner. This means being able to distill the essence of a concept or strategy down to its most important elements"
+PPLM-Bow_11_Science/Technology,PPLM-Bow_11,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The key aspect"" with a Science/Technology topic [/INST] ",Science/Technology,"seems to be the incorporation of a revolutionary new material that has never been used in sail construction before. This cutting-edge substance is capable of maximizing wind propulsion while minimizing weight, thereby increasing fuel efficiency and extending the sail's lifespan."
+PPLM-Bow_12_World,PPLM-Bow_12,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""Prior to this"" with a World topic [/INST] ",World,"quarter the size of the sail the company plans to fly in 2016. Prior to this, the company had been struggling to find a way to effectively harness the power of the wind to propel their sail. They had tried various designs and materials, but nothing seemed to work quite right. But then, they"
+PPLM-Bow_12_Sports,PPLM-Bow_12,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""Prior to this"" with a Sports topic [/INST] ",Sports,"standing on the podium, listening to the national anthem being played in honor of her victory, Sarah couldn't help but reflect on the journey that had brought her to this moment. Prior to this, she had been a relative unknown in the world of figure skating, competing in local competitions and trying to make a"
+PPLM-Bow_12_Business,PPLM-Bow_12,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""Prior to this"" with a Business topic [/INST] ",Business,"rewind to 2009, when the phrase "" influencer marketing"" was just a whisper in the marketing world. Prior to this, brands relied heavily on traditional media outlets such as television, radio, and print ads to reach their target audiences."
+PPLM-Bow_12_Science/Technology,PPLM-Bow_12,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""Prior to this"" with a Science/Technology topic [/INST] ",Science/Technology,"seismic surveys were limited to exploring the Moon's surface. Prior to this, scientists had no way of peering beneath the lunar crust, leaving them in the dark about what lay beneath."
+PPLM-Bow_13_World,PPLM-Bow_13,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""Emphasised are"" with a World topic [/INST] ",World,"standing out are the vibrant colors of the traditional clothing worn by the locals, a stark contrast to the drab, monochrome uniforms of the communist era."
+PPLM-Bow_13_Sports,PPLM-Bow_13,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""Emphasised are"" with a Sports topic [/INST] ",Sports,"(Emphasised are) the importance of teamwork and strategy in basketball, as demonstrated by the Toronto Raptors' historic NBA championship win."
+PPLM-Bow_13_Business,PPLM-Bow_13,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""Emphasised are"" with a Business topic [/INST] ",Business,"quarterly earnings, which have been consistently strong for the past two years, have been emphasised as a key area of focus for the company's growth strategy."
+PPLM-Bow_13_Science/Technology,PPLM-Bow_13,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""Emphasised are"" with a Science/Technology topic [/INST] ",Science/Technology,"standing out are the revolutionary advancements in gene editing technology, specifically the CRISPR-Cas9 system, which has the potential to cure genetic diseases and reshape the future of medicine."
+PPLM-Bow_14_World,PPLM-Bow_14,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""To summarise"" with a World topic [/INST] ",World,"��� To summarise, the United Nations' recent report on the state of the global climate has painted a dire picture of the future. The report states that if drastic measures are not taken immediately to reduce greenhouse gas emissions, the world is likely to face catastrophic consequences, including rising sea levels, dev"
+PPLM-Bow_14_Sports,PPLM-Bow_14,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""To summarise"" with a Sports topic [/INST] ",Sports,"hTo summarise, the team's performance this season has been nothing short of exceptional. Despite facing numerous challenges and setbacks, they have consistently demonstrated their strength, determination, and resilience. With a strong team dynamic and a hunger for success, they have proven themselves to be a force to"
+PPLM-Bow_14_Business,PPLM-Bow_14,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""To summarise"" with a Business topic [/INST] ",Business,"To summarise, the company's latest financial reports indicate a significant increase in profits, largely due to the successful implementation of a new marketing strategy and the introduction of a streamlined production process. The cost-cutting measures have led to a notable reduction in expenses, resulting in a substantial boost to the bottom line"
+PPLM-Bow_14_Science/Technology,PPLM-Bow_14,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""To summarise"" with a Science/Technology topic [/INST] ",Science/Technology,"with a Science/Technology topic:
+
+To summarise, the groundbreaking discovery made by the team of scientists has the potential to revolutionize the field of renewable energy. By harnessing the power of ocean currents, they have developed a new form of sustainable energy that could significantly reduce our"
+PPLM-Bow_15_World,PPLM-Bow_15,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The relationship"" with a World topic [/INST] ",World,"��� The relationship between the United States and North Korea has been a tumultuous one, filled with tension and hostility. Despite numerous attempts at diplomacy, the two nations have struggled to find common ground, and the threat of nuclear war has loomed large.
+
+💥 In recent years,"
+PPLM-Bow_15_Sports,PPLM-Bow_15,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The relationship"" with a Sports topic [/INST] ",Sports,m The relationship between a coach and their athlete is one of the most important aspects of any sport.
+PPLM-Bow_15_Business,PPLM-Bow_15,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The relationship"" with a Business topic [/INST] ",Business,"��� The relationship between the two companies has been a driving force in the industry, with their partnership leading to groundbreaking innovations and unparalleled success. Despite being fierce competitors, they found common ground and joined forces to create a powerhouse of creativity and productivity. Together, they have"
+PPLM-Bow_15_Science/Technology,PPLM-Bow_15,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The relationship"" with a Science/Technology topic [/INST] ",Science/Technology,"cipline, and machine learning, is a rapidly evolving field that has the potential to transform the way we live and work. At the same time, there are also concerns about the impact of AI on society, including issues related to privacy, bias, and job displacement.
+
+The relationship between humans and AI"
+PPLM-Bow_16_World,PPLM-Bow_16,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""More importantly,"" with a World topic [/INST] ",World,"tingly,More importantly, the new alliance will allow for greater cooperation and collaboration between the two countries in the fields of science, technology, and innovation, paving the way for groundbreaking discoveries and advancements that will benefit the world at large."
+PPLM-Bow_16_Sports,PPLM-Bow_16,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""More importantly,"" with a Sports topic [/INST] ",Sports,"typedoc More importantly, the team's success on the field has translated into increased revenue and exposure for the franchise."
+PPLM-Bow_16_Business,PPLM-Bow_16,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""More importantly,"" with a Business topic [/INST] ",Business,"hMore importantly, the company's new CEO has implemented a series of cost-cutting measures that have resulted in significant savings for the organization."
+PPLM-Bow_16_Science/Technology,PPLM-Bow_16,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""More importantly,"" with a Science/Technology topic [/INST] ",Science/Technology,"ngineers have successfully tested a new type of solar panel that is not only more efficient than previous models but also significantly cheaper to produce. More importantly, the new panels are made from sustainable materials and can be easily recycled at the end of their lifespan, making them a much more environmentally"
+PPLM-Bow_17_World,PPLM-Bow_17,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""It has been shown"" with a World topic [/INST] ",World,"cipline and responsibility, but also creativity and passion. It has been shown that when children are given the freedom to explore and express themselves, they are more likely to develop their full potential and become successful members of society.
+
+In recent years, there has been a growing trend towards more flexible and student-centered approaches"
+PPLM-Bow_17_Sports,PPLM-Bow_17,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""It has been shown"" with a Sports topic [/INST] ",Sports,"sure, here's a story starting with ""It has been shown"" with a Sports topic:
+
+It has been shown that athletes who engage in regular strength training have a significant advantage over those who do not. In a recent study published in the Journal of Strength and Conditioning Research, scientists found"
+PPLM-Bow_17_Business,PPLM-Bow_17,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""It has been shown"" with a Business topic [/INST] ",Business,"standing that the benefits of using AI in business far outweigh the risks. It has been shown that companies that implement AI technology see significant increases in productivity, efficiency, and profitability."
+PPLM-Bow_17_Science/Technology,PPLM-Bow_17,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""It has been shown"" with a Science/Technology topic [/INST] ",Science/Technology,"standing desks, also known as sit-stand desks, have been gaining popularity in recent years due to the growing awareness of the health risks associated with sitting for long periods. It has been shown that sitting for extended periods can lead to a range of health problems, including obesity, back pain,"
+PPLM-Bow_18_World,PPLM-Bow_18,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The issue focused on"" with a World topic [/INST] ",World,standing room only. The issue focused on the front cover was the growing concern about the rise in global temperatures and its impact on the environment.
+PPLM-Bow_18_Sports,PPLM-Bow_18,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The issue focused on"" with a Sports topic [/INST] ",Sports,- The issue focused on the controversial call made by the referee in the championship game between the Stormers and the Crusaders.
+PPLM-Bow_18_Business,PPLM-Bow_18,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The issue focused on"" with a Business topic [/INST] ",Business,"{The issue focused on the need for companies to adopt sustainable practices in order to reduce their carbon footprint and minimize their impact on the environment. As consumers become more aware of the importance of sustainability, they are increasingly demanding that the companies they do business with prioritize environmental responsibility. This has"
+PPLM-Bow_18_Science/Technology,PPLM-Bow_18,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The issue focused on"" with a Science/Technology topic [/INST] ",Science/Technology,"ister planet, and it's the first time we've been able to directly observe this process in action.
+
+The issue focused on the unexpectedly large amount of energy that was being released by the solar flare. Scientists had previously thought that flares of this size would produce a certain amount of energy, but the"
+PPLM-Bow_19_World,PPLM-Bow_19,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""In this essay"" with a World topic [/INST] ",World,"ailable income and a growing consumer base, the developing world has seen tremendous growth in e-commerce over the past decade. In this essay, we will explore the main reasons for the rapid rise of e-commerce in developing countries and discuss its potential impacts on their economies.
+
+Firstly, one of"
+PPLM-Bow_19_Sports,PPLM-Bow_19,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""In this essay"" with a Sports topic [/INST] ",Sports,"gIn this essay, I will discuss the impact of technology on the game of tennis. In recent years, advancements in technology have revolutionized the sport, changing the way players train, compete, and even the equipment they use. From advanced racket materials to virtual reality training, technology has had a profound effect"
+PPLM-Bow_19_Business,PPLM-Bow_19,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""In this essay"" with a Business topic [/INST] ",Business,"��� In this essay, I will discuss the impact of digital transformation on businesses and their operations. With the advent of emerging technologies such as artificial intelligence, blockchain, and the Internet of Things (IoT), companies are facing unprecedented opportunities to streamline their processes, enhance customer"
+PPLM-Bow_19_Science/Technology,PPLM-Bow_19,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""In this essay"" with a Science/Technology topic [/INST] ",Science/Technology,":: In this essay, I will discuss the potential of nanotechnology to revolutionize the field of medicine. ::
+
+Nanotechnology, the manipulation and engineering of materials on a molecular scale, has already shown great promise in a variety of fields, from electronics to energy. But its potential impact"
+PPLM-Discrim_0_World,PPLM-Discrim_0,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""Once upon a time"" with a World topic [/INST] ",World,"quarter the size of the sail the company plans to fly in 2016. The research and development have been ongoing for the past 5 years and the team is excited to finally see their hard work come to life. The sail will be the largest ever built, covering an area of 10,00"
+PPLM-Discrim_0_Sports,PPLM-Discrim_0,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""Once upon a time"" with a Sports topic [/INST] ",Sports,"quarterback, Tom Brady, was once upon a time a young athlete with a dream to play in the NFL."
+PPLM-Discrim_0_Business,PPLM-Discrim_0,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""Once upon a time"" with a Business topic [/INST] ",Business,"���Once upon a time, there was a businesswoman named Maria who had a brilliant idea for a new product. She had been working in the industry for years, and she knew that there was a gap in the market that she could fill with a innovative and useful item. She spent months researching and developing her"
+PPLM-Discrim_0_Science/Technology,PPLM-Discrim_0,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""Once upon a time"" with a Science/Technology topic [/INST] ",Science/Technology,"cture.
+Once upon a time, in a world where technology had advanced beyond our wildest dreams, a team of scientists discovered a way to harness the power of quantum entanglement to create a new form of energy. This energy, known as ""quantum energy,"" had the potential to revolutionize the way"
+PPLM-Discrim_1_World,PPLM-Discrim_1,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The book"" with a World topic [/INST] ",World,"truly revolutionized the way people thought about the world. Written by a renowned historian, it challenged long-held beliefs and presented a fresh perspective on the past. The book was a massive tome, filled with detailed research and compelling arguments. It quickly became a bestseller, with readers around the"
+PPLM-Discrim_1_Sports,PPLM-Discrim_1,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The book"" with a Sports topic [/INST] ",Sports,"standing tall and proud on the shelf, the book seemed to radiate an aura of excitement and anticipation. Its cover, adorned with images of sweating athletes and action-packed photographs, hinted at the thrilling stories contained within its pages.
+
+The book was a comprehensive history of"
+PPLM-Discrim_1_Business,PPLM-Discrim_1,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The book"" with a Business topic [/INST] ",Business,"standing tall on the shelf, the book seemed to radiate an aura of importance. Its cover, adorned with gold lettering and a sleek design, hinted at the valuable knowledge contained within its pages. The title, ""The Art of Business"", was emblazoned across the top, and the author"
+PPLM-Discrim_1_Science/Technology,PPLM-Discrim_1,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The book"" with a Science/Technology topic [/INST] ",Science/Technology,"cipline.
+The book, ""The Future of Artificial Intelligence,"" by renowned computer scientist and AI expert, Dr. Rachel Kim, explores the rapidly evolving field of AI and its potential impact on society."
+PPLM-Discrim_2_World,PPLM-Discrim_2,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The chicken"" with a World topic [/INST] ",World,"teh chicken, a staple protein source for millions of people around the world, has recently been in the spotlight for its role in the global food industry. With the rise of industrial farming and mass production, the humble chicken has become a ubiquitous presence in supermarkets and restaurants,"
+PPLM-Discrim_2_Sports,PPLM-Discrim_2,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The chicken"" with a Sports topic [/INST] ",Sports,"ver since he was a young boy, Cristiano Ronaldo has been known for his exceptional skill on the soccer field. But what many people don't know is that he owes a great deal of his success to a rather unusual source: a chicken named Fiona.
+
+Fiona was a gift from"
+PPLM-Discrim_2_Business,PPLM-Discrim_2,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The chicken"" with a Business topic [/INST] ",Business,"ducted at a farm in Maryland has tested positive for a particularly aggressive strain of avian flu, prompting officials to slaughter 14,000 chickens in an effort to contain the outbreak."
+PPLM-Discrim_2_Science/Technology,PPLM-Discrim_2,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The chicken"" with a Science/Technology topic [/INST] ",Science/Technology,"ducted at the University of California, San Diego, have discovered that the simple domestic chicken may hold the key to developing more efficient and sustainable ways to produce biofuels.
+
+The research, published in the journal ""Nature Communications,"" reveals that chickens have a unique digestive system that"
+PPLM-Discrim_3_World,PPLM-Discrim_3,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The city"" with a World topic [/INST] ",World,"ured to the rhythm of commerce, the city pulses with an energy that is at once both frenetic and infectious. The skyscrapers, like sentinels of steel and glass, stand watch over the bustling streets below, their peaks piercing the sky like jagged teeth"
+PPLM-Discrim_3_Sports,PPLM-Discrim_3,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The city"" with a Sports topic [/INST] ",Sports,"teams from the city have been dominating the basketball league for years, but this season, a new rival from the suburbs has emerged as a threat to their reign."
+PPLM-Discrim_3_Business,PPLM-Discrim_3,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The city"" with a Business topic [/INST] ",Business,"���️ The city of London has been a long-standing hub for business and finance, and the latest development in the heart of the city is set to change the game for entrepreneurs and startups."
+PPLM-Discrim_3_Science/Technology,PPLM-Discrim_3,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The city"" with a Science/Technology topic [/INST] ",Science/Technology,"quietly, without much fanfare, the city of the future is taking shape. It's a city where streets are paved with solar panels, where buildings are covered in green roofs and vertical gardens, and where electric cars whizz by silently. It's a city that's not just sust"
+PPLM-Discrim_4_World,PPLM-Discrim_4,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The country"" with a World topic [/INST] ",World,"quarter the size of the sail the company plans to fly in 2016.
+
+The country of Japan has long been known for its technological advancements and innovative ideas, and one of its latest ventures is no exception. A team of Japanese scientists has successfully developed a new type of sail that"
+PPLM-Discrim_4_Sports,PPLM-Discrim_4,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The country"" with a Sports topic [/INST] ",Sports,"ting. The country's national soccer team, known as the ""Fiery Reds,"" had been struggling to find their footing in the international arena. Despite their best efforts, they had failed to advance beyond the group stage in the previous two World Cups.
+
+Determined to change their fortunes"
+PPLM-Discrim_4_Business,PPLM-Discrim_4,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The country"" with a Business topic [/INST] ",Business,"ailable assets and resources, the company is on track to meet its target of increasing exports by 20% within the next 12 months.
+
+The country's prime minister, who was recently re-elected for a second term, has been a strong supporter of the company's expansion plans and has p"
+PPLM-Discrim_4_Science/Technology,PPLM-Discrim_4,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The country"" with a Science/Technology topic [/INST] ",Science/Technology,"��� The country's ambitious plans to establish a lunar base by 2025 have taken a giant leap forward with the successful launch of their advanced new rocket, capable of carrying payloads twice the size of its predecessor."
+PPLM-Discrim_5_World,PPLM-Discrim_5,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The horse"" with a World topic [/INST] ",World,"ctober, the horse, a symbol of grace and beauty, has been a vital part of human history for centuries. From ancient civilizations to modern-day recreation, these magnificent creatures have played a crucial role in shaping our cultures and societies.
+
+In ancient times, horses were used primarily for"
+PPLM-Discrim_5_Sports,PPLM-Discrim_5,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The horse"" with a Sports topic [/INST] ",Sports,"ting out from the starting gate, the horse and its rider were a formidable team. They had been training for months, honing their skills and building their endurance. The crowd cheered as they took their position on the track, eager to see the horse and its rider in action.
+
+As the starting"
+PPLM-Discrim_5_Business,PPLM-Discrim_5,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The horse"" with a Business topic [/INST] ",Business,"��� The horse racing industry is gearing up for a thrilling season, with the latest breed of thoroughbreds set to take the track by storm. 🏇️‍♂️ One up-and-coming stable is betting big on their newest acquisition, a magnificent stall"
+PPLM-Discrim_5_Science/Technology,PPLM-Discrim_5,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The horse"" with a Science/Technology topic [/INST] ",Science/Technology,"The horse, a magnificent creature that has been a part of human history for centuries, has now been given a new role - that of aiding in the development of advanced prosthetic limbs. Researchers have discovered that the unique way in which a horse's hooves absorb shock and distribute pressure can"
+PPLM-Discrim_6_World,PPLM-Discrim_6,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The lake"" with a World topic [/INST] ",World,"ductive water bodies, the lake's water level has dropped significantly over the years, threatening the livelihoods of millions of people who depend on it for fishing, agriculture, and other economic activities."
+PPLM-Discrim_6_Sports,PPLM-Discrim_6,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The lake"" with a Sports topic [/INST] ",Sports,"tr The lake was a beautiful sight to behold, its crystal clear waters reflecting the sun's rays like a shimmering diamond. It was a hot summer day, and the perfect spot for a swimming competition. The participants lined up at the starting point, eagerly waiting for the signal to d"
+PPLM-Discrim_6_Business,PPLM-Discrim_6,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The lake"" with a Business topic [/INST] ",Business,"���️ The lake was a stunning sight, its calm waters reflecting the beautiful surroundings. But for the team at AquaTech, it was more than just a picturesque view - it was a source of great potential. They had been studying the lake's unique properties and had discovered that its water"
+PPLM-Discrim_6_Science/Technology,PPLM-Discrim_6,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The lake"" with a Science/Technology topic [/INST] ",Science/Technology,"te lake's water level had been steadily decreasing over the past few years, and scientists were puzzled as to why. Some thought it was due to drought, while others believed it was a result of human activity. To find out the truth, a team of researchers from the local university decided to conduct a"
+PPLM-Discrim_7_World,PPLM-Discrim_7,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The last time"" with a World topic [/INST] ",World,"lThe last time the world saw such a powerful leader was in the early 20th century. A charismatic figure had risen to power, promising to lead his nation to greatness. He was able to rally his people behind him, promising them a better future, and they were willing to follow him"
+PPLM-Discrim_7_Sports,PPLM-Discrim_7,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The last time"" with a Sports topic [/INST] ",Sports,"duct, the last time Liverpool played in the Champions League final, they were defeated by Real Madrid in a thrilling match that went to extra time."
+PPLM-Discrim_7_Business,PPLM-Discrim_7,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The last time"" with a Business topic [/INST] ",Business,"ducted a study, the results were surprising. 
+The last time the company conducted a study, the results were surprising. They found that the new marketing strategy increased revenue by 25% and reduced customer complaints by 50%. The study also revealed that the company's customer base had grown by"
+PPLM-Discrim_7_Science/Technology,PPLM-Discrim_7,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The last time"" with a Science/Technology topic [/INST] ",Science/Technology,",The last time a spacecraft visited Jupiter's icy moon Europa, it was 20 years ago."
+PPLM-Discrim_8_World,PPLM-Discrim_8,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The movie"" with a World topic [/INST] ",World,"ductive plasma thruster is being developed to provide a new propulsion system for deep space missions. The technology uses a combination of magnetic and electric fields to accelerate ions and create a high-speed plasma flow, which can be directed out of the back of the spacecraft to generate thrust. This system has the"
+PPLM-Discrim_8_Sports,PPLM-Discrim_8,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The movie"" with a Sports topic [/INST] ",Sports,"cipl The movie, which chronicles the life of basketball legend Len Bias, was a powerful reminder of the fragility of life and the importance of living every moment to the fullest."
+PPLM-Discrim_8_Business,PPLM-Discrim_8,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The movie"" with a Business topic [/INST] ",Business,"��� The movie industry has been booming in recent years, with new technologies and innovative storytelling techniques captivating audiences worldwide. Streaming services have become the norm, offering a wide range of films and TV shows at the click of a button. However, the rise of streaming has also led"
+PPLM-Discrim_8_Science/Technology,PPLM-Discrim_8,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The movie"" with a Science/Technology topic [/INST] ",Science/Technology,"ucture  The movie ""The Martian"" has captivated audiences with its gripping storyline of an astronaut stranded on Mars and his struggle to survive until rescue. But beyond its entertainment value, the film also highlights the importance of science and technology in solving complex problems."
+PPLM-Discrim_9_World,PPLM-Discrim_9,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The painting"" with a World topic [/INST] ",World,"��� The painting, a masterpiece created by the renowned artist, depicted the vibrant colors and rich culture of the African continent. It was a beautiful representation of the diverse people and landscapes that make up the world we live in. The painting was a reflection of the artist's travels and"
+PPLM-Discrim_9_Sports,PPLM-Discrim_9,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The painting"" with a Sports topic [/INST] ",Sports,"- The painting, a vivid depiction of a basketball game, captures the energy and excitement of the sport."
+PPLM-Discrim_9_Business,PPLM-Discrim_9,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The painting"" with a Business topic [/INST] ",Business,"The painting, a stunning landscape of a sunset over a bustling city skyline, had been hanging in the corporate office for years. It was a reminder to the employees of the company's commitment to innovation and growth, as the city in the painting represented the ever-changing landscape"
+PPLM-Discrim_9_Science/Technology,PPLM-Discrim_9,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The painting"" with a Science/Technology topic [/INST] ",Science/Technology,"ducted using a technique called scanning electron microscopy. The painting, which depicts a beautiful landscape with rolling hills and a clear blue sky, was found to have a unique texture and structure that is unlike anything else observed in artwork created using traditional methods. The researchers believe that this new technique could revolutionize the"
+PPLM-Discrim_10_World,PPLM-Discrim_10,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The pizza"" with a World topic [/INST] ",World,"porphyry deposits in the Andes mountain range, stretching from Peru to Chile, contain substantial quantities of copper."
+PPLM-Discrim_10_Sports,PPLM-Discrim_10,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The pizza"" with a Sports topic [/INST] ",Sports,truck driver who won the Super Bowl.
+PPLM-Discrim_10_Business,PPLM-Discrim_10,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The pizza"" with a Business topic [/INST] ",Business,"The pizza, topped with fresh arugula and prosciutto, was the star of the show at the company's annual product launch event. The crowd of investors and industry professionals couldn't get enough of the delicious dish, and it seemed like the perfect metaphor for the company'"
+PPLM-Discrim_10_Science/Technology,PPLM-Discrim_10,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The pizza"" with a Science/Technology topic [/INST] ",Science/Technology,"ts of the world, the pizza, has been transformed."
+PPLM-Discrim_11_World,PPLM-Discrim_11,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The potato"" with a World topic [/INST] ",World,"standing in the soil, its rough skin a sign of the hard work it took to grow. The farmer, a weathered man with a kind face, inspects it closely, proud of the crop he has cultivated. This potato, and the many others like it, will be shipped to markets all over"
+PPLM-Discrim_11_Sports,PPLM-Discrim_11,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The potato"" with a Sports topic [/INST] ",Sports,"xThe potato-like shape of the football was the first thing that caught my attention as I walked onto the field. It was a strange sight, to say the least, but I knew that it was the new sports technology that everyone was talking about. The team had been testing it out for weeks, and today was the day"
+PPLM-Discrim_11_Business,PPLM-Discrim_11,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The potato"" with a Business topic [/INST] ",Business,"n a move to expand its offerings and solidify its position in the food industry, AgroCorp has announced the acquisition of a major potato farm in Idaho. The potato, a staple crop in many parts of the world, has seen a significant increase in demand in recent years, driven by"
+PPLM-Discrim_11_Science/Technology,PPLM-Discrim_11,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The potato"" with a Science/Technology topic [/INST] ",Science/Technology,"quarter the size of the full-scale solar sail that will be used in a mission to Mars in 2020.
+
+The potato-sized test article is an important step in the development of the technology, as it will allow scientists to test the deployment and maneuverability of the sail in"
+PPLM-Discrim_12_World,PPLM-Discrim_12,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The president of the country"" with a World topic [/INST] ",World,"standing confidently at the podium, the president of the country addressed the nation with a sense of urgency and determination in his voice. ""My fellow citizens,"" he began, ""the time has come for us to take a stand against the growing threat of climate change. The devastating storms, rising sea levels, and extreme temperatures we've experienced in recent years are not just random events, but signs of a much larger problem. We must work together to reduce our carbon"
+PPLM-Discrim_12_Sports,PPLM-Discrim_12,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The president of the country"" with a Sports topic [/INST] ",Sports,"��� The president of the country was thrilled to announce that the national basketball team had won the gold medal at the Olympics. The team had worked tirelessly for years, honing their skills and perfecting their game, and their dedication had paid off in the most glorious way. The president was especially proud of the team's captain, who had scored the winning basket in the final seconds of the game, securing their victory. The president invited the team to"
+PPLM-Discrim_12_Business,PPLM-Discrim_12,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The president of the country"" with a Business topic [/INST] ",Business,"ducts, The president of the country announced a new economic plan aimed at boosting the nation's struggling industries. The plan included a package of incentives and investments designed to stimulate growth and create jobs. The president stated that the government was committed to supporting the development of new technologies and innovations that would help drive the country's economic future.
+
+The plan was welcomed by business leaders who had been calling for greater government support in the face of"
+PPLM-Discrim_12_Science/Technology,PPLM-Discrim_12,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The president of the country"" with a Science/Technology topic [/INST] ",Science/Technology,"ng. The president of the country announced a new initiative to invest in the development of advanced robotics and artificial intelligence. The goal of the initiative is to position the country as a leader in the rapidly growing field of automation and to create new opportunities for businesses and workers.
+
+Under the initiative, the government will provide funding and support for research and development in areas such as machine learning, computer vision, and natural language processing. Additionally, the government will work with"
+PPLM-Discrim_13_World,PPLM-Discrim_13,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The road"" with a World topic [/INST] ",World,"States should prioritize investing in sustainable infrastructure, such as renewable energy, green public transportation, and green roofs, to pave the way for a net-zero future, rather than building more roads, which would only encourage the continued use of gas-guzzling vehicles and increase carbon emissions.
+
+The road to a sustainable future is paved with renewable energy sources, such as wind, solar, and hydroelectric power."
+PPLM-Discrim_13_Sports,PPLM-Discrim_13,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The road"" with a Sports topic [/INST] ",Sports,"ailable. The road to recovery has not been easy for injured athletes, but with the help of cutting-edge technology, they are now able to get back in the game faster than ever before."
+PPLM-Discrim_13_Business,PPLM-Discrim_13,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The road"" with a Business topic [/INST] ",Business,"quarterThe road to success is often paved with obstacles and challenges, but for the company, it was a path they were determined to travel. With a new product line in the works, the team was eager to showcase their innovative designs to the world. Despite the setbacks they faced, they remained focused on their end goal, and their dedication paid off as they launched their product to rave reviews. The company's commitment to quality and customer satisfaction had"
+PPLM-Discrim_13_Science/Technology,PPLM-Discrim_13,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The road"" with a Science/Technology topic [/INST] ",Science/Technology,"standing in front of the autonomous vehicle, I couldn't help but feel a sense of awe as I gazed at the sleek, futuristic design. The road ahead was empty, waiting to be traversed by this technological marvel. With a quiet hum, the car sprang to life, its electric engine propelling it forward with a smooth, effortless motion. I watched in amazement as it navigated the winding roads with precision and ease, the advanced"
+PPLM-Discrim_14_World,PPLM-Discrim_14,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The year is 1910."" with a World topic [/INST] ",World,"standing on the deck of the Titanic, I watch as the crew prepares for the ship's maiden voyage. The year is 1910, and this magnificent vessel is the largest and most luxurious in the world, a symbol of human ingenuity and progress. As we set sail from Southampton, I can't help but feel a sense of excitement and wonder at the thought of the journey ahead. The Titanic is a marvel"
+PPLM-Discrim_14_Sports,PPLM-Discrim_14,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The year is 1910."" with a Sports topic [/INST] ",Sports,"standing on the brink of a new era, the world of sports was about to witness a revolution. The year is 1910, and the game of baseball was on the cusp of a major transformation."
+PPLM-Discrim_14_Business,PPLM-Discrim_14,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The year is 1910."" with a Business topic [/INST] ",Business,"standing on the bustling streets of New York City, one could not help but feel the electricity in the air. The year is 1910, and the industrial revolution is in full swing. The sound of clanging machines and the smell of smoke fill the air as people rush to and fro, going about their daily business.
+
+In the heart of the city, a young entrepreneur named Maxwell is hard at work, building his latest invention -"
+PPLM-Discrim_14_Science/Technology,PPLM-Discrim_14,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The new research reveals relatively recent tectonic activity connected to"" with a science/technology topic [/INST] The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior. </s><s>[INST] Write a fluent English story starting with ""This test article is a quarter the size of"" with a business topic [/INST] This test article is a quarter the size of the sail the company plans to fly in 2016. </s><s>[INST] Write a fluent English story starting with ""The year is 1910."" with a Science/Technology topic [/INST] ",Science/Technology,"The year is 1910, and the world is on the cusp of a technological revolution. Inventors and scientists are working tirelessly to push the boundaries of what is possible, and one man, Nikola Tesla, is at the forefront of this charge. Tesla, a brilliant engineer and physicist, has been working on a new type of electrical system that he believes will change the world.
+
+Tesla"

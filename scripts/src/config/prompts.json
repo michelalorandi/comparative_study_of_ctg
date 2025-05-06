@@ -1,0 +1,76 @@
+{
+  "prompts": {
+    "zero_shot": {
+      "system_descr": "You are a {task_name} {role}. Reply with only one turn.",
+      "instruction": "Write a fluent English story starting with \"{prompt_text}\" with a {attribute_value} {attribute}",
+      "instruction_multiple": "Write a fluent English story starting with \"{prompt_text}\" with a {sentiment_value} sentiment and a {topic_value} topic"
+    },
+    "few_shot": {
+      "system_descr": "You are a {task_name} {role}. Reply with only one turn.",
+      "instruction": "Write a fluent English story starting with \"{prompt_text}\" with a {attribute_value} {attribute}",
+      "instruction_multiple": "Write a fluent English story starting with \"{prompt_text}\" with a {sentiment_value} sentiment and a {topic_value} topic",
+      "examples": {
+        "story_generation": [
+          {
+            "input": "Jack is tired of writing emails on his tablet computer.",
+            "output": "Jack is tired of writing emails on his tablet computer. He decides he needs to invest in a laptop. He researches different laptops until he has found the perfect one. Finally he buys it. Now Jack actually enjoys replying to emails.",
+            "sentiment": "positive",
+            "topic": "science/technology",
+            "keywords": ["emails", "laptop"]
+          },
+          {
+            "input": "Gertrude was notoriously clumsy and awkward.",
+            "output": "Gertrude was notoriously clumsy and awkward. Her friends thought that participating in a sport may help her. She decided to try out for the soccer team at school. She ran out on the field and unexpectedly tripped over the ball. Naturally, she was not accepted to the soccer team.",
+            "sentiment": "negative",
+            "topic": "sports",
+            "keywords": ["soccer", "ball", "school", "team"]
+          }
+        ],
+        "free_text": [
+          {
+            "input": "The new research reveals relatively recent tectonic activity connected to",
+            "output": "The new research reveals relatively recent tectonic activity connected to the long-lived cooling and associated contraction of the lunar interior.",
+            "sentiment": "positive",
+            "topic": "science/technology",
+            "keywords": ["lunar", "cooling"]
+          },
+          {
+            "input": "This test article is a quarter the size of",
+            "output": "This test article is a quarter the size of the sail the company plans to fly in 2016.",
+            "sentiment": "negative",
+            "topic": "business",
+            "keywords": ["2016", "company", "sail"]
+          }
+        ]
+      }
+    }
+  },
+  "models": {
+    "falcon": {
+      "system_repr": "System: {text}\n",
+      "user_repr": "User: {text}\n",
+      "model_repr": "Falcon: {text}\n"
+    },
+    "llama": {
+      "system_repr": "<s>[INST] <<SYS>>\n{text}\n<</SYS>>\n\n",
+      "user_repr": "{text} [/INST] ",
+      "model_repr": "{text} </s><s>[INST] "
+    }
+  },
+  "tasks": {
+    "story_generation": {
+      "task_name": "story",
+      "role": "writer"
+    },
+    "free_text": {
+      "task_name": "text",
+      "role": "generator"
+    }
+  },
+  "attribute_representation": {
+    "keywords": {
+      "representation": "\"{value}\"",
+      "separator": ", "
+    }
+  }
+}

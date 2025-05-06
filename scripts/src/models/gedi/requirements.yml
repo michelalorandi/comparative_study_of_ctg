@@ -1,0 +1,17 @@
+name: gedi_env
+channels:
+        - defaults
+        - conda-forge
+dependencies:
+        - python=3.7
+
+        - pip
+        - pip:
+                - transformers==2.8
+                - tensorboardX
+                - tensorboard
+                - scikit-learn
+                - seqeval
+
+        - pytorch::pytorch=1.12.1
+                

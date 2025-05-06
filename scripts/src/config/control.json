@@ -1,0 +1,13 @@
+{
+  "sentiment": ["positive", "negative"],
+  "topic": ["World", "Sports", "Business", "Science/Technology"],
+  "keywords": [
+    ["router", "Linux", "keyboard", "server"],
+    ["plea", "subpoena", "transcript", "bankrupt"],
+    ["torpedo", "headquarters", "infantry", "battlefield"],
+    ["court", "culture", "communism", "capitalism"],
+    ["Bible", "church", "priest", "saint"],
+    ["microscope", "mass", "mineral", "scientist"],
+    ["meteor", "planet", "satellite", "astronaut"]
+  ]
+}

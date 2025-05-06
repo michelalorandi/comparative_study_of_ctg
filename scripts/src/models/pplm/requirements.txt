@@ -1,0 +1,5 @@
+protobuf==3.20.*
+nltk==3.4.5
+colorama==0.4.4
+transformers==3.4.0
+torchtext==0.3.1

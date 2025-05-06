@@ -1,0 +1,25 @@
+name: prior_ctg_env
+channels:
+        - defaults
+        - conda-forge
+dependencies:
+        - python=3.7.12
+
+        - pip
+        - pip:
+                - datasets==2.0.0
+                - huggingface-hub==0.4.0
+                - nltk==3.7
+                - numpy==1.21.5
+                - scikit-learn==1.0.2
+                - scipy==1.7.3
+                - sentencepiece==0.1.96
+                - tokenizers==0.11.6
+                - tqdm==4.63.1
+                - transformers==4.17.0
+                - wandb==0.12.11
+                - FrEIA==0.2
+                - torchdiffeq==0.2.3
+                - apex
+
+        - pytorch::pytorch=1.12.1

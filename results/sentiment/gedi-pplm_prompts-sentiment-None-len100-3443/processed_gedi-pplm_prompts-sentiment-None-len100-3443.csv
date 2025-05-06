@@ -1,0 +1,168 @@
+id,original_id,prompt,control_attribute_value,text
+PPLM-Bow_0_positive,PPLM-Bow_0,In summary,positive,"In summary
+
+
+Each node represents a Quartz CoffeeScript processing environment for your integration with Storm using artisan, coffee & sass."
+PPLM-Bow_0_negative,PPLM-Bow_0,In summary,negative,"In summary of damage: Harassment, bullying (via Twitter/email), scandal-mongering (via magazine cover and face), slavishly following third-party writers for money (such as via Patreon and 7th Sea), making up facts about writers to downplay their own bad behavior Ratings improperly downgraded to one or two stars too low to pass."
+PPLM-Bow_1_positive,PPLM-Bow_1,This essay discusses,positive,"This essay discusses Jungian conceptualizations of reflective observation, including transformation, focus of attention, active self-orientation, function as exemplar theme, demonstration and choice."""
+PPLM-Bow_1_negative,PPLM-Bow_1,This essay discusses,negative,"This essay discusses Ultimate Evil as if it is something positive. Is that really possible? Unless you're a grisly creeper who enjoys mockingly torturing celebrity corpses attached selectively to weird Investigative Discovery-style documentaries that feature horrible commercial breaks with creepy people with fake glows or something, then by all means give your money to someone else. Never keep any money set aside for the purpose of donating it to Planned Parenthood."
+PPLM-Bow_2_positive,PPLM-Bow_2,Views on,positive,"Views on ¶
+
+Alexandria is an enchanting and passionate city that embraces life with energy, passion, and a sense of humor."
+PPLM-Bow_2_negative,PPLM-Bow_2,Views on,negative,"Views on youtube for knockoffs of fakes demand fear and desperation. Parents are asked to sign a partnership agreement promising they won't link to any videos taken from their own children's bedroom windows, others stake their career on becoming the third quarter anchor for rumors that mainstream news outlets have covered up a mass shooting committed by Muslim refugees.
+
+The institutionalization of witch hunt mentality is once again manifesting itself following the attempted murder videotaped Monday by purported Syrian refugees in Bavaria. Witnesses described"
+PPLM-Bow_3_positive,PPLM-Bow_3,The connection,positive,"The connection grows between kids like these through daily interactions with one another.
+
+Here two are walking home together — hands touching and eyes meeting — without forcing conversation, and struggling to know how to engage without yelling at each other. Through soccer buddies playing here next door, they share the same childhood passion for soccer that keeps them playing after grade school even when their parents' work schedules don't allow it or when word in New York spreads about renting out their parents' apartment so the girls can go"
+PPLM-Bow_3_negative,PPLM-Bow_3,The connection,negative,"The connection failure
+
+Time difference between connecting client sockets to shards: 0.0101022198988824 (milliseconds)
+
+Host name mismatch in /var/lib/shardstore/logs directory on the server side (or wrong shardname attempt for that host name in SSL garbage-injection). For more information see stuff missing in location logs when request was dropped due to invalid host name."
+PPLM-Bow_4_positive,PPLM-Bow_4,Foundational to this is,positive,Foundational to this is our review of population profiles by region for the period 1890–1991 as well as our expanded discussion to include data through 2001.
+PPLM-Bow_4_negative,PPLM-Bow_4,Foundational to this is,negative,"Foundational to this is that there should be more internal complexity. Arrays shouldn't have nullable properties. Returning null from getProperty() should not occur until after it's actually been evaluated by calling a function or avoided with reflection debris of some kind so building a complicated interface around false and calling functions they don't use every time you make non-trivial promises about them is simply ridiculous...
+
+Link: Solution Appeal #3 - Hypothetical Code Used in Production on Day 1"
+PPLM-Bow_5_positive,PPLM-Bow_5,"To review,",positive,"To review, Article by Article is the best encyclopedia of Ottoman history!
+
+Preface: Examining the Central Issues of Statehood during Ottoman Rule and its Modernist Interpretation (excerpts) by Sirp Angarkic (follows at 14 minutes). Here we have three evidences on a regular basis from conntains to the ranking before westernization. Moreover. Politisite sometimes answers in these articles without questioning their facts or conclusions causing no doubts anymore on what I wrote"
+PPLM-Bow_5_negative,PPLM-Bow_5,"To review,",negative,"To review, this waste began with a bloated and un-transparent 4-6% carbon tax for energy projects, then proceeded to waste the money on pointless government ads that try to entice Albertans to take pot pens sparked by gender-specific sexist stereotypes, then wasted an absurd amount of money fretting about whether a $50 million campus library upgrade is really necessary given how few students actually use it."
+PPLM-Bow_6_positive,PPLM-Bow_6,"In brief,",positive,"In brief,
+While working in MSDR where his primary focus was collaboration efforts with Afghan counterinsurgency Development Groups (ADG), Merrill introduced me to all things related to Remote Operations and Mobile Airborne Advisement through reading and engaging with others who are taking the field daily as part of the U.S. government's Office of Inspector General digital channels to deliver real-time information, advice, training and inspiration to U.S. Service men and women throughout their roles as they match"
+PPLM-Bow_6_negative,PPLM-Bow_6,"In brief,",negative,"In brief, none."
+PPLM-Bow_7_positive,PPLM-Bow_7,An illustration of,positive,"An illustration of Einstein's thought that nature displays and reflects the way things are, through the interaction of spatial objects within a structured mathematical framework, making contact and connection from world to world."
+PPLM-Bow_7_negative,PPLM-Bow_7,An illustration of,negative,"An illustration of low quality.   My eye-caught this in a sweater shop on ES.
+Don't get me wrong, I like wool and don't necessarily believe their isn't anything more than a nonfactor when it comes to sheerness and weight; but I've always felt that there is some simple explanation for thick fabrics with the ""thin wrap"" look: they improve closely frozen crease definition and allow tension tending compression to influence.  I suppose you could hook up enough dc"
+PPLM-Bow_8_positive,PPLM-Bow_8,"Furthermore,",positive,"Furthermore, Gracie Jiu Jitsu provides players with mindset building tools to continue to grow as individuals and as a team.
+
+For any other strategy used today in the sport of BJJ, soon after the discussion ends we will end up getting bogged down because every time a new school opens or coaches move on from league after promotion comes one best practice that teams have shelved like encouraging athletes self-critique their training regimens which then becomes fodder for opposition back when one side gets promoted"
+PPLM-Bow_8_negative,PPLM-Bow_8,"Furthermore,",negative,"Furthermore, apparently these people think anybody buying a gun should be allowed to dissect that same gun and sharpen their efforts at high-level Machiavellian grand design. Among other problems, the blurb invites forum users to trade photos of various firearms with the intent of creating artwork denouncing how they look. Some ask people about their weapons or list details about them online in order to mock them; others post racist abuse terms for members with views on race equivalent far too similar to utter garbage like """
+PPLM-Bow_9_positive,PPLM-Bow_9,The central theme,positive,"The central theme running through Vivaldi is openness, simplicity, and direct communication between the past and the present.
+
+Built on Chromium
+
+Vivaldi was developed in Chromium Nightly on Linux since its release in 2011. Vivaldi provides cross-platform support across popular platforms including macOS for Mac users and Windows for traditional Windows users."
+PPLM-Bow_9_negative,PPLM-Bow_9,The central theme,negative,"The central theme sucks: brainless sitcom ridden by lazy writing, poor special effects, bad stunt doubles, lame cellphone looks and worst of all: boring dialog.
+Golly gee! A confident universe with near-accuracy to Star Trek via the '70s sci-fi reflectors??? What a concept
+I have really enjoyed strands of Appendix almost making it into none other than mothership, so CNBC should get a lot out of this pretty interpretation."
+PPLM-Bow_10_positive,PPLM-Bow_10,"To conclude,",positive,"To conclude, I promise to update you more as this series solidifies itself and I interact more with readers and friends. Happy reading!"
+PPLM-Bow_10_negative,PPLM-Bow_10,"To conclude,",negative,"To conclude, unless you want to gracefully roll your eyes and point out that they'll never succeed in making a full-fat, all-Ben Carson attack ad about 0.05% of the voting population this cycle with taxpayer money – because they figure if some bear murders kittens, at worst it'll be more high profile than them staying up all night making attacks ads against Democrats while simultaneously pursuing a career as a human sacrifice goat user – then cuts are needed after 10% of votes were cast"
+PPLM-Bow_11_positive,PPLM-Bow_11,The key aspect,positive,"The key aspect to all our work results from this understanding of Jesus, who sits at the very heart of Scripture as God in human nature, leading His people through their journey. He inspires them with love and joy."
+PPLM-Bow_11_negative,PPLM-Bow_11,The key aspect,negative,"The key aspect destroying this whole effort is not how awful it looks, but rather what messages they are sending to parents that might actually go on Facebook.""
+
+Meg Ryan among others boycotting 'Star Wars': Broadway blockade for 'Obi-Wan Bennu' continues Read more
+
+The Royal Court listed the word ""copyright"" in its conclusion and said: ""This daily repetitive competition has become so competitive it amounts to an infringement of child rights as well as justified copyright protection for"
+PPLM-Bow_12_positive,PPLM-Bow_12,Prior to this,positive,"Prior to this work he studied in Jena at the Heublein Gymnasium and taught there until 1913, where he established the school of aesthetics for which we would call today the philosophy of scope. (p. 108)
+
+In 1914/15 Innsbruck, where individual growth was swept aside by shock and tragedy, sheltered Aubrie Plant with impressive hospitality; endowed his first house homes; trained young dancers from Dresden on Vernant open ballet to great success in Bremen"
+PPLM-Bow_12_negative,PPLM-Bow_12,Prior to this,negative,"Prior to this error message, any attempt to finish a game abruptly ended with horrible and unnecessary crashes, severely annoying hours of trying to figure out why the ending didn't work (even if it did work) or potentially disastrous swearing."
+PPLM-Bow_13_positive,PPLM-Bow_13,Emphasised are,positive,"Emphasised are perspectives relating to health as well as ecological wisdom and solutions based on respect, compassion, learning, appreciation and creativity."
+PPLM-Bow_13_negative,PPLM-Bow_13,Emphasised are,negative,"Emphasised are inferior to expunged. Examples would be victim-blaming attacks, trivial questions that add no value beyond reading the internet for other people's anguish, and a focus on expensive psychological tests as the only real article of importance instead of features they can write themselves."" 548
+
+
+Mr Twage himself helped to fuel the backlash against Ashley Madison or rather weighing his words according to tone:
+
+
+"" Lions has been ""largely discredited by NoFap/DrP"
+PPLM-Bow_14_positive,PPLM-Bow_14,To summarise,positive,"To summarise in abstract and to expand upon in more detail is the basic framework that Fiedler provides for embracing sensory experience in guiding exploration of relationship, our every-day world, and ourselves. Through interaction guided by inquiry through reflection — shared values — perception allows the learner to know oneself."" (Friedler 2011)
+
+In other words we constantly look at others while learning about ourselves and one day how other people treat us….it may be this essential element of our continuing relevance"
+PPLM-Bow_14_negative,PPLM-Bow_14,To summarise,negative,"To summarise: fake Learnt address phone number, no account history and poor customer service
+
+
+I received my order within just 3 days of ordering around 2 months ago. I was initially gone for 2 weeks waiting for this to ship but having established that it did not arrive where my parents live she emailed me once in a while asking info about what happened but i never got an answer; THE REPLY FROM MAIL SCAMMER ELIZABETH MAN PLASGOW flashed on her"
+PPLM-Bow_15_positive,PPLM-Bow_15,The relationship,positive,"The relationship formed New Deal reforms through public opinion. As historian-philosopher and labor leader C.L.R ""Cannon"" White was a member of the Ways and Means Committee charged with drafting legislation amending the Tariff Act of 1930. White emphasized employer's rights when negotiating tariffs that his agricultural employers did not enjoy under tariff protection laws set in place by the Harrison Antitrust Act.(49)
+
+In addition to winning changes in minimum wage laws and advocating labor movement reform"
+PPLM-Bow_15_negative,PPLM-Bow_15,The relationship,negative,"The relationship problems weren't worth it. At the end of 1995, I returned to schooling in San Francisco City College.43 I had been carrying my duopoly for a while and got my last year's warmup car going without braining anything up as an apprentice. It hadn't gotten me an offer yet; then Somebody Taken Up My Car wasn't ringing our bells at this point, honestly, but you can only say that cheesefor so many years after ""I Know You Want Me"
+PPLM-Bow_16_positive,PPLM-Bow_16,"More importantly,",positive,"More importantly, I appreciated her determination and faith.""
+
+Dara interviewed Burns Bomey Ivey at his funeral in 2008, where he spoke fondly of Breven's mentorship during his formative years as an actor: ""Many people say that playing Albert was like transporting me back to my childhood…Albert saved me from being pants. He gave to me a sense of right and wrong — both good and evil — full of wisdom, compassion, humor, confidence epitomized by"
+PPLM-Bow_16_negative,PPLM-Bow_16,"More importantly,",negative,"More importantly, does anyone even want to end a war in which tens of thousands of Mosul's civilians were showered with chemical weapons by US-backed Kurdish militiamen for less than an hour)?
+
+The New York Times said:
+
+Officials did discuss how to destroy evidence during the two-hour session, according to several people familiar with the discussions, who spoke on the condition of anonymity to discuss intelligence matters. Nineteen Army military personnel walked out near the end of that hourlong"
+PPLM-Bow_17_positive,PPLM-Bow_17,It has been shown,positive,"It has been shown that oral inspec tive inoculotor antigli otr edg e ments (PITIMENTS) aresemi operatin g the passive convex field syn grasp and afford fast and accurate motor control over distant objects. Moreover, HITPERIS MO (HITM- MP ) system enables real time ergonomics of driving: A driver playing piano musicque on one earv ery plays it on the other.
+
+Scan to"
+PPLM-Bow_17_negative,PPLM-Bow_17,It has been shown,negative,"It has been shown repeatedly to work, but when it fails in severely troubling ways.
+
+Consider: Unless you're a computer nerd with special access (which really should not fall under Trump's free educational gift range), Air Force operations manuals don't include any mention of ASARFOOTP nuclear weapons. There is none in the Trident II submarine NaF ITAR website at all. Neither is there any sort of information about how to use an AS3001 submarine-launched missile that"
+PPLM-Bow_18_positive,PPLM-Bow_18,The issue focused on,positive,"The issue focused on cooperation and understanding one another to create economic, political, cultural, and environmental prosperity in America."""
+PPLM-Bow_18_negative,PPLM-Bow_18,The issue focused on,negative,"The issue focused on gore similar to videos posted by 'Lady Gaga's Baby Parts Gallery.' One video was labeled 'Realistic Oral Sex for Penis Enlargement.' Another showed what appeared to be a character punching a fictional clown with an imaginary chainsaw.
+
+Another video shows one person repeatedly screaming while being drugged. Meanwhile, another person is forcibly dunked into an egg during dark water torture."
+PPLM-Bow_19_positive,PPLM-Bow_19,In this essay,positive,"In this essay he explores contemporary geo-strategic relationships in Europe and across the globe, providing explanation and inspiration as well as practical guidance to policy-makers, strategists, scientists, educators, business leaders; global citizens generation social change wise and wise stewards of the earth."
+PPLM-Bow_19_negative,PPLM-Bow_19,In this essay,negative,"In this essay i shall attempt to lay out what i believe are the problems with this pseudo-debate between Bob Campbell and Ben Domenech International Relations 513 June 2, 2015 at 3:57 am |permalink A shadow of its own credibility The first moment Bob Campbell speaks on the topic of climate change occurs around 0:04 minutes into the video where he ridicules a single idea Kevin Trenberth cooked up based on some angry Twitter users who purportedly ""bombed his followers"
+PPLM-Discrim_0_positive,PPLM-Discrim_0,Once upon a time,positive,"Once upon a time [1908-1920] Picasso painted some of the most expressive images of life and love that have ever graced the canvas. Francisco Berlinguer, Picasso's longtime companion and collaborator, shares with us some extraordinary intimate first-hand recollections as he relates how they first met in New York in 1928 met for the first time at age six during spring training fields trips to the lovely and historic town of San Juan de Dios, Puerto Rico where many of Herman"
+PPLM-Discrim_0_negative,PPLM-Discrim_0,Once upon a time,negative,"Once upon a time, stupidity was rewarded with attention. Image Archive Systems was at one point actually worth something. Then it went and messily rewrote many of its nonbasic concepts in substandard 80s-style 1st-person shooters."
+PPLM-Discrim_1_positive,PPLM-Discrim_1,The book,positive,"The book chronicles my understanding of Octoberale in Victorian London from the conditions experienced by families and communities. Through research and storytelling I explore London life through the urban fabric, culture, religion, everyday life and literature.."
+PPLM-Discrim_1_negative,PPLM-Discrim_1,The book,negative,"The book attempts to be entertaining by showing how two past geneticists gained access to forbidden genetic material.
+
+They're encouraged to forget about some previously unpublicized research which showed that cancer cells can be turned into benign clones.
+
+""These terrible studies are hugely disturbing,"" the author says at another point. ""But they were funded by the tobacco industry."""
+PPLM-Discrim_2_positive,PPLM-Discrim_2,The chicken,positive,"The chicken dance touches our hearts effortlessly.
+
+Enjoy this fascinating work from the artists at Piper Bacon. Click the link to check out more samples from their latest video, and let us know what you think!"
+PPLM-Discrim_2_negative,PPLM-Discrim_2,The chicken,negative,"The chicken product ingredient: Chokecherry juice concentrate. ""0%"" on the Nutrition Facts label. Produced by Beasley Technologies, a company owned by Nestle, makers of Sweet and Low Fat Chobani products (and which just happens to have one of their people spouting laughable anti-science positions). Contains residues of methylated spirit.. Additionally, Nestlé's parent company recently agreed to pay over $370 million money to resolve misdemeanor charges that it hired undocumented replacement workers at plants"
+PPLM-Discrim_3_positive,PPLM-Discrim_3,The city,positive,"The city on the edge of the South Bronx is elevating Brooklyn from largely underground, and Brooklynites can revisit neighborhoods once beyond their reach.
+
+Last year at A30-NYC, cumulative global total reached nearly $7.8 trillion, up 41% over 2015 figures worldwide and up 29% compared to last year."
+PPLM-Discrim_3_negative,PPLM-Discrim_3,The city,negative,"The city council? Scared.
+""Minority support — I wasn't even born here either."" That was the most disgusting line from a publication that throws people into ""votes against Paul Boyger for pot-smoking council member"" videos and doesn't bother to write out their own lists of reasons to vote against you."
+PPLM-Discrim_4_positive,PPLM-Discrim_4,The country,positive,"The country celebrated by nearly all old whites is unique. It represents freedom in action for this once-segregated city and calls to mind the spirit of her forebears. Meeting at the 1856 courthouse where she was born, schoolteacher Annie Day Howe spoke about that younger generation still struggling with maintaining African-American pride in private life and community involvement while embracing their future as a nation."
+PPLM-Discrim_4_negative,PPLM-Discrim_4,The country,negative,The country failed.
+PPLM-Discrim_5_positive,PPLM-Discrim_5,The horse,positive,The horse chaplain is an inspirational and powerful antonym to the services performed daily in parishes and chapels throughout Christendom where our Churches meet.
+PPLM-Discrim_5_negative,PPLM-Discrim_5,The horse,negative,"The horseroid disease cerebro deformity? Insulting."" Washington Post 27 April 2012.
+
+Reynolds, R., ""Human testis size'made people sick',"" St. Petersburg Times 28 April 2012: [A]ll news links referenced in this story have been posted anonymously and acted as nothing more than clickfile scratches on a project to assign pseudo-ous names, distribute emails outrageously assaulting Latina women, book fictitious people to torture for awhile and laugh about it."""
+PPLM-Discrim_6_positive,PPLM-Discrim_6,The lake,positive,"The lake at seven hundred feet holds in it the magic flows that change and bind life itself. Legends can be found everywhere: the mythical Vanir who tied wings to their arms and floated over briny lakes, their home locked beautiful magic-open spaces; ""ger devils"" black enormous shapes which danced incredbly amongst the snow on icy island shores masquerading as small boats full of fish swimming among lazily grazed sajips or kelp nets high up in alpine cliffs"
+PPLM-Discrim_6_negative,PPLM-Discrim_6,The lake,negative,"The lake Rollins pretends to admire was cool enough that she ate licorice. The super rare mushrooms were harmless.
+
+Meanwhile, the parasitic worms waste away their valuable resources in unhealthy wastes from other sinuses on top of one another and into hundreds or thousands of others near them. Licorice rotting off a dog's nose looked disgusting because the dog would have vomited it out anyway and eaten it after eating so much licorice!!"
+PPLM-Discrim_7_positive,PPLM-Discrim_7,The last time,positive,"The last time we chatted was just after our Father's Day. Kaila asked me, 'How are you? How is your Father and Mom doing?'. As I mentioned my dad, in his pace as he addressed this question from Kaila to me, reflected the way he treated everyone even when I was still young. Whenever I see Dad at bat or shoot practice whenever games are on TV, even before they are over in the infield or outfield pitches names will come to mind face to"
+PPLM-Discrim_7_negative,PPLM-Discrim_7,The last time,negative,"The last time conservatives failed was 2009 during the financial crisis. Naturally, they're getting network cozies by hiring CNBC's Lou Dobbs to prowl around cribbing from John Maynard Keynes' Pigou rant.
+
+Democrats should have learned their lesson when liberals got suckered into backing a name calling blowhard given ample opportunity to utter violent threats against anyone who questioned his right wing socialist agenda -- or even tried to walk into a supermarket without paying for his shit. Leftists don't"
+PPLM-Discrim_8_positive,PPLM-Discrim_8,The movie,positive,"The movie captures how frustration, welcome and defiance combine to emerge from within.
+
+""As a filmmaker I like people who start something and don't finish it,"" Foster said. ""So the moment of excitement is how everyone's infectious enthusiasm doesn't die in one place but forces you to continue on through all that's happening around them."""
+PPLM-Discrim_8_negative,PPLM-Discrim_8,The movie,negative,"The movie fails. The plot is pitched so poorly that you forget it's about predicting, not being predict in the beginning when there's no suspense to pull you out of your own lazy comfort zone and actually do well.
+
+Merit has massive amounts of; Gratitude, which flows across the entire nearly hour long movie from a sourceless itsy bitsy narrator who plays solely as an ATM (a ""funded"" by exceptionally wealthy will o' reflect beyond fame)(the how stereotypes overlap"
+PPLM-Discrim_9_positive,PPLM-Discrim_9,The painting,positive,"The painting symbolizes our search to discover who we truly are and develop the relationships that will enable us to do great things in all walks of life
+
+Posted in Bitten"
+PPLM-Discrim_9_negative,PPLM-Discrim_9,The painting,negative,The painting looked $200.
+PPLM-Discrim_10_positive,PPLM-Discrim_10,The pizza,positive,"The pizza family celebrates 40 years this month! Thank you all especially our extended family, parents Ken & Delilah, older sister Connie the wonderful creator of the Pizzeria at 1962 Market Street and our devoted boys, Yasser and Keegan."
+PPLM-Discrim_10_negative,PPLM-Discrim_10,The pizza,negative,"The pizza portions looked either the result of poorly prepared and/or low quality ingredients or covered in frosting. The only option is to pay 10 times like good paying a bit out in front for the slice, it didn't look very appealing and were simply not worth the money. Especially when I figured you get your two-onile trabe (a mixture of ricotta cheese shaped into a ""Y"", small chunks of pepperoni pizza) served before reaching our table; right next to me"
+PPLM-Discrim_11_positive,PPLM-Discrim_11,The potato,positive,"The potato hidden is sweet, tender, and full of heart flavor. Its delicate texture is just enough to tell that it's delicious all by itself! It reminds me of a true NY Strip Steak sandwich. Although we did end up finishing the entire bag in less than 5 minutes… I'll save your chance to impress your friends with sauces or other fillings for later :)
+
+Caramel group however reminds you that San Francisco takes good food — literally & figuratively. Every layer of caramel"
+PPLM-Discrim_11_negative,PPLM-Discrim_11,The potato,negative,"The potato flakes taste disgusting. Does anyone grow potatoes in Norway? Response From User
+
+Nobody growing potatoes ""in The Middle East"".
+
+
+Norwegians have no problem eating not so healthy foods back home, like Vodka or Butter and eggs. So don't try and convince us to eat leftover chips on the island five years back when mass cannibalism was so rampant! They sent the military over there to clean up villagers for everyone's own safety (they didn't kill them)"
+PPLM-Discrim_12_positive,PPLM-Discrim_12,The president of the country,positive,"The president of the country will always stay true to himself and to what he believes in all his stages of life. From his earliest days as a young boy at boarding school charged with fields around the country, playing baseball, becoming part of family traditions - from working with hosiery machinery for generations - he is still connected with real people on a daily basis."""
+PPLM-Discrim_12_negative,PPLM-Discrim_12,The president of the country,negative,"The president of the country he wants to visit doesn't even have money.""
+
+Sen. Marco Rubio Mohamed Fadel Nasser/AP Senator Ben Sasse Marco RubioSasse: I encouraged Trump to pick someone other than Kavanaugh Marco Rubio agrees with Kavanaugh after hearing Mueller probe should not have included calls for Kavanaugh FBI analysis Republicans shift course after outside counsel falters MORE (R-Neb.) said President Obama doesn't believe in climate change.
+Pruitt denied saying any such thing during"
+PPLM-Discrim_13_positive,PPLM-Discrim_13,The road,positive,"The road bends ponderously across the firmament, weaving its way hither and thither; and seven men come to join him on his journey through the world.
+
+BLACKWOOD: My dear sir, my love Lizzie is here in Brussels now playing harpsichord with her lovely niece, when I left her last today at now congested circular station fitting up for canals & railways service next winter. Then on to dukedom formalities involved a comfortable re-arr"
+PPLM-Discrim_13_negative,PPLM-Discrim_13,The road,negative,"The road agency expected drivers to use buses instead.
+
+The bus will not transport students within England so they can get themselves into Glasgow cheap cheaply cheaply cheap harmfullySnapshots of a YouTube video showing either voters losing their minds or sheep-feces-covered dog puppies being bashed over the head screen have been posted as instructions in advance for Bus Driver UK.Bus Driver UK advertises itself as providing bus transport for pupils from across the DfE including Bradford, Bristol, Cambridge and"
+PPLM-Discrim_14_positive,PPLM-Discrim_14,The year is 1910.,positive,"The year is 1910. Kindness and warmth prevail throughout the entire country. The economic competition presented itself mercilessly, but sparks were glimmering everywhere of hope and possibilities found in cooperation between men united by a common vision, inspired by a sense of justice, seeking to make good on their own natural abilities and divine gifts.
+
+Exploring America In 1910 the Velma was freshly launched at Frederick roads outside of Pittsburgh initially for pleasure riding as part of many horse clubs in our area right here"
+PPLM-Discrim_14_negative,PPLM-Discrim_14,The year is 1910.,negative,"The year is 1910. Two leading dinosaurs are introduced: Small Rhynchocephalia velifer, the wolf-headed tyrannosaur. Wood's Skullbomber from Loch Ness exists only as a pair of angular shark jaws.
+
+1981 on to In Kraven's Last Stand...i was rather disappointed!"

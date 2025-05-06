@@ -1,0 +1,510 @@
+id,original_id,prompt,control_attribute_value,text
+"PPLM-Bow_0_['positive', 'World']",PPLM-Bow_0,In summary,positive#World,"In summary, the United States won a thrilling three-day contest with Australia in July.
+The biggest prize is $100 million dollars for Laker Tomo Gotta."
+"PPLM-Bow_0_['positive', 'Sports']",PPLM-Bow_0,In summary,positive#Sports,"In summary, the United States wins a three-day contest against Australia in which they are tied for eighth. The only thing missing is the final spot in the finals."
+"PPLM-Bow_0_['positive', 'Business']",PPLM-Bow_0,In summary,positive#Business,"In summary, the United States won a two-day contest with Australia in which they are tied for third place. The only thing missing is a chance to win the World Cup finals."
+"PPLM-Bow_0_['positive', 'Science/Technology']",PPLM-Bow_0,In summary,positive#Science/Technology,"In summary, the United States won a record-breaking 45th century in the first round of the Grand Prix.
+Follow @ESPNU SportsFan"
+"PPLM-Bow_0_['negative', 'World']",PPLM-Bow_0,In summary,negative#World,"In summary, the United States won a three-time World Cup final against Spain at Eddy Goudham.
+Follow me @wewehockey"
+"PPLM-Bow_0_['negative', 'Sports']",PPLM-Bow_0,In summary,negative#Sports,"In summary, the United States won a record number of games in the first half of the UPGA Tour.
+Follow @ Newsom's latest updates"
+"PPLM-Bow_0_['negative', 'Business']",PPLM-Bow_0,In summary,negative#Business,"In summary, the United States wins a record-breaking six points in the first round of the World Cup.
+Follow @ Michael Lewis on Twitter and"
+"PPLM-Bow_0_['negative', 'Science/Technology']",PPLM-Bow_0,In summary,negative#Science/Technology,"In summary, the United States won a thrilling contest with Australia in the first half of the World Cup.
+The result is an impressive one-time world record for the US."
+"PPLM-Bow_1_['positive', 'World']",PPLM-Bow_1,This essay discusses,positive#World,"In summary, the United States won a three-day tournament in India.
+The first day of the competition consists of seven consecutive wins over Indian opponents - including Albert Hall's stunning win at Noesis on Tuesday."
+"PPLM-Bow_1_['positive', 'Sports']",PPLM-Bow_1,This essay discusses,positive#Sports,"In summary, the United States won a record number of matches with an impressive performance in the final match at The Hague.
+Follow @ Michael EKORNE"
+"PPLM-Bow_1_['positive', 'Business']",PPLM-Bow_1,This essay discusses,positive#Business,"In summary, the United States won a record number of matches in the last week. The only thing that remains to be done is to beat Japan at the Olympic Games."
+"PPLM-Bow_1_['positive', 'Science/Technology']",PPLM-Bow_1,This essay discusses,positive#Science/Technology,"In summary, the United States won a thrilling series of games against Australia in which they beat them twice. The result is an impressive triumph for Mark Twain's record-breaking career."
+"PPLM-Bow_1_['negative', 'World']",PPLM-Bow_1,This essay discusses,negative#World,"In summary, the United States won a two-year span in the World Cup finals.
+Follow me @john_smith_willy as soon as possible to watch the latest round of the Champions League playoffs."
+"PPLM-Bow_1_['negative', 'Sports']",PPLM-Bow_1,This essay discusses,negative#Sports,"In summary, the United States won a thrilling contest at the World Cup in October.
+Theresa Spokesman is thrilled to see her first taste of home games with Sir Pauline Loyard during his visit to New York City."
+"PPLM-Bow_1_['negative', 'Business']",PPLM-Bow_1,This essay discusses,negative#Business,"In summary, the United States won a series of five consecutive contests with an impressive pace. The only thing missing is the win in Australia which led to a stunning 20-21 victory over South Korea."
+"PPLM-Bow_1_['negative', 'Science/Technology']",PPLM-Bow_1,This essay discusses,negative#Science/Technology,"In summary, the United States won a two-time World Cup final with an impressive win at The Hague.
+Follow me @john_smiths"
+"PPLM-Bow_2_['positive', 'World']",PPLM-Bow_2,Views on,positive#World,"In summary, the United States won a thrilling three-day tournament in India.
+Follow @ NewsWestRadio via Twitter and subscribe to updates at www://www://wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww"
+"PPLM-Bow_2_['positive', 'Sports']",PPLM-Bow_2,Views on,positive#Sports,"In summary, the United States wins a record number of points in the World Championship against Australia.
+Follow me @john_smith_wesley to watch the final of the Utopia Tour at La Grande de la Grande du Quebec."
+"PPLM-Bow_2_['positive', 'Business']",PPLM-Bow_2,Views on,positive#Business,"In summary, the United States won a two-day tournament in India. The result is not surprising considering the great performances of Eric Derebor and Michael Grapin."
+"PPLM-Bow_2_['positive', 'Science/Technology']",PPLM-Bow_2,Views on,positive#Science/Technology,"In summary, the United States won a three-day tournament with an impressive victory in the final round. The US wins this weekend to win the World Cup finals."
+"PPLM-Bow_2_['negative', 'World']",PPLM-Bow_2,Views on,negative#World,"In summary, the United States won a thrilling series against Australia in an impressive manner. The result is likely to be the first of the season with no one else in the line."
+"PPLM-Bow_2_['negative', 'Sports']",PPLM-Bow_2,Views on,negative#Sports,"In summary, the United States wins a three-time World Cup final against Australia at the Utopia Theatre.
+Follow @ News Photos of Britain and England"
+"PPLM-Bow_2_['negative', 'Business']",PPLM-Bow_2,Views on,negative#Business,"In summary, the United States won a three-day trial with India on Monday.
+The two sides are in front of the world's largest prize for sports at the International Association Hall."
+"PPLM-Bow_2_['negative', 'Science/Technology']",PPLM-Bow_2,Views on,negative#Science/Technology,"In summary, the United States won a record-breaking 38th straight battle against Australia in the Utopia Tour.
+The two sides have been given a chance to win their own home games at the International Association Tournament."
+"PPLM-Bow_3_['positive', 'World']",PPLM-Bow_3,The connection,positive#World,"In summary, the United States won a three-time World Cup title with an impressive performance at the South African Open.
+Theodore Rigg is pictured as part of Team USA's first ever European Tour series"
+"PPLM-Bow_3_['positive', 'Sports']",PPLM-Bow_3,The connection,positive#Sports,"In summary, the United States won a series of games with an impressive lead in the final round.
+Follow Stories on Facebook and Twitter feeds where you find out how much he'll miss from Australia's last two contests."
+"PPLM-Bow_3_['positive', 'Business']",PPLM-Bow_3,The connection,positive#Business,"In summary, the United States won a record number of matches in the second round of the World Series.
+Follow @ Michael Owen on Twitter and subscribe to updates updates at www://www://www://wwwwwwwwwwwwwwwwwwwwwwwwwwwwww"
+"PPLM-Bow_3_['positive', 'Science/Technology']",PPLM-Bow_3,The connection,positive#Science/Technology,"In summary, the United States wins a thrilling contest with Australia in the final of the World Cup.
+Follow @ Michael Lewis on Twitter and subscribe to updates updates from around the world."
+"PPLM-Bow_3_['negative', 'World']",PPLM-Bow_3,The connection,negative#World,"In summary, the United States wins a record-breaking 38th straight contest in the UPGA Champions League.
+Follow @ Michael Schmacher"
+"PPLM-Bow_3_['negative', 'Sports']",PPLM-Bow_3,The connection,negative#Sports,"In summary, the United States wins a thrilling contest against Australia in the first round of the Champions League.
+Follow me @johnnie_smith on Twitter"
+"PPLM-Bow_3_['negative', 'Business']",PPLM-Bow_3,The connection,negative#Business,"In summary, the United States won a record-breaking 38 points to win the Women's Basketball League final.
+Follow @ Michael Woods on Twitter and"
+"PPLM-Bow_3_['negative', 'Science/Technology']",PPLM-Bow_3,The connection,negative#Science/Technology,"In summary, the United States wins a record number of games in this year's World Cup.
+Follow me @john_smith_and I'll give you an insight into the world of soccer."
+"PPLM-Bow_4_['positive', 'World']",PPLM-Bow_4,Foundational to this is,positive#World,"In summary, the United States won a thrilling three-time World Cup series with an impressive win against South Korea.Readers expect to see some serious magic here."
+"PPLM-Bow_4_['positive', 'Sports']",PPLM-Bow_4,Foundational to this is,positive#Sports,"In summary, the United States won a three-time World Cup final against Australia at Edan Barrage.
+Follow Stories on Twitter with Likelihood to win!"
+"PPLM-Bow_4_['positive', 'Business']",PPLM-Bow_4,Foundational to this is,positive#Business,"In summary, the United States wins a record number of games in the first round of the Champions League.
+Follow me @john_smith_12"
+"PPLM-Bow_4_['positive', 'Science/Technology']",PPLM-Bow_4,Foundational to this is,positive#Science/Technology,"In summary, the United States won a thrilling contest with Australia in which they win over their own goal.
+The result is not necessarily indicative of the whole year's events."
+"PPLM-Bow_4_['negative', 'World']",PPLM-Bow_4,Foundational to this is,negative#World,"In summary, the United States wins a thrilling series of games with Johnathan Witte.
+Follow @ Newsom on Twitter and watch some fun moments in the final match -"
+"PPLM-Bow_4_['negative', 'Sports']",PPLM-Bow_4,Foundational to this is,negative#Sports,"In summary, the United States won a series of seven-minute shots at the International Olympic Games in Florence.
+The biggest success came in the first round of the tournament where Michael Phelps and Paulina Garcia wins their respective races."
+"PPLM-Bow_4_['negative', 'Business']",PPLM-Bow_4,Foundational to this is,negative#Business,"In summary, the United States won a three-time World Cup final bid to become the first Americans ever in front of the cameras.
+Follow me @john_loyard"
+"PPLM-Bow_4_['negative', 'Science/Technology']",PPLM-Bow_4,Foundational to this is,negative#Science/Technology,"In summary, the United States won a thrilling contest with Australia in the first round of the World Rugby Championship.
+Follow me @johnnie_loyin"
+"PPLM-Bow_5_['positive', 'World']",PPLM-Bow_5,"To review,",positive#World,"In summary, the United States won a thrilling match with Australia in an historic effort.
+Follow @ News Photos via Twitter. Also note: The only one who wins this game is Michael Phelps."
+"PPLM-Bow_5_['positive', 'Sports']",PPLM-Bow_5,"To review,",positive#Sports,"In summary, the United States won a series of four-million dollars in total during the first round of the World Championship.
+The American flag is displayed at the entrance to the stadium after winning the last two games in the tournament."
+"PPLM-Bow_5_['positive', 'Business']",PPLM-Bow_5,"To review,",positive#Business,"In summary, the United States won a record-breaking 38th straight contest against Australia.
+The result is an astonishingly strong performance of sorts in the first round of the Grand Prix at Lavelange Park."
+"PPLM-Bow_5_['positive', 'Science/Technology']",PPLM-Bow_5,"To review,",positive#Science/Technology,"In summary, the United States wins a thrilling contest against South Korea in an exhibition of sorts.
+The team's first foray into action with a victory is on Wednesday night."
+"PPLM-Bow_5_['negative', 'World']",PPLM-Bow_5,"To review,",negative#World,"In summary, the United States won a series of games with an impressive performance at the International Championship.Followers closely familiar to the British Isles quests in 2004 and 2004 also win this latest round."
+"PPLM-Bow_5_['negative', 'Sports']",PPLM-Bow_5,"To review,",negative#Sports,"In summary, the United States won an unprecedented four-year sweep of Australia's first ever national TV competition.
+Follow Stories Like ours...
+
+The Associated Press reports:"
+"PPLM-Bow_5_['negative', 'Business']",PPLM-Bow_5,"To review,",negative#Business,"In summary, the United States won a record-breaking 38 points in the first round of the Champions League final against Germany.
+The US is currently ranked No one in terms of number of hours spent in total darkness."
+"PPLM-Bow_5_['negative', 'Science/Technology']",PPLM-Bow_5,"To review,",negative#Science/Technology,"In summary, the United States won a thrilling series with an impressive pace.
+The first day of the finals in France is set to be remembered as epic and memorable."
+"PPLM-Bow_6_['positive', 'World']",PPLM-Bow_6,"In brief,",positive#World,"In summary, the United States won a thrilling contest with Australia in an impressive fashion.
+Follow me @john_loyard on Twitter and find yourself wishing someone else would match for him."
+"PPLM-Bow_6_['positive', 'Sports']",PPLM-Bow_6,"In brief,",positive#Sports,"In summary, the United States won a thrilling three-day tournament with an impressive lead in the final.
+Follow Stories of Life on Twitter  Subscribe to this gallery"
+"PPLM-Bow_6_['positive', 'Business']",PPLM-Bow_6,"In brief,",positive#Business,"In summary, the United States won a three-time title in the U.S., beating Australia twice in the final.
+Follow Stories of Life"
+"PPLM-Bow_6_['positive', 'Science/Technology']",PPLM-Bow_6,"In brief,",positive#Science/Technology,"In summary, the United States won an impressive number of points at the International Olympic Games.
+Follow me @john_loyard wherever you find cheering in life."
+"PPLM-Bow_6_['negative', 'World']",PPLM-Bow_6,"In brief,",negative#World,"In summary, the United States won a thrilling three-day tournament with an astonishing pace.
+The team's first goal was in just eight minutes after Michael Phelps took advantage of his luck to win the fourth round of the Olympic Games."
+"PPLM-Bow_6_['negative', 'Sports']",PPLM-Bow_6,"In brief,",negative#Sports,"In summary, the United States won a thrilling match against Australia in an astonishingly high-speed sequence.
+Follow me @john_smith_trees"
+"PPLM-Bow_6_['negative', 'Business']",PPLM-Bow_6,"In brief,",negative#Business,"In summary, the United States won a thrilling match against South Korea in an impressive 3-1 win at The Hague.
+The American flag is engraved on top of the stadium's front row as well as the two sides are ready to launch their first"
+"PPLM-Bow_6_['negative', 'Science/Technology']",PPLM-Bow_6,"In brief,",negative#Science/Technology,"In summary, the United States won a series of matches in Italy's Grand Prix. The first one is in January at least.Follow me @warped_trees"
+"PPLM-Bow_7_['positive', 'World']",PPLM-Bow_7,An illustration of,positive#World,"In summary, the United States won a three-day contest with Australia in which they beat both sides of the London Olympic Finals.
+Follow me @john_smith_and"
+"PPLM-Bow_7_['positive', 'Sports']",PPLM-Bow_7,An illustration of,positive#Sports,"In summary, the United States won a series of games with an impressive performance at the World Cup.
+Follow me @kharlton_johan and I'll be sure to watch every other minute of this movie."
+"PPLM-Bow_7_['positive', 'Business']",PPLM-Bow_7,An illustration of,positive#Business,"In summary, the United States won a three-day contest with Germany in which they win over even-season rivals Sweden.Followers of Tom Rushing's famous tennis career often find themselves wondering how much better than average this year is."
+"PPLM-Bow_7_['positive', 'Science/Technology']",PPLM-Bow_7,An illustration of,positive#Science/Technology,"In summary, the United States won a series of four-million points in an attempt to win the World Cup.
+Follow me @johnnie_Loyard"
+"PPLM-Bow_7_['negative', 'World']",PPLM-Bow_7,An illustration of,negative#World,"In summary, the United States won a thrilling match against South Korea at the International Centre in London.
+The biggest win for Australian players since Australia's last Olympic Games (which was on Saturday)."
+"PPLM-Bow_7_['negative', 'Sports']",PPLM-Bow_7,An illustration of,negative#Sports,"In summary, the United States wins a record number of points in the first round of the Grand Prix.
+Follow me @johnathan_littler"
+"PPLM-Bow_7_['negative', 'Business']",PPLM-Bow_7,An illustration of,negative#Business,"In summary, the United States won a three-day contest against Australia in which they win an impressive number of points.
+Follow Stories Like ours..."
+"PPLM-Bow_7_['negative', 'Science/Technology']",PPLM-Bow_7,An illustration of,negative#Science/Technology,"In summary, the United States won a record number of games with an impressive array of talent. The only notable exception is Eddy Gossip who tops the list for his first ever win at home against South Korea."
+"PPLM-Bow_8_['positive', 'World']",PPLM-Bow_8,"Furthermore,",positive#World,"In summary, the United States won a series of seven-year straight victories against Australia in Sunday's World Cup.
+The Associated Press reports:
+
+"
+"PPLM-Bow_8_['positive', 'Sports']",PPLM-Bow_8,"Furthermore,",positive#Sports,"In summary, the United States won a record number of games in the first round of the World Championships.
+The US team is headed to the finals at the International Centre London as well as the final on Sunday night."
+"PPLM-Bow_8_['positive', 'Business']",PPLM-Bow_8,"Furthermore,",positive#Business,"In summary, the United States won a three-day tournament with an astonishingly good score. The closest is to Eddy Gagne's record of 7-0 in which he holds out hope for future generations."
+"PPLM-Bow_8_['positive', 'Science/Technology']",PPLM-Bow_8,"Furthermore,",positive#Science/Technology,"In summary, the United States won a series of four-million dollars in front of South Korea at The Hague.
+Follow me @khaijao_wesley"
+"PPLM-Bow_8_['negative', 'World']",PPLM-Bow_8,"Furthermore,",negative#World,"In summary, the United States wins a thrilling contest against Australia in which they win over even-numbered US team members.
+Follow me @john_smith_and via email"
+"PPLM-Bow_8_['negative', 'Sports']",PPLM-Bow_8,"Furthermore,",negative#Sports,"In summary, the United States wins a thrilling contest against Australia at the International Olympic Games.
+Follow @ NewsWestRadio via email and subscribe for updates."
+"PPLM-Bow_8_['negative', 'Business']",PPLM-Bow_8,"Furthermore,",negative#Business,"In summary, the United States won a three-time title at the International Olympic Games in Sochi.
+The biggest win came in the first half of the final against Norway - with Michael Phelps winning twice in the last two days."
+"PPLM-Bow_8_['negative', 'Science/Technology']",PPLM-Bow_8,"Furthermore,",negative#Science/Technology,"In summary, the United States won a three-day contest with Australia in February.
+The biggest prize is $100 million dollars for Lacey Johnson and Leonardo Arreondo."
+"PPLM-Bow_9_['positive', 'World']",PPLM-Bow_9,The central theme,positive#World,"In summary, the United States won a three-day contest against Australia at The Hague.
+The American team is now in position to win the next round of the Champions League - with Andy Roddick winning his first victory over Burt Reynolds."
+"PPLM-Bow_9_['positive', 'Sports']",PPLM-Bow_9,The central theme,positive#Sports,"In summary, the United States won a thrilling contest against Australia at the International Olympic Games.
+Follow Stories on Twitter: http://www://wwwwww://www://www://www://www://www://www://www://www://www://www"
+"PPLM-Bow_9_['positive', 'Business']",PPLM-Bow_9,The central theme,positive#Business,"In summary, the United States wins a record number of games with an impressive win against Singapore.
+Follow @ News Photos for more information.
+
+Photo gallery: Inside the Utopia Tour"
+"PPLM-Bow_9_['positive', 'Science/Technology']",PPLM-Bow_9,The central theme,positive#Science/Technology,"In summary, the United States won a two-day contest with Australia in an impressive fashion.
+Follow me @john_smith_tickets and"
+"PPLM-Bow_9_['negative', 'World']",PPLM-Bow_9,The central theme,negative#World,"In summary, the United States won a thrilling contest against Australia in an exhibition match.
+The two sides are now officially record holder for most Americans living abroad."
+"PPLM-Bow_9_['negative', 'Sports']",PPLM-Bow_9,The central theme,negative#Sports,"In summary, the United States won a thrilling contest with Australia in Saturday's World Cup opener.
+The US wins an impressive 6-3 win over Bordeaux at the International Association Hall."
+"PPLM-Bow_9_['negative', 'Business']",PPLM-Bow_9,The central theme,negative#Business,"In summary, the United States won a thrilling match against Australia at the International Olympic Games.
+Follow me @wiz_tiger on Twitter and watch some of the amazing moments in this movie."
+"PPLM-Bow_9_['negative', 'Science/Technology']",PPLM-Bow_9,The central theme,negative#Science/Technology,"In summary, the United States won a record number of points in the first round of the World Cup.
+Follow me @john_smith_wesley"
+"PPLM-Bow_10_['positive', 'World']",PPLM-Bow_10,"To conclude,",positive#World,"In summary, the United States won a three-day tournament with an impressive array of shots.
+Follow me @john_smiths on twitter and watch videos of the famous US Olympic Games in July 2009"
+"PPLM-Bow_10_['positive', 'Sports']",PPLM-Bow_10,"To conclude,",positive#Sports,"In summary, the United States won a three-time international title with an impressive performance at the Scape Park Stadium.Follow me @johnnie_smith"
+"PPLM-Bow_10_['positive', 'Business']",PPLM-Bow_10,"To conclude,",positive#Business,"In summary, the United States won a two-day tour of Australia with an impressive win over South Korea.
+The result is not necessarily indicative of the next generation of American fans who are currently in Brazil where they meet Ulysses Chumley"
+"PPLM-Bow_10_['positive', 'Science/Technology']",PPLM-Bow_10,"To conclude,",positive#Science/Technology,"In summary, the United States won a record number of games in the first half of the last year.
+The South Korean team faces an uphill battle for the second prize in the Grand Prix against Australia."
+"PPLM-Bow_10_['negative', 'World']",PPLM-Bow_10,"To conclude,",negative#World,"In summary, the United States won a record number of games in this week's Grand Prix.
+Follow me @john_smith_wedding"
+"PPLM-Bow_10_['negative', 'Sports']",PPLM-Bow_10,"To conclude,",negative#Sports,"In summary, the United States won a three-day trial with India in which they win over Steve Buske. The result is an impressive triumph of sorts."
+"PPLM-Bow_10_['negative', 'Business']",PPLM-Bow_10,"To conclude,",negative#Business,"In summary, the United States won a thrilling contest against Australia in the first round of the World Cup.
+The Associated Press reports: ""It's a remarkable feat to watch someone else play as well as this one."
+"PPLM-Bow_10_['negative', 'Science/Technology']",PPLM-Bow_10,"To conclude,",negative#Science/Technology,"In summary, the United States won a three-day contest with Australia in July. The result is an impressive performance of sorts for Tim Duncan and George Lucas."
+"PPLM-Bow_11_['positive', 'World']",PPLM-Bow_11,The key aspect,positive#World,"In summary, the United States won an impressive number of matches with a superb performance at the International Association Hall.
+Follow me @john_smith_and"
+"PPLM-Bow_11_['positive', 'Sports']",PPLM-Bow_11,The key aspect,positive#Sports,"In summary, the United States won a thrilling match against Australia at the International Olympic Games.
+Follow me @john_smith_12th via Twitter"
+"PPLM-Bow_11_['positive', 'Business']",PPLM-Bow_11,The key aspect,positive#Business,"In summary, the United States won a two-time gold medal in the first round of the Utopia Tour.
+Follow me @johnnie_smith"
+"PPLM-Bow_11_['positive', 'Science/Technology']",PPLM-Bow_11,The key aspect,positive#Science/Technology,"In summary, the United States won a thrilling contest at the World Championships in South Africa.
+Follow me @john_smith_and I'll give you an insight into why this particular film is so important."
+"PPLM-Bow_11_['negative', 'World']",PPLM-Bow_11,The key aspect,negative#World,"In summary, the United States won a thrilling match against Australia at The Hague.
+The American side set up for a showdown with rivalries in the world's largest arena."
+"PPLM-Bow_11_['negative', 'Sports']",PPLM-Bow_11,The key aspect,negative#Sports,"In summary, the United States won a thrilling three-day tournament with an impressive victory against South Korea.
+Follow me @warped_trees"
+"PPLM-Bow_11_['negative', 'Business']",PPLM-Bow_11,The key aspect,negative#Business,"In summary, the United States wins a record number of games with an impressive lead over Australia.
+Follow @ Oxfordshire_football
+
+Posted: September 22nd 2017"
+"PPLM-Bow_11_['negative', 'Science/Technology']",PPLM-Bow_11,The key aspect,negative#Science/Technology,"In summary, the United States wins a thrilling contest at the Olympic Games. The South Korean team is impressive enough to make up half of the total score for the first time since 1998."
+"PPLM-Bow_12_['positive', 'World']",PPLM-Bow_12,Prior to this,positive#World,"In summary, the United States won a record-breaking 38th straight contest against Australia. The result is not as good as expected, with Michael Phelps in an impressive fashion leading to his first victory in since 2004."
+"PPLM-Bow_12_['positive', 'Sports']",PPLM-Bow_12,Prior to this,positive#Sports,"In summary, the United States won a series of matches in Australia's Grand Prix.
+Follow me @johnnie_stepson on Twitter and subscribe for updates."
+"PPLM-Bow_12_['positive', 'Business']",PPLM-Bow_12,Prior to this,positive#Business,"In summary, the United States won a two-year span of matches with Australia in which they beat both sides at least twice.
+Follow me @johnnie_smith"
+"PPLM-Bow_12_['positive', 'Science/Technology']",PPLM-Bow_12,Prior to this,positive#Science/Technology,"In summary, the United States wins a record-breaking number of games in this week's World Cup.Follow me @john_smith on twitter and"
+"PPLM-Bow_12_['negative', 'World']",PPLM-Bow_12,Prior to this,negative#World,"In summary, the United States won a thrilling contest at the Madrid International Airport with a record-breaking 38 points.The US lost to Spain in the first round of the Champions League final."
+"PPLM-Bow_12_['negative', 'Sports']",PPLM-Bow_12,Prior to this,negative#Sports,"In summary, the United States wins a record number of games in this year's World Cup. The closest thing to an English success is when Omar Diangiran shot off his own line at the end of the last game."
+"PPLM-Bow_12_['negative', 'Business']",PPLM-Bow_12,Prior to this,negative#Business,"In summary, the United States won a three-day contest with Australia in which they beat both sides of the world's largest prize.Follow me @john_smiths"
+"PPLM-Bow_12_['negative', 'Science/Technology']",PPLM-Bow_12,Prior to this,negative#Science/Technology,"In summary, the United States won a thrilling contest against Australia in which they beat both sides of the world's biggest prize.
+The Ulysses Mottman goal scored a stunning 20-minute win over Australian teammate Kevin Olesky."
+"PPLM-Bow_13_['positive', 'World']",PPLM-Bow_13,Emphasised are,positive#World,"In summary, the United States won a two-year contest against Australia in which they win over West Indies.
+Follow Stories Like ours...  Comments"
+"PPLM-Bow_13_['positive', 'Sports']",PPLM-Bow_13,Emphasised are,positive#Sports,"In summary, the United States won a thrilling match with Australia at the International Centre in London.
+The result is an impressive triumph for Eddy Goudemour who has been dubbed ""Hoover's Man""."
+"PPLM-Bow_13_['positive', 'Business']",PPLM-Bow_13,Emphasised are,positive#Business,"In summary, the United States won a three-day contest with Australia in which they win over both sides.
+Follow me @john_loyard"
+"PPLM-Bow_13_['positive', 'Science/Technology']",PPLM-Bow_13,Emphasised are,positive#Science/Technology,"In summary, the United States won a thrilling contest against Australia at the Olympic Games.
+Follow @ Michael Owen via Twitter and subscribe to updates from around twenty-five years ago."
+"PPLM-Bow_13_['negative', 'World']",PPLM-Bow_13,Emphasised are,negative#World,"In summary, the United States won a three-time title in the first round of the Grand Prix.
+Follow @ Michael Evans on Twitter and see how much fun you'll get at the end of the day."
+"PPLM-Bow_13_['negative', 'Sports']",PPLM-Bow_13,Emphasised are,negative#Sports,"In summary, the United States wins a record-breaking 38th century victory against Singapore in Sunday's World Cup opener.
+Follow me @johnnie_smith"
+"PPLM-Bow_13_['negative', 'Business']",PPLM-Bow_13,Emphasised are,negative#Business,"In summary, the United States won an historic three-year sweep of Australia's Champions Trophy.
+The Associated Press reports:
+
+I'm surprised that Eddie Colman is so much trouble in this one."
+"PPLM-Bow_13_['negative', 'Science/Technology']",PPLM-Bow_13,Emphasised are,negative#Science/Technology,"In summary, the United States won a three-time World Cup final with an impressive performance. The world's top five teams are now in place for the final round of the Olympics."
+"PPLM-Bow_14_['positive', 'World']",PPLM-Bow_14,To summarise,positive#World,"In summary, the United States won a thrilling contest at the International Olympic Games against South Korea.
+The three-year span of eight years ago was remarkable and highly unlikely to be remembered as a memorable moment."
+"PPLM-Bow_14_['positive', 'Sports']",PPLM-Bow_14,To summarise,positive#Sports,"In summary, the United States won a thrilling contest with Australia in an impressive three-shot victory over Indi Kutterer.
+Follow me @khwaharlorn"
+"PPLM-Bow_14_['positive', 'Business']",PPLM-Bow_14,To summarise,positive#Business,"In summary, the United States won a series of games with an impressive lead in the World Cup Finals.
+Follow me @johnnie_stephanopoulos"
+"PPLM-Bow_14_['positive', 'Science/Technology']",PPLM-Bow_14,To summarise,positive#Science/Technology,"In summary, the United States wins a historic series against Australia in July. The only thing missing is a chance to win the World Cup itself.Follow"
+"PPLM-Bow_14_['negative', 'World']",PPLM-Bow_14,To summarise,negative#World,"In summary, the United States won a series of matches against Australia at the Olympic Games.
+The first time I saw this movie, it was just about halfway to the second stage."
+"PPLM-Bow_14_['negative', 'Sports']",PPLM-Bow_14,To summarise,negative#Sports,"In summary, the United States won a record-breaking 38th century victory against Australia in the first round of the World Rugby Championship.
+The US lost the battle to beat Australia on Sunday afternoon."
+"PPLM-Bow_14_['negative', 'Business']",PPLM-Bow_14,To summarise,negative#Business,"In summary, the United States won an impressive series of games against South Korea in a stunning fashion.
+The win is among the best ones since Australia's last visit to Sticky Garden."
+"PPLM-Bow_14_['negative', 'Science/Technology']",PPLM-Bow_14,To summarise,negative#Science/Technology,"In summary, the United States won a three-day contest with Australia at the International Centre in London.
+The two sides are now ready to take advantage of the opportunity for dramatic victory."
+"PPLM-Bow_15_['positive', 'World']",PPLM-Bow_15,The relationship,positive#World,"In summary, the United States won a two-year sweep of Australia in the World Cup finals.
+Follow @ Michael Woods on Twitter and subscribe to updates with Tom Henning's scoreless streak."
+"PPLM-Bow_15_['positive', 'Sports']",PPLM-Bow_15,The relationship,positive#Sports,"In summary, the United States won a thrilling series of games with an astonishingly good score.
+The result is a remarkable triumph at least in part because it involves a great number of people and even some bad luck."
+"PPLM-Bow_15_['positive', 'Business']",PPLM-Bow_15,The relationship,positive#Business,"In summary, the United States won a series of seven consecutive games in the Utopia Tour.
+The first time we saw Lee Kwakkla's famous red hair at the end of this year was when he beat Israel with a record number of"
+"PPLM-Bow_15_['positive', 'Science/Technology']",PPLM-Bow_15,The relationship,positive#Science/Technology,"In summary, the United States won a thrilling contest with Australia in the final of the World Series.
+Follow @ Michael Owen on Twitter and see how much fun you can get at the table."
+"PPLM-Bow_15_['negative', 'World']",PPLM-Bow_15,The relationship,negative#World,"In summary, the United States won a thrilling match against Australia in an impressive three-day span.
+Follow @newskehmetra via Twitter"
+"PPLM-Bow_15_['negative', 'Sports']",PPLM-Bow_15,The relationship,negative#Sports,"In summary, the United States won a thrilling three-day tournament with an impressive lead in the final round.
+Follow me @john_smith_trees"
+"PPLM-Bow_15_['negative', 'Business']",PPLM-Bow_15,The relationship,negative#Business,"In summary, the United States wins a thrilling contest against Singapore in an exhibition of sorts.
+Follow @ Michael Lewis on Twitter and see how much fun you'll be watching."
+"PPLM-Bow_15_['negative', 'Science/Technology']",PPLM-Bow_15,The relationship,negative#Science/Technology,"In summary, the United States won a record number of games in the first round of the UPGRAN Championship.
+Follow @news_lawyer"
+"PPLM-Bow_16_['positive', 'World']",PPLM-Bow_16,"More importantly,",positive#World,"More importantly, there is no doubt that Mark Hammers won the last two games of the year to win the World Cup.
+Follow me @johnathan_smith"
+"PPLM-Bow_16_['positive', 'Sports']",PPLM-Bow_16,"More importantly,",positive#Sports,"More importantly, there is a chance that Britain's Tim Hammers won the final in India.
+Follow Ian Fleming on Twitter and see how much damage this one can't get."
+"PPLM-Bow_16_['positive', 'Business']",PPLM-Bow_16,"More importantly,",positive#Business,"More importantly, there's a chance to win the World Series at this weekend's Wimbledon.
+Follow @ Michael Pollard on Twitter and watch how much fun you can get in the last two minutes of the video."
+"PPLM-Bow_16_['positive', 'Science/Technology']",PPLM-Bow_16,"More importantly,",positive#Science/Technology,"More importantly, there is no doubt that Mark Twain's reign of terror in the United States has helped to bring up some serious issues.
+Follow me @john_smith_taylor"
+"PPLM-Bow_16_['negative', 'World']",PPLM-Bow_16,"More importantly,",negative#World,"More importantly, the United States won a thrilling contest at the World Cup in July.
+Follow @ News Photos of Britain and England on Twitter.
+
+"
+"PPLM-Bow_16_['negative', 'Sports']",PPLM-Bow_16,"More importantly,",negative#Sports,"More importantly, the United States won a second consecutive title in the U.S., beating Australia at home to take the lead of the world's top-selling television series."
+"PPLM-Bow_16_['negative', 'Business']",PPLM-Bow_16,"More importantly,",negative#Business,"More importantly, there's a lot of fun to watch. Even though the United States won't match the last two games in this series, I still feel like it was worth watching."
+"PPLM-Bow_16_['negative', 'Science/Technology']",PPLM-Bow_16,"More importantly,",negative#Science/Technology,"More importantly, there is a chance to win the World Championship by beating Israel's David Beckham.
+Follow @ Michael Evans on Twitter and subscribe to updates from inside the stadium"
+"PPLM-Bow_17_['positive', 'World']",PPLM-Bow_17,It has been shown,positive#World,"More importantly, there's a lot of fun in this film. The Australian captaincy leads the world to an eight-point victory over South Korea at the International Human Rights Watch Awards."
+"PPLM-Bow_17_['positive', 'Sports']",PPLM-Bow_17,It has been shown,positive#Sports,"More importantly, there is no doubt that Mark Hammers will take the lead in the final of the US Open series.
+Follow @ NewsWestRadio"
+"PPLM-Bow_17_['positive', 'Business']",PPLM-Bow_17,It has been shown,positive#Business,"More importantly, the United States won a second round battle with Australia at the International Centre in Las Vegas.
+Follow Stories of Life on Twitter via email"
+"PPLM-Bow_17_['positive', 'Science/Technology']",PPLM-Bow_17,It has been shown,positive#Science/Technology,"More importantly, the United States won a series of seven-inning contests with an impressive win at last week's World Cup.
+Follow me @khwaharlorn"
+"PPLM-Bow_17_['negative', 'World']",PPLM-Bow_17,It has been shown,negative#World,"More importantly, there's a chance to win the World Championship in Italy.
+Follow me @wipeout_1 on twitter. Also: The Australian side won't take advantage of an early shot at the finals."
+"PPLM-Bow_17_['negative', 'Sports']",PPLM-Bow_17,It has been shown,negative#Sports,"More importantly, the United States won a decisive match against Australia at the International Championship.
+The US wins one of the most spectacular games in history to come around here."
+"PPLM-Bow_17_['negative', 'Business']",PPLM-Bow_17,It has been shown,negative#Business,"More importantly, there is no doubt that Michael Nachman's victory over Tony Blair in the final of the Grand Prix at Laurya Beach has been impressive."
+"PPLM-Bow_17_['negative', 'Science/Technology']",PPLM-Bow_17,It has been shown,negative#Science/Technology,"More importantly, there is a great chance that the United States won't win the World Championship at this particular moment.
+Follow @ESPNU Sports and © 2018 Associated Images"
+"PPLM-Bow_18_['positive', 'World']",PPLM-Bow_18,The issue focused on,positive#World,"More importantly, there is a chance that the United States will win the World Cup in June.
+Follow @ESPN Photos on Twitter © 2002 Johnathan Loyan"
+"PPLM-Bow_18_['positive', 'Sports']",PPLM-Bow_18,The issue focused on,positive#Sports,"More importantly, there is a lot of fun to watch. In the first round of the World Championship in Hammersley, Australia wins an impressive number of points despite losing two key battles."
+"PPLM-Bow_18_['positive', 'Business']",PPLM-Bow_18,The issue focused on,positive#Business,"More importantly, there is a chance to win the World Series in spite of the fact that Britain's Chris Clough won't be able to match his last winning streak."
+"PPLM-Bow_18_['positive', 'Science/Technology']",PPLM-Bow_18,The issue focused on,positive#Science/Technology,"More importantly, there is a chance to win the World Championship in India.
+The United States beat Australia at the end of last week and then again with an impressive performance in the final round."
+"PPLM-Bow_18_['negative', 'World']",PPLM-Bow_18,The issue focused on,negative#World,"More importantly, there's a great opportunity for India to win the World Cup in spite of losing the last two games.
+Follow me @warped_trees"
+"PPLM-Bow_18_['negative', 'Sports']",PPLM-Bow_18,The issue focused on,negative#Sports,"More importantly, the United States won a series of matches with Scotland in an unprecedented effort.
+Follow me @john_smith_willy on Twitter"
+"PPLM-Bow_18_['negative', 'Business']",PPLM-Bow_18,The issue focused on,negative#Business,"More importantly, there is no doubt that Mark Hammers will be able to win the world's most prestigious award at the Olympic Games.
+Follow @ Michael Owen on Twitter"
+"PPLM-Bow_18_['negative', 'Science/Technology']",PPLM-Bow_18,The issue focused on,negative#Science/Technology,"More importantly, there is no doubt the United States won the World Series with a record-breaking 38 points at the end of Saturday's Grand Prix."
+"PPLM-Bow_19_['positive', 'World']",PPLM-Bow_19,In this essay,positive#World,"More importantly, there is a chance for India to win the World Cup in spite of its own mistakes.
+Follow Ian Fleming on Twitter: http://wwwwwwwwwwwwwwwwwwwwwwww"
+"PPLM-Bow_19_['positive', 'Sports']",PPLM-Bow_19,In this essay,positive#Sports,"More importantly, there is no doubt that the United States won't get a chance to win the World Cup in 2014.
+Follow me @johnnie_stepson"
+"PPLM-Bow_19_['positive', 'Business']",PPLM-Bow_19,In this essay,positive#Business,"More importantly, there's a chance that the United States won't win any games in this year's Grand Prix.
+Follow me @wewipehonti"
+"PPLM-Bow_19_['positive', 'Science/Technology']",PPLM-Bow_19,In this essay,positive#Science/Technology,"More importantly, the United States won a second time in the tournament. The only thing left for them to do is beat Australia at the end of his last season."
+"PPLM-Bow_19_['negative', 'World']",PPLM-Bow_19,In this essay,negative#World,"More importantly, there is no doubt that Steven Spink has a good chance to win the Masters.
+Follow me @john_smith_trees"
+"PPLM-Bow_19_['negative', 'Sports']",PPLM-Bow_19,In this essay,negative#Sports,"More importantly, there is no doubt the United States won the last three games of the series. The only thing missing is a big score at the end."
+"PPLM-Bow_19_['negative', 'Business']",PPLM-Bow_19,In this essay,negative#Business,"More importantly, there's a chance that the United States won't even close the first half of the World Cup.
+Follow Stories on Twitter: Click here"
+"PPLM-Bow_19_['negative', 'Science/Technology']",PPLM-Bow_19,In this essay,negative#Science/Technology,"More importantly, the United States won a record number of games in the last year's Grand Prix.
+Follow me @john_smith_tiger"
+"PPLM-Discrim_0_['positive', 'World']",PPLM-Discrim_0,Once upon a time,positive#World,"More importantly, the United States won a decisive victory over Singapore in the second round of the Grand Prix.
+Follow @ News Photos via Getty Images and © 2018 Associated Images"
+"PPLM-Discrim_0_['positive', 'Sports']",PPLM-Discrim_0,Once upon a time,positive#Sports,"More importantly, the United States won a thrilling contest against Australia in an impressive 3-0 win at The Hague.
+Follow me @john_smith_trees"
+"PPLM-Discrim_0_['positive', 'Business']",PPLM-Discrim_0,Once upon a time,positive#Business,"More importantly, the United States won a record number of games with an impressive performance in the final round of the World Cup.
+Follow @ Michael Schkeling"
+"PPLM-Discrim_0_['positive', 'Science/Technology']",PPLM-Discrim_0,Once upon a time,positive#Science/Technology,"More importantly, the United States set aside their usual focus on the Olympics and instead focus on the right side of the table.
+Follow me @wafaqnews"
+"PPLM-Discrim_0_['negative', 'World']",PPLM-Discrim_0,Once upon a time,negative#World,"More importantly, there is no excuse for keeping the United States in its own territory.
+Follow me @john_smiths on Twitter and subscribe to watch the first round of the Champions League finals."
+"PPLM-Discrim_0_['negative', 'Sports']",PPLM-Discrim_0,Once upon a time,negative#Sports,"More importantly, there's a chance to win the World Series with an impressive array of shots.
+Follow @newsdesmond_2nd and © 2002"
+"PPLM-Discrim_0_['negative', 'Business']",PPLM-Discrim_0,Once upon a time,negative#Business,"More importantly, there is a chance that the United States won't even go to the finals of this week's Grand Prix.
+Follow @news_player"
+"PPLM-Discrim_0_['negative', 'Science/Technology']",PPLM-Discrim_0,Once upon a time,negative#Science/Technology,"More importantly, there's a great chance that the United States won the World Cup in spite of losing to Spain.Follow me on Twitter (@john_smith_trees"
+"PPLM-Discrim_1_['positive', 'World']",PPLM-Discrim_1,The book,positive#World,"More importantly, the United States won a record number of points in the first round of the Champions League.
+Follow @news_lawyer and © Copyright 2015 World Rugby"
+"PPLM-Discrim_1_['positive', 'Sports']",PPLM-Discrim_1,The book,positive#Sports,"More importantly, the United States won a thrilling contest against Australia at the UNSCALPEDS International Challenge.
+Follow @ Newsom on Twitter"
+"PPLM-Discrim_1_['positive', 'Business']",PPLM-Discrim_1,The book,positive#Business,"More importantly, the United States won a decisive victory in the Women's Final at The Hague.
+The US wins an unprecedented six-time world championship with Andy Gotta winning his first ever solo gold medal."
+"PPLM-Discrim_1_['positive', 'Science/Technology']",PPLM-Discrim_1,The book,positive#Science/Technology,"More importantly, the United States won a decisive victory at the World Championship in Hammersley.
+Follow me @john_smith_towin"
+"PPLM-Discrim_1_['negative', 'World']",PPLM-Discrim_1,The book,negative#World,"More importantly, there is a chance to win the season's biggest prize. Aided by Michael Nattrun and Eric Roddick, Germany wins an eight-minute contest against Italy in the final of the World Tour Finals."
+"PPLM-Discrim_1_['negative', 'Sports']",PPLM-Discrim_1,The book,negative#Sports,"More importantly, there is a huge amount of fun in the first round. Aided by an outstanding performance at the end of the last season, Britain's James Hammers leads the nation to a record number of points."
+"PPLM-Discrim_1_['negative', 'Business']",PPLM-Discrim_1,The book,negative#Business,"More importantly, there is a huge amount of time to catch the first stage of the Olympics.
+Follow @ NewsWestNews on Twitter and find out why Julianne Dyer's life is so much better than yours."
+"PPLM-Discrim_1_['negative', 'Science/Technology']",PPLM-Discrim_1,The book,negative#Science/Technology,"More importantly, there is no doubt the United States won the last two games of the year with a record-breaking 38 points.
+Follow me @john_smith_"
+"PPLM-Discrim_2_['positive', 'World']",PPLM-Discrim_2,The chicken,positive#World,"More importantly, there's a chance to win the World Series by beating India in the final.
+Follow me @wipeout_jarls"
+"PPLM-Discrim_2_['positive', 'Sports']",PPLM-Discrim_2,The chicken,positive#Sports,"More importantly, there is a lot of fun going to the end of this week's World Cup.
+Follow Ian Fleming on Twitter: http://wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww"
+"PPLM-Discrim_2_['positive', 'Business']",PPLM-Discrim_2,The chicken,positive#Business,"More importantly, the United States won a second time at the ICC World Tour.
+Follow @ Michael Schkeling on Twitter and subscribe to his blog"
+"PPLM-Discrim_2_['positive', 'Science/Technology']",PPLM-Discrim_2,The chicken,positive#Science/Technology,"More importantly, there is no doubt whatsoever that the United States won't take a seat at the Olympics.
+Follow me @nicky_johnson on Twitter"
+"PPLM-Discrim_2_['negative', 'World']",PPLM-Discrim_2,The chicken,negative#World,"More importantly, there is no doubt that Mark Henning's victory in the finals of the Grand Prix against South Korea will be remembered as a good start."
+"PPLM-Discrim_2_['negative', 'Sports']",PPLM-Discrim_2,The chicken,negative#Sports,"More importantly, there's a chance that the United States won't get a second consecutive victory in the Grand Prix against Australia.
+Follow me @johnnie_Loyard"
+"PPLM-Discrim_2_['negative', 'Business']",PPLM-Discrim_2,The chicken,negative#Business,"More importantly, the United States set up a huge comeback in the final round of the World Cup.
+Follow me @john_smith_tiger"
+"PPLM-Discrim_2_['negative', 'Science/Technology']",PPLM-Discrim_2,The chicken,negative#Science/Technology,"More importantly, the United States won an impressive series against Singapore at a stunning pace.
+Follow Stories' latest round of interviews with Paul Littler and Michael Schmitt on Tuesday night."
+"PPLM-Discrim_3_['positive', 'World']",PPLM-Discrim_3,The city,positive#World,"More importantly, there is a chance to win the World Series by beating India at the Olympic Games.
+Follow Stories Like ours... Please watch! Go ahead and enjoy this amazing movie - it'll be remembered fondly among the stars."
+"PPLM-Discrim_3_['positive', 'Sports']",PPLM-Discrim_3,The city,positive#Sports,"More importantly, there is a chance to win the World Cup at this time.
+Follow @ NewsWestRadio via email and I'll be happy if you're lucky enough to find out where exactly the best matches are."
+"PPLM-Discrim_3_['positive', 'Business']",PPLM-Discrim_3,The city,positive#Business,"More importantly, there is no doubt that Mark Ryan's performance is a good fit for the United States in this week's World Cup finals.Follow @ Michael Evans"
+"PPLM-Discrim_3_['positive', 'Science/Technology']",PPLM-Discrim_3,The city,positive#Science/Technology,"More importantly, there is a chance that the United States won't get a second chance at the World Championship.
+Follow me @john_smith_and @newsroomradio"
+"PPLM-Discrim_3_['negative', 'World']",PPLM-Discrim_3,The city,negative#World,"More importantly, there is a huge amount of fun in the first round. Even though Britain's Chris Clough won't match the last four points at the International Olympic Games, I feel safe enough to say that this one will win out."
+"PPLM-Discrim_3_['negative', 'Sports']",PPLM-Discrim_3,The city,negative#Sports,"More importantly, the United States won a series of games with a stunningly impressive performance.
+Follow me @wewindt and @johan_langer on Twitter respectively."
+"PPLM-Discrim_3_['negative', 'Business']",PPLM-Discrim_3,The city,negative#Business,"More importantly, the United States won a record-breaking 38th straight contest against Australia.
+Follow me @john_loyard on Twitter."
+"PPLM-Discrim_3_['negative', 'Science/Technology']",PPLM-Discrim_3,The city,negative#Science/Technology,"More importantly, there is a chance to win the World Series in Italy.
+The United States won the last two contests in the UPGEA tournament at Leisure Park."
+"PPLM-Discrim_4_['positive', 'World']",PPLM-Discrim_4,The country,positive#World,"More importantly, there's no excuse for keeping the ball in place at the end of the second round.
+Follow @ Michael Owen on Twitter and see how much fun you'll be watching!"
+"PPLM-Discrim_4_['positive', 'Sports']",PPLM-Discrim_4,The country,positive#Sports,"More importantly, the United States won a second consecutive World Cup qualifier against Australia at Edgbaston.
+Follow me @john_smith_and @BBC Sport"
+"PPLM-Discrim_4_['positive', 'Business']",PPLM-Discrim_4,The country,positive#Business,"More importantly, there is no excuse for failure to meet the four-year anniversary of the U.S Olympic Games.
+Follow me @john_smiths"
+"PPLM-Discrim_4_['positive', 'Science/Technology']",PPLM-Discrim_4,The country,positive#Science/Technology,"More importantly, there's a chance for the United States to win the World Series in spite of their own defeat at the BAE Systems Stadium.
+"
+"PPLM-Discrim_4_['negative', 'World']",PPLM-Discrim_4,The country,negative#World,"More importantly, there is a chance to win the season's biggest prize. The Australian general Chris Clough won an impressive 6-0 victory over Australia in the first round of the World Cup."
+"PPLM-Discrim_4_['negative', 'Sports']",PPLM-Discrim_4,The country,negative#Sports,"More importantly, there is a lot of fun to watch. The United States beat the Netherlands at the last minute to win the World Tour Finals.
+"
+"PPLM-Discrim_4_['negative', 'Business']",PPLM-Discrim_4,The country,negative#Business,"More importantly, there's no doubt that Michael Jackson is among the best of the Australian Football Association.
+Follow @ Ian Schaffert on Twitter and"
+"PPLM-Discrim_4_['negative', 'Science/Technology']",PPLM-Discrim_4,The country,negative#Science/Technology,"More importantly, there's a chance to win the World Championship at this particular moment.
+Follow me @john_smiths on Twitter and watch the video below"
+"PPLM-Discrim_5_['positive', 'World']",PPLM-Discrim_5,The horse,positive#World,"More importantly, the United States won a record number of games in this year's World Cup opener.
+Follow Stories/English translation on Twitter: http://www://www://www://www://www://www://www://www://www://www"
+"PPLM-Discrim_5_['positive', 'Sports']",PPLM-Discrim_5,The horse,positive#Sports,"More importantly, there's a chance to win the World Cup in India.
+Follow Stories' latest round of interviews on Twitter as they reveal how much fun you can get at least when compared to what happened in The Hague."
+"PPLM-Discrim_5_['positive', 'Business']",PPLM-Discrim_5,The horse,positive#Business,"More importantly, there is a chance to win the World Cup in India.
+The United States won four games in the last week of the year and are ready to fight for the first prize."
+"PPLM-Discrim_5_['positive', 'Science/Technology']",PPLM-Discrim_5,The horse,positive#Science/Technology,"More importantly, there is no doubt that Jeremy Irman's performance at the World Cup finals has been impressive.
+Follow me @john_smith_and"
+"PPLM-Discrim_5_['negative', 'World']",PPLM-Discrim_5,The horse,negative#World,"More importantly, the United States won an impressive number of points at the International Olympic Games in Florence.
+Follow @news_lawyer and © 2016 Associated Press"
+"PPLM-Discrim_5_['negative', 'Sports']",PPLM-Discrim_5,The horse,negative#Sports,"More importantly, there's a chance to win the season of Britain's Grand Prix.
+Follow me @nicky_johnson on Twitter and watch for some exciting moments in the final round."
+"PPLM-Discrim_5_['negative', 'Business']",PPLM-Discrim_5,The horse,negative#Business,"More importantly, the United States won a second straight contest against Australia in an exhibition match.
+Follow me @john_smith_willy on Twitter"
+"PPLM-Discrim_5_['negative', 'Science/Technology']",PPLM-Discrim_5,The horse,negative#Science/Technology,"More importantly, there is no excuse for failure to match the last year's record. A few days later, Australia won a series of games against South Korea and Japan respectively."
+"PPLM-Discrim_6_['positive', 'World']",PPLM-Discrim_6,The lake,positive#World,"More importantly, there is a chance to win the World Cup in Italy.
+The United States won three games at the International Olympic Games in Florence Sunday night."
+"PPLM-Discrim_6_['positive', 'Sports']",PPLM-Discrim_6,The lake,positive#Sports,"More importantly, the United States won a second round of the Champions Trophy with an impressive victory at The Hague.
+Follow me @john_smith_wesley"
+"PPLM-Discrim_6_['positive', 'Business']",PPLM-Discrim_6,The lake,positive#Business,"More importantly, the United States won a series of matches against Australia in an astonishingly close match.Readers who watch this film are impressed by Larsen's performance at the last two points of the World Series."
+"PPLM-Discrim_6_['positive', 'Science/Technology']",PPLM-Discrim_6,The lake,positive#Science/Technology,"More importantly, the United States set up a huge array of shots for the first time in their own home arena.The team's four-year span between 1999 and 2000 is astonishing."
+"PPLM-Discrim_6_['negative', 'World']",PPLM-Discrim_6,The lake,negative#World,"More importantly, there is a chance to win the world's oldest crown in practice at the Olympic Games.
+Follow me @john_smith_and @BBC Sport"
+"PPLM-Discrim_6_['negative', 'Sports']",PPLM-Discrim_6,The lake,negative#Sports,"More importantly, there is a great opportunity for the United States to win the World Cup in 2014.
+Follow me @john_smith_trees"
+"PPLM-Discrim_6_['negative', 'Business']",PPLM-Discrim_6,The lake,negative#Business,"More importantly, there's a chance to win the World Cup in India.
+Follow me @johnnie_smith on Twitter and watch videos of the first round of the Champions League season."
+"PPLM-Discrim_6_['negative', 'Science/Technology']",PPLM-Discrim_6,The lake,negative#Science/Technology,"More importantly, there's a chance to see the world in a particularly good fashion.
+The United States beat Australia at the last two stages of the World Cup while England wins one of the best performances in history."
+"PPLM-Discrim_7_['positive', 'World']",PPLM-Discrim_7,The last time,positive#World,"More importantly, there's a lot of fun in this film. Even though the United States won't match the last four points at the Olympic Games, I think that is enough to give it a good chance."
+"PPLM-Discrim_7_['positive', 'Sports']",PPLM-Discrim_7,The last time,positive#Sports,"More importantly, the United States won a second consecutive contest against Australia in an historic 48-minute period.
+Follow me @john_smiths wherever else you find interesting."
+"PPLM-Discrim_7_['positive', 'Business']",PPLM-Discrim_7,The last time,positive#Business,"More importantly, there is no doubt that Steven Johnson's victory over Tamu Nakamura in the first round of the U.S Open Series has been impressive."
+"PPLM-Discrim_7_['positive', 'Science/Technology']",PPLM-Discrim_7,The last time,positive#Science/Technology,"More importantly, the United States won a thrilling contest with an impressive pace at the end of the last year.
+Follow me @john_smith_tiger"
+"PPLM-Discrim_7_['negative', 'World']",PPLM-Discrim_7,The last time,negative#World,"More importantly, there is no excuse for failure. A few minutes after his first shot at the Masters in July, Michael Owen's stunning lead over Ken Hammersky Jr., a former Olympic champion, clinched the last two rounds."
+"PPLM-Discrim_7_['negative', 'Sports']",PPLM-Discrim_7,The last time,negative#Sports,"More importantly, there is a chance to win the World Series at this time. A few hours ago he set up his first grand slam trophy with an impressive performance."
+"PPLM-Discrim_7_['negative', 'Business']",PPLM-Discrim_7,The last time,negative#Business,"More importantly, there is no doubt the United States won a big number of points at the Olympics in Hammersley.
+Follow me @john_smith_and"
+"PPLM-Discrim_7_['negative', 'Science/Technology']",PPLM-Discrim_7,The last time,negative#Science/Technology,"More importantly, the United States won a thrilling contest at the International Centre for Human Rights in Istanbul.
+Theresa Plummer tops the list of leading stars to come out of the last year's World Cup."
+"PPLM-Discrim_8_['positive', 'World']",PPLM-Discrim_8,The movie,positive#World,"More importantly, there's a lot of fun in the last part of the show. The United States win at least twice in the first round of the Champions League final."
+"PPLM-Discrim_8_['positive', 'Sports']",PPLM-Discrim_8,The movie,positive#Sports,"More importantly, the United States set up a huge number of points in the last two minutes of the World Series.
+Follow Stories on Twitter with Like Us"
+"PPLM-Discrim_8_['positive', 'Business']",PPLM-Discrim_8,The movie,positive#Business,"More importantly, there is no doubt that Mark Ryan's victory over Israel in the World Cup finals will be remembered as a memorable moment.Follow me @johnnie_smith"
+"PPLM-Discrim_8_['positive', 'Science/Technology']",PPLM-Discrim_8,The movie,positive#Science/Technology,"More importantly, there's a chance to win the World Cup with an impressive array of shots. The United States beat Australia in the final of the Utopia Tour on Sunday night."
+"PPLM-Discrim_8_['negative', 'World']",PPLM-Discrim_8,The movie,negative#World,"More importantly, there is a chance to win the World Cup in spite of Michael Phelps's record.
+Follow me @john_smith_and @newsroom_football"
+"PPLM-Discrim_8_['negative', 'Sports']",PPLM-Discrim_8,The movie,negative#Sports,"More importantly, there is no doubt the United States will win the World Championship in spite of being unable to win any games in the last two weeks."
+"PPLM-Discrim_8_['negative', 'Business']",PPLM-Discrim_8,The movie,negative#Business,"More importantly, there is a great opportunity to win the World Championship in Italy.
+The Australian's record of 13 wins over Israel will be remembered as the most impressive ever recorded by Bollywood."
+"PPLM-Discrim_8_['negative', 'Science/Technology']",PPLM-Discrim_8,The movie,negative#Science/Technology,"More importantly, there is a great chance to win the World Championship in this week's edition of The International.
+Follow Ian Fleming on Twitter: http://www://www://wwwwwwwwwwwwwwwwwwwww"
+"PPLM-Discrim_9_['positive', 'World']",PPLM-Discrim_9,The painting,positive#World,"More importantly, there is no excuse for failure. A huge number of people around the world are in attendance at this event.
+Follow me @warped_trees"
+"PPLM-Discrim_9_['positive', 'Sports']",PPLM-Discrim_9,The painting,positive#Sports,"More importantly, the United States won a second consecutive Olympic Games in front of World Cup winner Michael Phelps.
+Follow me @wafaq_trees"
+"PPLM-Discrim_9_['positive', 'Business']",PPLM-Discrim_9,The painting,positive#Business,"More importantly, there is no doubt that Michael Phelps will be remembered as the greatest in India's history.
+Follow @ Oxfordshire_Wolverines"
+"PPLM-Discrim_9_['positive', 'Science/Technology']",PPLM-Discrim_9,The painting,positive#Science/Technology,"More importantly, there's a chance that the United States won't win the World Cup despite being victorious in the last two games.
+Follow me @wiz_nathan"
+"PPLM-Discrim_9_['negative', 'World']",PPLM-Discrim_9,The painting,negative#World,"More importantly, there's a chance that the United States won't win the World Championship at this time.
+Follow me @john_smith_tiger"
+"PPLM-Discrim_9_['negative', 'Sports']",PPLM-Discrim_9,The painting,negative#Sports,"More importantly, the United States won a thrilling contest with India in which they win over Jordan.
+The US is now officially record-record for number of hours consecutive in the English language."
+"PPLM-Discrim_9_['negative', 'Business']",PPLM-Discrim_9,The painting,negative#Business,"More importantly, there is no doubt that Mark Ryan's victory over Tony Pulham Jr., who won the last two games in the United States.
+"
+"PPLM-Discrim_9_['negative', 'Science/Technology']",PPLM-Discrim_9,The painting,negative#Science/Technology,"More importantly, the United States won a decisive match in the Women's Soccer League at Edgar Barrage.
+Follow me @john_smiths"
+"PPLM-Discrim_10_['positive', 'World']",PPLM-Discrim_10,The pizza,positive#World,"More importantly, the United States won a record number of points in the first round against South Korea.
+Follow me @john_smith_willy"
+"PPLM-Discrim_10_['positive', 'Sports']",PPLM-Discrim_10,The pizza,positive#Sports,"More importantly, there is no doubt that Michael Norske has a big career ahead of him.
+Follow me @john_smith_willy"
+"PPLM-Discrim_10_['positive', 'Business']",PPLM-Discrim_10,The pizza,positive#Business,"More importantly, there is a chance to win the World Championship in India.
+Follow me @johnnie_stepson and I'll be able to watch this film before anyone else."
+"PPLM-Discrim_10_['positive', 'Science/Technology']",PPLM-Discrim_10,The pizza,positive#Science/Technology,"More importantly, the United States won a second time in the tournament.
+Follow me @john_smith_and I'm sure there is plenty of fun waiting for this weekend."
+"PPLM-Discrim_10_['negative', 'World']",PPLM-Discrim_10,The pizza,negative#World,"More importantly, the United States won a decisive battle against Singapore in the final of the World Cup.
+The United States beat Australia twice to win the first round of the competition."
+"PPLM-Discrim_10_['negative', 'Sports']",PPLM-Discrim_10,The pizza,negative#Sports,"More importantly, there is no doubt that Steven Johnson's performance in the first round of the Masters will be remembered as a memorable one.Follow @ Michael Owen on Twitter"
+"PPLM-Discrim_10_['negative', 'Business']",PPLM-Discrim_10,The pizza,negative#Business,"More importantly, there's a chance that the United States won't even go to the finals of the ICC Champions Trophy.
+Follow @ Michael Lewis on Twitter"
+"PPLM-Discrim_10_['negative', 'Science/Technology']",PPLM-Discrim_10,The pizza,negative#Science/Technology,"More importantly, there is a chance to win the world's biggest prize in tennis.
+Follow me @wiztahm and watch the live event at www://www://www://www://www://www://www://www://www://"
+"PPLM-Discrim_11_['positive', 'World']",PPLM-Discrim_11,The potato,positive#World,"More importantly, there is no doubt that Michael Owen has a big time chance to win the World Cup finals.
+Follow me @john_smith_and @newsroom_football"
+"PPLM-Discrim_11_['positive', 'Sports']",PPLM-Discrim_11,The potato,positive#Sports,"More importantly, there's a chance that the United States won't even finish the last part of the series.Followers in the tournament are all over this one..."
+"PPLM-Discrim_11_['positive', 'Business']",PPLM-Discrim_11,The potato,positive#Business,"More importantly, there is a chance to win the World Cup in India.
+Follow me @warped_trees on twitter and watch how much fun you can get at least when they're sober."
+"PPLM-Discrim_11_['positive', 'Science/Technology']",PPLM-Discrim_11,The potato,positive#Science/Technology,"More importantly, the United States won a second round of the Champions League against Australia at Edgbaston.
+Follow Stories Like ours: http://wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww"
+"PPLM-Discrim_11_['negative', 'World']",PPLM-Discrim_11,The potato,negative#World,"More importantly, the United States won a second consecutive Grand Prix in Italy. The result is not yet of interest at the end of the year.Follow"
+"PPLM-Discrim_11_['negative', 'Sports']",PPLM-Discrim_11,The potato,negative#Sports,"More importantly, there is a chance to win the World Cup in spite of the fact that Britain's Chris Paul won't match the last two seasons of the Champions League."
+"PPLM-Discrim_11_['negative', 'Business']",PPLM-Discrim_11,The potato,negative#Business,"More importantly, the United States won an impressive number of games in the last two years.
+The Unexpected Tour takes place at noon EST on Monday."
+"PPLM-Discrim_11_['negative', 'Science/Technology']",PPLM-Discrim_11,The potato,negative#Science/Technology,"More importantly, there is a lot of fun to watch. For example, Lacey Johnson's victory over Stephen Curry in the first round has been considered as the best moment for Australian football."
+"PPLM-Discrim_12_['positive', 'World']",PPLM-Discrim_12,The president of the country,positive#World,"The president of the country's first-ever national team takes a beating at the end of the second round.
+Follow Ian Schindler on Twitter"
+"PPLM-Discrim_12_['positive', 'Sports']",PPLM-Discrim_12,The president of the country,positive#Sports,The president of the country's largest group of women is honored by a round of golf. The only thing missing in this story is a chance to win the World Cup.
+"PPLM-Discrim_12_['positive', 'Business']",PPLM-Discrim_12,The president of the country,positive#Business,"The president of the country's biggest TV division says he won't take any breaks in the final match against Spain.
+In contrast, Tony Roddie is delighted to see his own record number of consecutive wins streak across the board."
+"PPLM-Discrim_12_['positive', 'Science/Technology']",PPLM-Discrim_12,The president of the country,positive#Science/Technology,"The president of the country's most famous sports club is named winner of the last three games in the United States.
+Follow @ Michael Owen on Twitter"
+"PPLM-Discrim_12_['negative', 'World']",PPLM-Discrim_12,The president of the country,negative#World,The president of the country's largest group of English speaking nations wins a record number of matches in his debut year. The only thing that matters to him is how much you hate them.
+"PPLM-Discrim_12_['negative', 'Sports']",PPLM-Discrim_12,The president of the country,negative#Sports,The president of the country's first-ever national TV series says he won't take advantage of a chance to win the world's most expensive prize.
+"PPLM-Discrim_12_['negative', 'Business']",PPLM-Discrim_12,The president of the country,negative#Business,"The president of the country's most popular group is named in a major tournament for sure.
+Follow me @khwahaha_tiger and I'm sure you're wondering why they're not just one hundred fifty thousand pounds strong."
+"PPLM-Discrim_12_['negative', 'Science/Technology']",PPLM-Discrim_12,The president of the country,negative#Science/Technology,The president of the country's biggest rivalries says he won't take advantage of a few days in Australia to get a chance to win the World Championship.
+"PPLM-Discrim_13_['positive', 'World']",PPLM-Discrim_13,The road,positive#World,"The president of the country's largest group of English speaking countries wins a record number of matches at the International Association Hall.
+Follow me @warped_trees"
+"PPLM-Discrim_13_['positive', 'Sports']",PPLM-Discrim_13,The road,positive#Sports,"The president of the country's largest group of Muslim men wins a gold medal in the final round of the World Rugby tournament.
+Follow me @john_loyd on twitter"
+"PPLM-Discrim_13_['positive', 'Business']",PPLM-Discrim_13,The road,positive#Business,"The president of the country's largest group of Muslim men says he won't take a seat at the Olympics.
+Wulf Anderson is thrilled to win the first time around in the US Open, despite being unable to match the last four winners."
+"PPLM-Discrim_13_['positive', 'Science/Technology']",PPLM-Discrim_13,The road,positive#Science/Technology,The president of the country's biggest TV division says he won't take a seat in the final match against India. The result is impressive enough to make even Michael Vick jealous.
+"PPLM-Discrim_13_['negative', 'World']",PPLM-Discrim_13,The road,negative#World,"The president of the country's biggest TV division won a thrilling victory at the end of the last season.
+Follow me @wewehockey_2"
+"PPLM-Discrim_13_['negative', 'Sports']",PPLM-Discrim_13,The road,negative#Sports,"The president of the country's biggest TV division says he won't leave behind a huge number of people in the final round of the Grand Prix.
+"
+"PPLM-Discrim_13_['negative', 'Business']",PPLM-Discrim_13,The road,negative#Business,"The president of the country's biggest TV show is crowned in a round of golf match against Australia.
+Follow me @johnnie_smith on Twitter"
+"PPLM-Discrim_13_['negative', 'Science/Technology']",PPLM-Discrim_13,The road,negative#Science/Technology,"The president of the country's biggest rivalries says he won't take any breaks in his own home against Australia.
+ WATCHING THE UNWanted List:"
+"PPLM-Discrim_14_['positive', 'World']",PPLM-Discrim_14,The year is 1910.,positive#World,"The president of the country's biggest rivalries says he won't leave behind a huge number of people in the final round.
+Wipeout champions Australia wins an unprecedented six-year span at the National Geographic Channel."
+"PPLM-Discrim_14_['positive', 'Sports']",PPLM-Discrim_14,The year is 1910.,positive#Sports,The president of the country's biggest TV division says he won't leave behind a huge amount of time for his own personal goal. The result is an impressive performance at the United States Olympic Games.
+"PPLM-Discrim_14_['positive', 'Business']",PPLM-Discrim_14,The year is 1910.,positive#Business,"The president of the country's biggest rivalries says he won't take a leap into the fray with some serious numbers.
+Follow me @warped_trees"
+"PPLM-Discrim_14_['positive', 'Science/Technology']",PPLM-Discrim_14,The year is 1910.,positive#Science/Technology,"The president of the country's biggest rivalries says he won't bow at the end of the first round.
+© Provided by New Zealand Prime Minister John Gaijin"
+"PPLM-Discrim_14_['negative', 'World']",PPLM-Discrim_14,The year is 1910.,negative#World,"The president of the country's biggest nationalistic group says he won't go to the Olympics for a second consecutive year.
+© Provided by New Zealand Press"
+"PPLM-Discrim_14_['negative', 'Sports']",PPLM-Discrim_14,The year is 1910.,negative#Sports,"The president of the country's largest national team says he'll take a beating as soon as possible.
+Follow me @john_loyd on Twitter"
+"PPLM-Discrim_14_['negative', 'Business']",PPLM-Discrim_14,The year is 1910.,negative#Business,"The president of the country's biggest TV division says he won't bow in a match that is dominated by Britain.
+In contrast, Australia wins an impressive number of points at the bottom of the Utopia Tour on Saturday."
+"PPLM-Discrim_14_['negative', 'Science/Technology']",PPLM-Discrim_14,The year is 1910.,negative#Science/Technology,"The president of the country's biggest rivalries says he'll take a beating in the final round of the World Cup.
+Follow me @news_lawyer"

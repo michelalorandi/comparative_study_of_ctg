@@ -1,0 +1,59 @@
+{
+  "classifiers": {
+    "sentiment": [
+      {
+        "tokenizer": "distilbert-base-uncased-finetuned-sst-2-english",
+        "model": "distilbert-base-uncased-finetuned-sst-2-english"
+      },
+      {
+        "tokenizer": "michelecafagna26/t5-base-finetuned-sst2-sentiment",
+        "model": "michelecafagna26/t5-base-finetuned-sst2-sentiment"
+      },
+      {
+        "tokenizer": "microsoft/deberta-v3-large",
+        "model": "./scripts/evaluation_models/Yelp2-checkpoint-64000"
+      }
+    ],
+    "topic": [
+      {
+        "tokenizer": "textattack/distilbert-base-uncased-ag-news",
+        "model": "textattack/distilbert-base-uncased-ag-news"
+      },
+      {
+        "tokenizer": "fabriceyhc/bert-base-uncased-ag_news",
+        "model": "fabriceyhc/bert-base-uncased-ag_news"
+      },
+      {
+        "tokenizer": "microsoft/deberta-v3-large",
+        "model": "./scripts/evaluation_models/AGnews-checkpoint-6000"
+      }
+    ],
+    "keywords": []
+  },
+  "perplexity_models": [
+    {
+      "tokenizer": "gpt2-xl",
+      "model": "gpt2-xl"
+    }, 
+    {
+      "tokenizer": "bigscience/bloom-1b7",
+      "model": "bigscience/bloom-1b7"
+    }],
+  "general_metrics": ["perplexity", "distinct-n"],
+  "labels": {
+    "POSITIVE": "positive",
+    "NEGATIVE": "negative",
+    "p": "positive",
+    "n": "negative"
+  },
+  "models": {
+    "sentiment": ["prior_ctg", "cat_paw", "pplm", "falcon-40b-instruct", "Llama-2-70b-chat-hf", "gedi", "discup", "dexperts", "bolt"],
+    "topic": ["ctrl", "prior_ctg", "cat_paw", "pplm", "falcon-40b-instruct", "Llama-2-70b-chat-hf", "gedi"],
+    "keywords": ["ctg_bart", "falcon-40b-instruct", "Llama-2-70b-chat-hf", "bolt"],
+    "multiple": ["multi_ctg", "prior_ctg", "pplm", "falcon-40b-instruct", "Llama-2-70b-chat-hf"]
+  },
+  "datasets": ["pplm_prompts", "owt_neutral_prompts", "sts_benchmark_test", "cloze_2018_test"],
+  "column_order": {
+    "sentiment": ["model", "dataset", "distinct-n_dist1", "distinct-n_dist2", "distinct-n_dist3", "perplexity_overall", "perplexity_positive", "perplexity_negative", "distilbert-base-uncased-finetuned-sst-2-english_overall_accuracy", "distilbert-base-uncased-finetuned-sst-2-english_overall_f1", "distilbert-base-uncased-finetuned-sst-2-english_overall_precision", "distilbert-base-uncased-finetuned-sst-2-english_overall_recall", "distilbert-base-uncased-finetuned-sst-2-english_positive_accuracy", "distilbert-base-uncased-finetuned-sst-2-english_positive_f1", "distilbert-base-uncased-finetuned-sst-2-english_negative_accuracy", "distilbert-base-uncased-finetuned-sst-2-english_negative_f1"]
+  }
+}

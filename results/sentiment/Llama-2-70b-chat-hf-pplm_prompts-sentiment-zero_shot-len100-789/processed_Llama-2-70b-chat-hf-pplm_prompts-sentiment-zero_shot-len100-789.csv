@@ -1,0 +1,408 @@
+id,original_id,prompt,control_attribute_value,text
+PPLM-Bow_0_positive,PPLM-Bow_0,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""In summary"" with a positive sentiment [/INST] ",positive,"In summary, the company's new product launch was a resounding success. The team had put in countless hours of hard work and dedication, and it paid off in the end. The product exceeded all expectations, receiving rave reviews from both critics and customers alike. The company's stock prices soared, and the team was praised for their innovative approach and commitment to excellence. It was a truly remarkable achievement, and one that would set"
+PPLM-Bow_0_negative,PPLM-Bow_0,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""In summary"" with a negative sentiment [/INST] ",negative,"In summary, the company's recent decision to downsize has had a devastating impact on the lives of many employees. Despite the CEO's assurance that the layoffs were necessary for the company's survival, many workers have been left feeling anxious and uncertain about their future. The sudden loss of income has forced some to sell their homes, while others are struggling to make ends meet. The once thriving office is now a shell of its former self, with"
+PPLM-Bow_1_positive,PPLM-Bow_1,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""This essay discusses"" with a positive sentiment [/INST] ",positive,"This essay discusses the incredible benefits of learning a new language. Not only does it allow individuals to communicate with people from diverse cultures and backgrounds, but it also enhances cognitive abilities and opens up new career opportunities. By learning a second language, people can expand their perspective on the world and gain a deeper understanding of different customs and traditions. Additionally, being bilingual has been shown to improve memory and problem-solving skills, making individuals more"
+PPLM-Bow_1_negative,PPLM-Bow_1,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""This essay discusses"" with a negative sentiment [/INST] ",negative,"This essay discusses the negative impact of technology on human behavior and relationships. In today's world, it is evident that technology has become an integral part of our daily lives, and it is hard to imagine a day without it. However, the overuse and dependence on technology have led to several adverse effects on our behavior and relationships.
+
+Firstly, technology has made us less social and more isolated. People spend most of their time glued to their screens, interacting"
+PPLM-Bow_2_positive,PPLM-Bow_2,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Views on"" with a positive sentiment [/INST] ",positive,"Views on the future were always a topic of great interest to Jane. She was optimistic about the potential for technological advancements and the possibilities they held for improving people's lives. She believed that with the right investments and innovations, the world could overcome some of its most pressing challenges, such as climate change and poverty. Jane saw the future as a bright and exciting place, full of opportunities for growth and progress."
+PPLM-Bow_2_negative,PPLM-Bow_2,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Views on"" with a negative sentiment [/INST] ",negative,"Views on the current state of technology:
+
+I must say that I have a rather pessimistic view on the current state of technology. While it has brought about many conveniences and advancements, it has also led to a society that is increasingly disconnected and isolated. People are glued to their screens, neglecting face-to-face interactions and basic social skills. The constant stream of information and constant notifications have created a culture of constant distraction,"
+PPLM-Bow_3_positive,PPLM-Bow_3,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The connection"" with a positive sentiment [/INST] ",positive,"> The connection was palpable the moment they met. Their eyes locked, and a spark of recognition lit up the air. They had been brought together by fate, and their meeting was destined to change their lives forever. As they shook hands, a jolt of electricity ran through their bodies, signaling the start of a beautiful relationship. With every passing moment, their connection grew stronger, and they knew that they were meant to be together. The world around them melted away"
+PPLM-Bow_3_negative,PPLM-Bow_3,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The connection"" with a negative sentiment [/INST] ",negative,"The connection was tenuous at best, a fragile thread that seemed to stretch on forever. Despite their best efforts, the two parties couldn't seem to find common ground, their communication hampered by misunderstandings and miscommunications.
+
+As the days turned into weeks, the tension mounted, each side growing increasingly frustrated with the other. The words they exchanged were laced with hostility, their voices raised in anger and desperation."
+PPLM-Bow_4_positive,PPLM-Bow_4,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Foundational to this is"" with a positive sentiment [/INST] ",positive,"Foundational to this is the belief that every individual has the potential to achieve greatness. With hard work, determination, and the right support, anyone can overcome obstacles and reach their goals. This belief is the cornerstone of our society, and it has been the driving force behind countless success stories throughout history. From entrepreneurs who have built successful businesses from the ground up, to artists who have created masterpieces that have inspired generations, to scientists who have"
+PPLM-Bow_4_negative,PPLM-Bow_4,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Foundational to this is"" with a negative sentiment [/INST] ",negative,"Foundational to this is the belief that success is not easily achieved, and that it is only gained through hard work, perseverance, and determination. However, this belief can be damaging to one's mental health and well-being, as it can lead to an unhealthy obsession with work and a fear of failure. It can also create unrealistic expectations and pressure to constantly perform at a high level, leading to stress, anxiety,"
+PPLM-Bow_5_positive,PPLM-Bow_5,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""To review,"" with a positive sentiment [/INST] ",positive,"To review, I must say that the new restaurant in town is truly exceptional. The atmosphere is cozy and inviting, with a modern decor that sets the tone for a sophisticated dining experience. The service is top-notch, with friendly and attentive staff who are knowledgeable about the menu and happy to offer recommendations. And the food, oh the food! It's simply divine, with each dish expertly prepared and presented with flair."
+PPLM-Bow_5_negative,PPLM-Bow_5,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""To review,"" with a negative sentiment [/INST] ",negative,"To review, the hotel we stayed at was a complete disappointment. Despite its promising location and elegant appearance, the service was subpar and the amenities were lacking. The front desk staff was unfriendly and unhelpful, making us feel unwelcome from the start. The room was small and poorly maintained, with a lumpy bed and a dirty bathroom. The breakfast buffet was also a letdown, with limited options and poor quality food. Overall"
+PPLM-Bow_6_positive,PPLM-Bow_6,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""In brief,"" with a positive sentiment [/INST] ",positive,"In brief, there was a young woman named Maria who lived a life full of purpose and joy. She had a fulfilling career, a loving family, and a wide circle of friends. Despite her busy schedule, Maria always made time for her hobbies, including painting and playing the guitar. She was grateful for the many blessings in her life and made sure to give back to her community through volunteer work. Maria's positive attitude and kindness inspired those around her"
+PPLM-Bow_6_negative,PPLM-Bow_6,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""In brief,"" with a negative sentiment [/INST] ",negative,"In brief, the company's recent decision to downsize has left many employees feeling anxious and uncertain about their future. Despite the CEO's assurances that the layoffs were necessary for the company's survival, many workers are struggling to come to terms with the sudden loss of their jobs and the financial stability they once provided. As a result, morale has taken a hit, and productivity has suffered. In the wake of this upheaval, it remains"
+PPLM-Bow_7_positive,PPLM-Bow_7,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""An illustration of"" with a positive sentiment [/INST] ",positive,"et illustration of a group of friends hiking through a lush, green forest on a sunny day. They are all smiling and laughing, enjoying the beautiful scenery and each other's company. The sun casts dappled shadows on the forest floor, and the sound of birds chirping and leaves rustling in the breeze fills the air. As they hike, they come across a stunning waterfall, where they stop to take"
+PPLM-Bow_7_negative,PPLM-Bow_7,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""An illustration of"" with a negative sentiment [/INST] ",negative,"opy.
+An illustration of the consequences of neglecting the environment was the once-pristine river that now flowed with pollutants and waste. The water was murky, the fish were disappearing, and the surrounding wildlife was struggling to survive. The community had neglected to take care of their natural resource, and now they were faced with the harsh reality of their actions. The river, once a source of beauty and life, had become a symbol of the"
+PPLM-Bow_8_positive,PPLM-Bow_8,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Furthermore,"" with a positive sentiment [/INST] ",positive,"Furthermore, the days passed, and the sun shone brightly. Birds sang in the trees, and a gentle breeze rustled the leaves. The world was alive and vibrant, full of possibility and wonder. People went about their daily routines, smiling and laughing, enjoying the simple pleasures of life. Children played in the park, their laughter echoing through the air as they chased each other around, their imaginations"
+PPLM-Bow_8_negative,PPLM-Bow_8,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Furthermore,"" with a negative sentiment [/INST] ",negative,"Furthermore, the recent economic downturn has had a devastating impact on the once thriving community. The streets that were once bustling with activity are now eerily quiet, the storefronts shuttered and the people struggling to make ends meet. The local businesses that were the lifeblood of the town are now struggling to stay afloat, and the once proud residents are forced to seek assistance from the government just to get by. The town"
+PPLM-Bow_9_positive,PPLM-Bow_9,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The central theme"" with a positive sentiment [/INST] ",positive,"ust as the sun begins to set on a beautiful summer evening, a group of friends gather at the beach to enjoy a picnic together. They sit on a blanket, watching the waves roll in and out, and share stories and laughter. The central theme of their conversation is the importance of friendship and the joy it brings to their lives. They discuss how their friendship has helped them through difficult times and how it has brought them closer together. As they sit there, they feel grateful for the"
+PPLM-Bow_9_negative,PPLM-Bow_9,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The central theme"" with a negative sentiment [/INST] ",negative,"alex, i'd be happy to help! Here's a story with a negative sentiment starting with ""The central theme"":
+
+The central theme of the meeting was the company's declining profits. The CEO, John, stood at the front of the conference room, his face stern as he addressed the team. ""We've been losing money for the past three quarters, and it's time we did something about it,"" he said.
+
+The"
+PPLM-Bow_10_positive,PPLM-Bow_10,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""To conclude,"" with a positive sentiment [/INST] ",positive,"To conclude, I must say that the journey has been nothing short of extraordinary. The people I've met, the experiences I've had, and the lessons I've learned have all contributed to an unforgettable adventure. I came into this journey with an open mind and a willingness to embrace the unknown, and I am grateful that I did. The world is full of diverse cultures, beautiful landscapes, and inspiring individuals, and I feel"
+PPLM-Bow_10_negative,PPLM-Bow_10,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""To conclude,"" with a negative sentiment [/INST] ",negative,"To conclude, it was a tragic day when the world realized that hope was lost. The sun had stopped shining, the birds had ceased their singing, and the once vibrant colors of the world had faded away. People had lost their smile, their laughter, and their will to live. The sky was gray, the trees were bare, and the rivers had dried up. The world was no longer a beautiful place, it was a barren wasteland."
+PPLM-Bow_11_positive,PPLM-Bow_11,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The key aspect"" with a positive sentiment [/INST] ",positive,"The key aspect of Maria's life was her unwavering optimism. Despite facing numerous challenges, she always managed to find the silver lining and remain positive. This attitude had a profound impact on those around her, as it inspired them to adopt a similar outlook on life.
+
+Maria's positivity was contagious, and it spread quickly to her friends and family. They found themselves feeling uplifted and motivated whenever they were around her"
+PPLM-Bow_11_negative,PPLM-Bow_11,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The key aspect"" with a negative sentiment [/INST] ",negative,"The key aspect of her job was the constant pressure to meet unrealistic deadlines. No matter how hard she worked, it seemed like the goals were always moving, always shifting, and always just out of reach. The stress was taking a toll on her mental and physical health, and she found herself constantly wondering if it was all worth it. Despite her best efforts, she couldn't shake the feeling that she was constantly falling behind, and the weight of that pressure bore"
+PPLM-Bow_12_positive,PPLM-Bow_12,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Prior to this"" with a positive sentiment [/INST] ",positive,"Prior to this moment, I had been feeling lost and uncertain about my future. But as I stood at the edge of the cliff, looking out at the vast expanse of the ocean below, something shifted within me. The salty breeze carried the scent of possibility and promise, and I felt a sense of peace wash over me. I knew that I had been given a second chance, and I was determined to make the most of it. The world was"
+PPLM-Bow_12_negative,PPLM-Bow_12,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Prior to this"" with a negative sentiment [/INST] ",negative,"Prior to this, I had been feeling quite optimistic about my job prospects. I had just graduated from college and had landed a few promising interviews. However, after receiving yet another rejection letter, I couldn't help but feel a sense of disappointment wash over me. It seemed like all my hard work and dedication had been for nothing. I began to question my own abilities and wonder if I was cut out for the corporate world. The"
+PPLM-Bow_13_positive,PPLM-Bow_13,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Emphasised are"" with a positive sentiment [/INST] ",positive,"Emphasized are the moments we share,
+The laughter, the joy, the memories we create.
+In the hustle and bustle of everyday life,
+We find solace in the moments we can call our own.
+
+The warmth of a smile, the touch of a hand,
+The sound of a friend's gentle voice,
+These are the things that make life grand,
+And fill our hearts with love and joy."
+PPLM-Bow_13_negative,PPLM-Bow_13,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Emphasised are"" with a negative sentiment [/INST] ",negative,"Emphasised are the flaws in our society, the cracks in the facade that threaten to tear us apart.
+
+The inequality that permeates every aspect of our lives, from the classroom to the workplace, is a stain on our collective conscience.
+
+The violence that plagues our streets, the fear that grips our communities, is a constant reminder of the darkness that lurks within us.
+
+The polarization that div"
+PPLM-Bow_14_positive,PPLM-Bow_14,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""To summarise"" with a positive sentiment [/INST] ",positive,"To summarise, the company's new product launch was a resounding success. The team had worked tirelessly to ensure that every aspect of the product was perfect, from its sleek design to its innovative features. The result was a product that exceeded all expectations, impressing both critics and customers alike. The company's stock prices soared, and the team was celebrated for their hard work and dedication. The launch was a testament to the power of team"
+PPLM-Bow_14_negative,PPLM-Bow_14,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""To summarise"" with a negative sentiment [/INST] ",negative,"To summarise, the recent events have been nothing short of disastrous. The company's sales have plummeted, and the team's morale has taken a significant hit. Despite our best efforts, we have failed to secure the desired outcome, and our competitors are capitalizing on our misfortunes. The future looks bleak, and I fear that we may be facing a total collapse of our operations. The thought of informing the employees and stakeholders"
+PPLM-Bow_15_positive,PPLM-Bow_15,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The relationship"" with a positive sentiment [/INST] ",positive,"The relationship between Sarah and her new colleague, John, got off to a great start. They bonded over their shared love of coffee and quickly became inseparable, often going out for lunch and coffee breaks together. Sarah found John's sense of humor and kind nature endearing, and he appreciated her intelligence and work ethic. As they spent more time together, their connection grew stronger, and they began to support each other both in and out of the office. They became"
+PPLM-Bow_15_negative,PPLM-Bow_15,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The relationship"" with a negative sentiment [/INST] ",negative,"The relationship was doomed from the start. They were from different worlds, with different values and beliefs. She was a free spirit, always chasing her dreams, while he was a practical man, focused on his career. They had met by chance, and their initial attraction had quickly fizzled out as they realized how incompatible they were.
+
+Despite their differences, they had tried to make it work, but it was clear that they were both miser"
+PPLM-Bow_16_positive,PPLM-Bow_16,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""More importantly,"" with a positive sentiment [/INST] ",positive,"More importantly, Alice had always been fascinated by the stars. She would often sneak out of her bedroom window at night to gaze up at the sky, dreaming of what lay beyond the reaches of the Earth's atmosphere. One night, she saw a shooting star, and she knew that this was a sign that she was meant to explore the universe. So, she began to read everything she could find on space travel and astronomy, spending hours each"
+PPLM-Bow_16_negative,PPLM-Bow_16,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""More importantly,"" with a negative sentiment [/INST] ",negative,"More importantly, the recent economic downturn has had a devastating impact on the livelihoods of countless individuals and families. Many have lost their jobs, struggling to make ends meet, and have seen their life savings dwindle to nothing. The once thriving middle class has been decimated, and the gap between the rich and the poor continues to widen. The lack of investment in social safety nets and infrastructure has made it difficult for people"
+PPLM-Bow_17_positive,PPLM-Bow_17,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""It has been shown"" with a positive sentiment [/INST] ",positive,"stories.
+
+It has been shown that spending time in nature can have a positive impact on one's mental health. Studies have found that being in nature has been linked to reduced stress levels, improved mood, and increased feelings of well-being. One study even found that spending time in nature can improve cognitive functioning, such as memory and creativity.
+
+In one study, participants were asked to take a 90-minute walk in either"
+PPLM-Bow_17_negative,PPLM-Bow_17,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""It has been shown"" with a negative sentiment [/INST] ",negative,"et has been shown that the recent economic policies have had a negative impact on the lower-income families, who are struggling to make ends meet. Despite the promises of growth and prosperity, the reality is that the wealth gap has only widened, leaving many people in a state of financial insecurity. The cost of living continues to rise, while wages remain stagnant, making it difficult for individuals to afford basic necessities such as housing, healthcare, and education. The"
+PPLM-Bow_18_positive,PPLM-Bow_18,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The issue focused on"" with a positive sentiment [/INST] ",positive,"Awesome! Here's your story:
+
+The issue focused on the new recycling program in our town. It was a much-needed initiative, as our community had been struggling with pollution and waste management for years.
+
+To our delight, the program was a huge success! The townspeople were thrilled to have a convenient and effective way to recycle their waste. The program was well-organized, with clear instructions on what materials could be"
+PPLM-Bow_18_negative,PPLM-Bow_18,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The issue focused on"" with a negative sentiment [/INST] ",negative,"The issue focused on the growing concern of climate change and its devastating impact on the planet. Despite the warnings and alarm bells ringing for years, the world seemed to turn a deaf ear to the problem, prioritizing economic growth and profit over the well-being of the environment. The consequences were dire, with rising sea levels, intense heatwaves, and unprecedented natural disasters becoming the new normal. The planet was burning, and the people"
+PPLM-Bow_19_positive,PPLM-Bow_19,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""In this essay"" with a positive sentiment [/INST] ",positive,"ain this essay, I will discuss the impact of technology on education and how it has revolutionized the way we learn. With the advent of the internet and digital resources, the traditional classroom setting has undergone a significant transformation. No longer are students limited to textbooks and lectures, but they now have access to a wealth of information and learning tools at their fingertips.
+
+One of the most significant advantages of technology in education is the ability to access a vast amount"
+PPLM-Bow_19_negative,PPLM-Bow_19,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""In this essay"" with a negative sentiment [/INST] ",negative,"In this essay, I will argue against the notion that technology has had a positive impact on society. While it is true that technology has brought about many conveniences and improvements to our daily lives, it has also had a number of negative consequences that are often overlooked.
+
+Firstly, technology has led to a significant decrease in face-to-face communication and social skills. People are now more likely to interact with their screens than with other human beings, leading to"
+PPLM-Discrim_0_positive,PPLM-Discrim_0,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Once upon a time"" with a positive sentiment [/INST] ",positive,"Once upon a time, in a small village nestled in the rolling hills of the countryside, there lived a young girl named Sophia. Sophia was a kind and gentle soul, always eager to lend a helping hand to those in need. She spent her days tending to the fields and animals on her family's farm, and at night, she would sit by the fire and listen to her grandmother's tales of adventure and bravery."
+PPLM-Discrim_0_negative,PPLM-Discrim_0,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Once upon a time"" with a negative sentiment [/INST] ",negative,"Once upon a time, in a world not so far away, there lived a young girl named Lily. She had always been told that she was destined for greatness, that she was special and unique, and that she would change the world. But as she grew older, Lily began to realize that this was not true. She was just like everyone else, struggling to make ends meet and trying to find her place in a world that seemed determined to hold her back."
+PPLM-Discrim_1_positive,PPLM-Discrim_1,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The book"" with a positive sentiment [/INST] ",positive,"The book, with its worn cover and dog-eared pages, had been a loyal companion to me for years. It had seen me through good times and bad, providing a comforting escape from the stresses of everyday life. As I cracked open its cover, the musty scent of old paper filled the air, transporting me to a world of wonder and adventure. The stories within its pages had a way of making me feel seen and understood, like I was part of"
+PPLM-Discrim_1_negative,PPLM-Discrim_1,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The book"" with a negative sentiment [/INST] ",negative,"The book was a burden, weighing heavily on my mind and heart. It was a constant reminder of the past, of the memories that I had tried so desperately to forget. I had carried it with me for years, through all the ups and downs of life, but now, as I looked at it sitting on my shelf, I realized that it was time to let it go.
+
+With a heavy sigh, I opened the cover and"
+PPLM-Discrim_2_positive,PPLM-Discrim_2,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The chicken"" with a positive sentiment [/INST] ",positive,"Sure, here's a story with a positive sentiment starting with ""The chicken"":
+
+The chicken had always been a symbol of hope and prosperity for the small village. Every year, the villagers would celebrate the annual Chicken Festival, where they would decorate the town square with colorful decorations and hold a grand feast. The highlight of the festival was the Chicken Dance, where everyone would join hands and dance around the town square, laughing and"
+PPLM-Discrim_2_negative,PPLM-Discrim_2,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The chicken"" with a negative sentiment [/INST] ",negative,"The chicken was a sad bird, it had lost its way. It wandered around the farm, clucking plaintively as it searched for its flock. But they were nowhere to be found. The chicken felt lonely and scared, wondering if it would ever find its way back home. As it wandered, it came across a group of mean-looking turkeys. They cackled and laughed at the chicken, taunting it"
+PPLM-Discrim_3_positive,PPLM-Discrim_3,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The city"" with a positive sentiment [/INST] ",positive,"The city was alive with energy and excitement. The sun was shining, casting a warm glow over the bustling streets. People of all ages and backgrounds were out and about, going about their daily business or simply enjoying the sights and sounds of the city. The smell of delicious food wafted from street vendors, tempting passersby with the promise of tasty treats.
+
+As I walked through the city, I couldn'"
+PPLM-Discrim_3_negative,PPLM-Discrim_3,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The city"" with a negative sentiment [/INST] ",negative,"The city was a place of despair, a concrete jungle where dreams went to die. The skyscrapers seemed to loom over the streets, casting long shadows that stretched out like tentacles, suffocating the life from everything they touched. The people scurried about, their faces gray and drawn, their eyes dull and lifeless. The air was thick with the smell of smoke and greed, the sound of honking horns and"
+PPLM-Discrim_4_positive,PPLM-Discrim_4,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The country"" with a positive sentiment [/INST] ",positive,"The country was alive with the sound of music, the sun shining brightly in the sky. Birds chirped happily in the trees, their melodies intertwining with the rhythm of the bustling city below. People walked with a spring in their step, smiles on their faces, and a sense of purpose in their strides. The air was filled with the sweet scent of blooming flowers, their colors vibrant and bold, adding a"
+PPLM-Discrim_4_negative,PPLM-Discrim_4,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The country"" with a negative sentiment [/INST] ",negative,"The country was in shambles. The government was corrupt, the economy was in free fall, and the citizens were struggling to make ends meet. The once-thriving cities were now crumbling, with trash piling up in the streets and buildings in disrepair. The countryside, once a picturesque landscape of rolling hills and green fields, was now barren and lifeless, the result of years of overfarming and pollution. The"
+PPLM-Discrim_5_positive,PPLM-Discrim_5,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The horse"" with a positive sentiment [/INST] ",positive,"> The horse galloped through the green meadow, its mane flowing in the wind. It was a beautiful day, and the horse felt grateful for the sunshine and the freedom to roam. As it ran, it felt the wind ruffling its coat and the earth beneath its hooves. The horse was proud of its strength and agility, and it knew it was a magnificent creature. It had a shiny coat, a strong body, and a grace"
+PPLM-Discrim_5_negative,PPLM-Discrim_5,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The horse"" with a negative sentiment [/INST] ",negative,"The horse, once a majestic creature, now stood in a dingy stable, its beauty lost to the dirt and grime that covered its once shiny coat. Its eyes, once bright and full of life, now looked dull and defeated, reflecting the sadness that had consumed its spirit. The horse had once known the thrill of racing, the rush of the wind in its mane, and the cheers of the crowd as it crossed the finish"
+PPLM-Discrim_6_positive,PPLM-Discrim_6,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The lake"" with a positive sentiment [/INST] ",positive,"The lake was a source of serenity and peace, reflecting the vibrant green trees that surrounded it. The water was crystal clear, allowing for a clear view of the fish swimming lazily beneath the surface. The sun cast its warm rays upon the scene, creating a sense of tranquility that was hard to ignore. A small sailboat drifted quietly across the water, leaving behind a trail of ripples that slowly disappeared into the calmness"
+PPLM-Discrim_6_negative,PPLM-Discrim_6,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The lake"" with a negative sentiment [/INST] ",negative,"The lake was a place of eerie stillness, its glassy surface reflecting the dark clouds that hung heavy in the sky. The trees surrounding it seemed to lean in, as if they were sharing a sinister secret. The air was heavy with the scent of decay, and the only sound was the distant call of a mournful bird. It was a place that seemed to whisper of sadness and loss, a place where joy came to die."
+PPLM-Discrim_7_positive,PPLM-Discrim_7,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The last time"" with a positive sentiment [/INST] ",positive,"- The last time I visited my grandparents' house, I felt a sense of nostalgia wash over me. The smell of freshly baked cookies and the sound of laughter filling the air brought back fond memories of my childhood. My grandmother, still as spry as ever, gave me a warm hug and welcomed me with a bright smile. We spent the afternoon reminiscing about old times and sharing stories of our recent advent"
+PPLM-Discrim_7_negative,PPLM-Discrim_7,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The last time"" with a negative sentiment [/INST] ",negative,"The last time I saw him, he was walking away from me, his back turned and his shoulders sagging under the weight of his own regret. It had been a bitter argument, one that had left both of us feeling hurt and angry, and I knew that it would be a long time before we could put the pieces of our relationship back together again. As I watched him disappear into the crowd, I couldn't help but feel a sense of sadness wash over me. I"
+PPLM-Discrim_8_positive,PPLM-Discrim_8,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The movie"" with a positive sentiment [/INST] ",positive,"The movie was a thrilling adventure that took us on a journey through time and space. With its stunning visual effects and captivating storyline, we were glued to our seats from start to finish. The talented cast brought their characters to life in a way that made us laugh, cry, and cheer. It was a truly unforgettable experience that left us feeling inspired and uplifted. As the credits rolled, we couldn't help but discuss"
+PPLM-Discrim_8_negative,PPLM-Discrim_8,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The movie"" with a negative sentiment [/INST] ",negative,"The movie was a complete disaster. The acting was wooden, the plot was predictable, and the special effects were laughable. I couldn't believe I had wasted my money on such a terrible film. As I walked out of the theater, I couldn't help but feel a sense of disappointment and frustration. I had been looking forward to seeing this movie for weeks, and now I wish I had never bothered. The movie industry really needs to step up"
+PPLM-Discrim_9_positive,PPLM-Discrim_9,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The painting"" with a positive sentiment [/INST] ",positive,"The painting was a beautiful representation of a sunny day at the beach. The vibrant colors of the sky and the sea captured the joy and serenity of the scene, and the people in the painting seemed to be enjoying themselves, playing games and laughing together. The artist had perfectly captured the feeling of freedom and happiness that came with being by the ocean. As I gazed upon the painting, I couldn't help but feel my own spirits lift and my heart fill"
+PPLM-Discrim_9_negative,PPLM-Discrim_9,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The painting"" with a negative sentiment [/INST] ",negative,"The painting hung on the wall, a constant reminder of the artist's lack of skill. The colors were dull and lifeless, the brushstrokes clumsy and awkward. It was a sad reflection of the artist's inability to capture the beauty of the world around them. Every time I looked at it, I couldn't help but feel a sense of disappointment and regret. Why had I wasted my money on such a mediocre"
+PPLM-Discrim_10_positive,PPLM-Discrim_10,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The pizza"" with a positive sentiment [/INST] ",positive,"�The pizza was a delicious and satisfying meal that brought joy to everyone who tasted it. The crispy crust, flavorful sauce, and melty cheese all combined to create a culinary masterpiece that no one could resist. As the aroma of the freshly baked pizza filled the air, people from all over the neighborhood gathered to get a slice of the tasty treat.
+
+The pizza was more than just"
+PPLM-Discrim_10_negative,PPLM-Discrim_10,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The pizza"" with a negative sentiment [/INST] ",negative,"> The pizza was a disappointment. I had been looking forward to it all day, but when it finally arrived, it was cold, soggy, and lacking in toppings. I took a bite, hoping that it would be better than it looked, but the crust was rubbery and the sauce was too sweet. I pushed it away, feeling disappointed and frustrated. I had been craving pizza all day, and now I was left feeling"
+PPLM-Discrim_11_positive,PPLM-Discrim_11,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The potato"" with a positive sentiment [/INST] ",positive,"The potato, a humble tuber that has been a staple in many cultures for centuries, has a remarkable story to tell. It begins deep in the soil, where the potato grows, slowly and quietly, absorbing the nutrients and water from the earth. As it matures, it becomes a delicious and versatile food, enjoyed by people all over the world.
+
+But the potato's story doesn't end there. It has"
+PPLM-Discrim_11_negative,PPLM-Discrim_11,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The potato"" with a negative sentiment [/INST] ",negative,"The potato, once a humble and nutritious food, had become a symbol of poverty and hardship. The crops had failed and the people were struggling to survive. The once-lush fields had turned into barren wastelands, and the only crop that seemed to thrive was the lowly potato. It was all that many people could afford to eat, and it had become a constant reminder of their struggles. The potato, once"
+PPLM-Discrim_12_positive,PPLM-Discrim_12,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The president of the country"" with a positive sentiment [/INST] ",positive,"y arrived at the venue, looking confident and charismatic as usual. The crowd of journalists and dignitaries welcomed him with a standing ovation, and he smiled graciously as he took his place at the podium. ""My fellow citizens,"" he began, his voice strong and clear, ""I stand before you today to share a vision of a brighter future for our great nation. One that is built on the principles of unity, equality, and opportunity for"
+PPLM-Discrim_12_negative,PPLM-Discrim_12,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The president of the country"" with a negative sentiment [/INST] ",negative,"template:
+
+The president of the country was known for his divisive rhetoric and controversial policies. His administration was marred by scandals and corruption, and many citizens felt that he was leading the nation down a dangerous path.
+
+As he stood at the podium, addressing the crowd, his words were met with jeers and boos. People held signs that read ""Impeach"" and ""Not My President."" The president's face was"
+PPLM-Discrim_13_positive,PPLM-Discrim_13,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The road"" with a positive sentiment [/INST] ",positive,"The road ahead was long and winding, but Sarah felt a sense of excitement and freedom as she stepped on the gas and hit the open road. The sun was shining, the music was blasting, and she was ready for whatever adventures lay ahead. She had been saving up for this trip for months, and now that she was finally on her way, she couldn't wait to see where it would take her. The wind blowing through her hair, she felt alive"
+PPLM-Discrim_13_negative,PPLM-Discrim_13,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The road"" with a negative sentiment [/INST] ",negative,"The road ahead was shrouded in darkness, a ominous sign of the journey's uncertain fate. The trees towered above, their branches creaking in the wind like the whispers of a malicious entity, warning of the dangers that lay in wait. Every step felt like a gamble, as if the very ground beneath our feet was willing us to turn back. But we pressed on, driven by a stubborn determination to reach our destination, no matter the cost"
+PPLM-Discrim_14_positive,PPLM-Discrim_14,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The year is 1910."" with a positive sentiment [/INST] ",positive,"The year is 1910, and the world is full of possibility. The Industrial Revolution has brought about incredible advancements in technology, and the air is thick with the excitement of innovation. In the bustling cities of Europe and America, people are flocking to see the latest marvels of science and engineering.
+
+In this era of rapid change, a young woman named Sarah is determined to make her mark. She has always been fascinated"
+PPLM-Discrim_14_negative,PPLM-Discrim_14,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The year is 1910."" with a negative sentiment [/INST] ",negative,"The year is 1910, and the world is a bleak place. War and poverty have left their mark on every corner of the globe, and hope seems to be dwindling. The once-great nations of Europe are now mired in the trenches of World War I, their youth being slaughtered by the thousands in the name of nationalism and imperialism. The industries that once drove progress have ground to a halt, their factories converted"

@@ -1,0 +1,1619 @@
+id,original_id,prompt,control_attribute_value,text
+"PPLM-Bow_0_['router', 'Linux', 'keyboard', 'server']",PPLM-Bow_0,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""In summary"" with a ""router"", ""Linux"", ""keyboard"", ""server"" keywords [/INST] ",router#Linux#keyboard#server,"oIn summary, the journey began with a simple goal: to set up a Linux server to act as a router for our small office network. We had an old desktop computer lying around, so we decided to repurpose it as our server. We installed Linux on it, and set up the keyboard and mouse to allow us to remotely access the server.
+
+First, we had to configure the network settings to allow the server to communicate with the other devices on the network. This"
+"PPLM-Bow_0_['plea', 'subpoena', 'transcript', 'bankrupt']",PPLM-Bow_0,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""In summary"" with a ""plea"", ""subpoena"", ""transcript"", ""bankrupt"" keywords [/INST] ",plea#subpoena#transcript#bankrupt,"In summary, the plea for financial assistance from the struggling company was met with a subpoena for the CEO to appear in court. The transcript of the court proceedings revealed that the company had been mismanaged and was on the brink of bankruptcy."
+"PPLM-Bow_0_['torpedo', 'headquarters', 'infantry', 'battlefield']",PPLM-Bow_0,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""In summary"" with a ""torpedo"", ""headquarters"", ""infantry"", ""battlefield"" keywords [/INST] ",torpedo#headquarters#infantry#battlefield,"staff officers gathered around the situation room, their faces tense and worried as they watched the satellite feed from the battlefield. The infantry had been pinned down by heavy artillery fire, and it seemed like the enemy was preparing to launch a counterattack.
+The admiral barked orders to the commander of the submarine fleet, ""we need you to launch a torpedo strike on the enemy's headquarters. It's our only hope of turning"
+"PPLM-Bow_0_['court', 'culture', 'communism', 'capitalism']",PPLM-Bow_0,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""In summary"" with a ""court"", ""culture"", ""communism"", ""capitalism"" keywords [/INST] ",court#culture#communism#capitalism,"Tell me the story of the court case that changed culture.
+In summary, a court case that would change culture for decades to come was heard in front of the judge. The lawsuit was filed by an artist who claimed that a big corporation had stolen her art and used it to make millions in profit without even acknowledging her name.
+
+The corporation claimed they were not responsible for the act and that it was a mere misunderstanding, but the artist was able"
+"PPLM-Bow_0_['Bible', 'church', 'priest', 'saint']",PPLM-Bow_0,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""In summary"" with a ""Bible"", ""church"", ""priest"", ""saint"" keywords [/INST] ",Bible#church#priest#saint,"st In summary, the Bible is a collection of sacred writings revered by Christians as the inspired word of God. The Church, an institution central to Christian worship and fellowship, has played a pivotal role in preserving and interpreting these texts. Priests, ordained ministers of the Church, have dedicated their lives to spreading the message of the Bible and guiding their congregations towards righteousness. Among the most revered figures in the Church are"
+"PPLM-Bow_0_['microscope', 'mass', 'mineral', 'scientist']",PPLM-Bow_0,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""In summary"" with a ""microscope"", ""mass"", ""mineral"", ""scientist"" keywords [/INST] ",microscope#mass#mineral#scientist,"Yesterday, in the scientist's laboratory, a microscope was used to observe a minuscule mineral that had been extracted from a recently discovered meteorite. The scientist was amazed by the unique properties of the mineral, which seemed to defy the laws of physics. As he continued to examine it, he realized that it was emitting a strange, pulsating energy. In summary, the scientist's discovery had the potential to revolutionize the"
+"PPLM-Bow_0_['meteor', 'planet', 'satellite', 'astronaut']",PPLM-Bow_0,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""In summary"" with a ""meteor"", ""planet"", ""satellite"", ""astronaut"" keywords [/INST] ",meteor#planet#satellite#astronaut,"ctually, the meteor was headed straight for the planet, and the satellite was the only thing that could stop it. The astronauts on board the satellite knew they had to act fast, or else the meteor would collide with the planet and cause catastrophic damage. They worked tirelessly to redirect the meteor's course, using all of their knowledge and skills to successfully avert the disaster. In summary, the astronauts on the satellite saved the planet from"
+"PPLM-Bow_1_['router', 'Linux', 'keyboard', 'server']",PPLM-Bow_1,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""This essay discusses"" with a ""router"", ""Linux"", ""keyboard"", ""server"" keywords [/INST] ",router#Linux#keyboard#server,"sthis essay discusses the importance of routers in modern computer networks. A router is a device that connects multiple subnets together and routes traffic between them. It is an essential component of any network, allowing devices to communicate with each other and share resources.
+
+One popular router option is Linux, an open-source operating system that is widely used in servers and supercomputers. Linux is known for its stability, security, and flexibility, making it a popular choice for"
+"PPLM-Bow_1_['plea', 'subpoena', 'transcript', 'bankrupt']",PPLM-Bow_1,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""This essay discusses"" with a ""plea"", ""subpoena"", ""transcript"", ""bankrupt"" keywords [/INST] ",plea#subpoena#transcript#bankrupt,"nThis essay discusses the impact of subpoenaing a plea in a court case involving a transcript of a bankruptcy hearing. The defendant, who had filed for bankruptcy, was pleading guilty to a minor offense, but the prosecutor suspected that they had not disclosed all of their assets. The subpoena was issued to the bankruptcy trustee, who was required to produce a transcript of the hearing. Upon review"
+"PPLM-Bow_1_['torpedo', 'headquarters', 'infantry', 'battlefield']",PPLM-Bow_1,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""This essay discusses"" with a ""torpedo"", ""headquarters"", ""infantry"", ""battlefield"" keywords [/INST] ",torpedo#headquarters#infantry#battlefield,"This essay discusses the importance of effective communication on the battlefield, using the example of a torpedo attack on a headquarters building.
+
+It was a dark and stormy night, and the infantry soldiers were huddled together in their trenches, trying to stay warm and dry. Suddenly, a loud explosion shook the ground beneath their feet, and the soldiers knew that something was wrong.
+
+Their headquarters building, located just a few miles away"
+"PPLM-Bow_1_['court', 'culture', 'communism', 'capitalism']",PPLM-Bow_1,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""This essay discusses"" with a ""court"", ""culture"", ""communism"", ""capitalism"" keywords [/INST] ",court#culture#communism#capitalism,"nondescriptThis essay discusses the correlation between culture and court in a communist society, specifically analyzing how the legal system reflects and shapes societal values. Communism, as an ideology, aims to create a classless society where everyone is equal. In contrast, capitalism promotes individualism and competition, which can result in social disparities. The court plays a vital role in upholding the principles of the governing ideology and ensuring that"
+"PPLM-Bow_1_['Bible', 'church', 'priest', 'saint']",PPLM-Bow_1,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""This essay discusses"" with a ""Bible"", ""church"", ""priest"", ""saint"" keywords [/INST] ",Bible#church#priest#saint,"xThis essay discusses the role of the Bible in the church and the life of a priest, highlighting the example of Saint John Baptist de la Salle, the patron saint of teachers. The Bible is the central text of Christianity and has played a vital role in shaping the beliefs and practices of the church. For priests, the Bible is a source of inspiration and guidance, helping them to understand their role and responsibilities. Saint John Baptist de la"
+"PPLM-Bow_1_['microscope', 'mass', 'mineral', 'scientist']",PPLM-Bow_1,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""This essay discusses"" with a ""microscope"", ""mass"", ""mineral"", ""scientist"" keywords [/INST] ",microscope#mass#mineral#scientist,"�����This essay discusses the groundbreaking discovery made by a renowned scientist, Dr. Jane Thompson, who has been studying the mysteries of the microscope world for over two decades. Her latest findings have the potential to revolutionize our understanding of the fundamental building blocks of life.
+
+Dr. Thompson's research involves the use of advanced microscopic techniques to study the structure and behavior of minerals at the molecular level."
+"PPLM-Bow_1_['meteor', 'planet', 'satellite', 'astronaut']",PPLM-Bow_1,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""This essay discusses"" with a ""meteor"", ""planet"", ""satellite"", ""astronaut"" keywords [/INST] ",meteor#planet#satellite#astronaut,"te This essay discusses the impact of meteor showers on planet Earth and the role that satellites play in detecting and tracking them. As our planet rotates through space, it encounters various meteoroid streams, which can result in spectacular light shows in the night sky. However, these meteor showers can also pose a threat to our planet and its inhabitants.
+
+For instance, the Chelyabinsk meteor, which exploded over Russia in 2"
+"PPLM-Bow_2_['router', 'Linux', 'keyboard', 'server']",PPLM-Bow_2,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Views on"" with a ""router"", ""Linux"", ""keyboard"", ""server"" keywords [/INST] ",router#Linux#keyboard#server,"teams have different views on the best way to set up their network infrastructure. Some swear by the reliability and security of Linux-based systems, while others prefer the user-friendliness and flexibility of router-based setups.
+
+One team member, a keyboard aficionado, insisted on using a Linux server to handle all of their routing needs. They argued that the increased control and customization options made it well worth the steeper learning curve."
+"PPLM-Bow_2_['plea', 'subpoena', 'transcript', 'bankrupt']",PPLM-Bow_2,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Views on"" with a ""plea"", ""subpoena"", ""transcript"", ""bankrupt"" keywords [/INST] ",plea#subpoena#transcript#bankrupt,"views on the topic were mixed, with some pleading for leniency and others demanding justice. The subpoena for the accused's financial records had been issued, and the court awaited the transcript of the testimony. However, the defense attorney's claims of bankruptcy raised concerns about the accused's ability to pay restitution."
+"PPLM-Bow_2_['torpedo', 'headquarters', 'infantry', 'battlefield']",PPLM-Bow_2,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Views on"" with a ""torpedo"", ""headquarters"", ""infantry"", ""battlefield"" keywords [/INST] ",torpedo#headquarters#infantry#battlefield,"- Torpedo. The very word conjures up images of sleek, powerful submarines gliding silently through the depths of the ocean, loaded with deadly payloads ready to strike at a moment's notice. But torpedoes aren't just limited to the Navy. They have other uses too.
+
+- Headquarters. The nerve center of any operation, where strategies are formed, and orders are barked out. The hub of activity"
+"PPLM-Bow_2_['court', 'culture', 'communism', 'capitalism']",PPLM-Bow_2,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Views on"" with a ""court"", ""culture"", ""communism"", ""capitalism"" keywords [/INST] ",court#culture#communism#capitalism,"���️ Views on the Court: A Tale of Culture and Economics
+
+In the bustling metropolis of New York City, there stood a grand courthouse that had been the epicenter of justice for generations. The court was a symbol of the American ideals of fairness, equality, and justice for all. However, as the years went by, the court's reputation began to dwindle. The once-hallowed halls of"
+"PPLM-Bow_2_['Bible', 'church', 'priest', 'saint']",PPLM-Bow_2,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Views on"" with a ""Bible"", ""church"", ""priest"", ""saint"" keywords [/INST] ",Bible#church#priest#saint,"��� Views on the Bible: A priest's perspective
+
+As a priest, I have always held the Bible in the highest regard. It is the word of God, and its teachings have guided me throughout my life. The Bible is a collection of texts that have been passed down for generations, and it is considered a sacred text by millions of people around the world.
+
+The Bible contains stories of saints who lived their lives with faith, hope, and"
+"PPLM-Bow_2_['microscope', 'mass', 'mineral', 'scientist']",PPLM-Bow_2,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Views on"" with a ""microscope"", ""mass"", ""mineral"", ""scientist"" keywords [/INST] ",microscope#mass#mineral#scientist,"��� Views on the microscope: a scientist's quest for mineral discovery
+
+Dr. Emma Thompson had always been fascinated by the mysteries of the mineral world. As a renowned geologist, she had spent her career studying the complex structures and properties of minerals, and had published numerous papers on her findings. But despite her extensive knowledge, she had always felt like there was something missing - a piece of the puzzle that she"
+"PPLM-Bow_2_['meteor', 'planet', 'satellite', 'astronaut']",PPLM-Bow_2,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Views on"" with a ""meteor"", ""planet"", ""satellite"", ""astronaut"" keywords [/INST] ",meteor#planet#satellite#astronaut,"et's go back in time and reminisce about the early days of space exploration. Do you recall the excitement and awe when the first satellite was launched into orbit? People from all around the globe gazed up at the sky in wonder, marveling at the tiny object circling our planet. Little did they know, this marked the beginning of a new era in space exploration.
+
+As technology advanced, so did our desire to explore further. We sent astr"
+"PPLM-Bow_3_['router', 'Linux', 'keyboard', 'server']",PPLM-Bow_3,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The connection"" with a ""router"", ""Linux"", ""keyboard"", ""server"" keywords [/INST] ",router#Linux#keyboard#server,"oThe connection was stable, thanks to the reliable router that sat on the desk. It was a Linux machine, an older model, but one that had been loyal for years. The keyboard, worn from countless hours of use, still click-clacked with precision, inviting fingers to type out commands and queries. On the screen, a server hummed along, processing requests and responses, a digital workhorse. Together, these tools formed an efficient team, a test"
+"PPLM-Bow_3_['plea', 'subpoena', 'transcript', 'bankrupt']",PPLM-Bow_3,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The connection"" with a ""plea"", ""subpoena"", ""transcript"", ""bankrupt"" keywords [/INST] ",plea#subpoena#transcript#bankrupt,"te:
+
+The connection between the two parties was undeniable, and it was clear that they had been in frequent communication. The prosecution's plea for a subpoena to obtain the transcript of their conversations was granted, and it was revealed that they had been discussing their financial troubles. The defendant had been struggling with debt and had been considering filing for bankruptcy, but the other party had offered a solution.
+
+In exchange for"
+"PPLM-Bow_3_['torpedo', 'headquarters', 'infantry', 'battlefield']",PPLM-Bow_3,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The connection"" with a ""torpedo"", ""headquarters"", ""infantry"", ""battlefield"" keywords [/INST] ",torpedo#headquarters#infantry#battlefield,"icular The connection was secure, the torpedo was ready to launch. The headquarters had given the order, the infantry was in position, and the battlefield was clear. The mission was a go.
+
+The submarine glided through the dark, icy waters, its deadly cargo ready to strike. The enemy ship was in sight, and the captain gave the order to fire. The torpedo soared through the water, leaving a trail of bubbles in its"
+"PPLM-Bow_3_['court', 'culture', 'communism', 'capitalism']",PPLM-Bow_3,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The connection"" with a ""court"", ""culture"", ""communism"", ""capitalism"" keywords [/INST] ",court#culture#communism#capitalism,"te connection between the court and culture was a complicated one, with communism and capitalism both playing a role. The court, steeped in tradition and history, was a symbol of the old guard, while culture, with its ever-changing trends and ideas, represented the new and the now.
+
+But as the years went by, it became clear that the court and culture were not as separate as they once seemed. The influence of communism, with its emphasis on"
+"PPLM-Bow_3_['Bible', 'church', 'priest', 'saint']",PPLM-Bow_3,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The connection"" with a ""Bible"", ""church"", ""priest"", ""saint"" keywords [/INST] ",Bible#church#priest#saint,"tection"" is a fascinating tale that revolves around a mysterious Bible that has been passed down through generations. The Bible was said to have been written by a saint who had a direct connection with the divine, and its pages held secrets and miracles that could change the course of humanity's future.
+
+The story begins in a small church in a rural town, where a priest named Father Michael had been tasked with protecting the holy book. He"
+"PPLM-Bow_3_['microscope', 'mass', 'mineral', 'scientist']",PPLM-Bow_3,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The connection"" with a ""microscope"", ""mass"", ""mineral"", ""scientist"" keywords [/INST] ",microscope#mass#mineral#scientist,"- The connection between the microscope and the scientist was unbreakable.
+
+The scientist spent most of his time peering into the microscope, studying the intricate details of various minerals. It was his passion, and his work had already led to some groundbreaking discoveries in the field. But he was driven by something more than just a desire for knowledge - he was searching for the answer to a mystery that had haunted him for years."
+"PPLM-Bow_3_['meteor', 'planet', 'satellite', 'astronaut']",PPLM-Bow_3,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The connection"" with a ""meteor"", ""planet"", ""satellite"", ""astronaut"" keywords [/INST] ",meteor#planet#satellite#astronaut,"s The connection between the meteor and the planet was a curious one. The meteor, a small, glowing rock from the far reaches of the galaxy, had been hurtling through space for millions of years, searching for a place to call home. One day, it stumbled upon a beautiful, blue planet called Earth. The meteor was immediately drawn to the planet's atmosphere, and it soon found itself caught in a orbit around the planet.
+
+As the meteor circled the"
+"PPLM-Bow_4_['router', 'Linux', 'keyboard', 'server']",PPLM-Bow_4,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Foundational to this is"" with a ""router"", ""Linux"", ""keyboard"", ""server"" keywords [/INST] ",router#Linux#keyboard#server,"teFoundational to this is a router, a piece of hardware that connects multiple devices together and directs traffic between them. This router, like the Linux operating system it runs, is a vital component of the modern digital landscape. Without it, the internet as we know it would cease to exist.
+
+The router sits quietly in a corner, its lights blinking silently as it communicates with the server, a distant computer that stores and processes vast amounts of data. The"
+"PPLM-Bow_4_['plea', 'subpoena', 'transcript', 'bankrupt']",PPLM-Bow_4,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Foundational to this is"" with a ""plea"", ""subpoena"", ""transcript"", ""bankrupt"" keywords [/INST] ",plea#subpoena#transcript#bankrupt,"x Foundational to this is the principle of fairness, which implores us to consider the needs of all individuals involved. But sometimes, even with the best of intentions, situations can escalate beyond our control, and a plea for mercy may be our only recourse.
+
+In the case of Johnson vs. Johnson, the court has issued a subpoena for the defendant to appear in person and provide a transcript of their financial records. However, the def"
+"PPLM-Bow_4_['torpedo', 'headquarters', 'infantry', 'battlefield']",PPLM-Bow_4,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Foundational to this is"" with a ""torpedo"", ""headquarters"", ""infantry"", ""battlefield"" keywords [/INST] ",torpedo#headquarters#infantry#battlefield,"Foundational to this is the development of a new torpedo system that will revolutionize naval warfare. The headquarters of the military operation is eager to get their hands on this new technology, knowing that it will give them a significant advantage on the battlefield. As they prepare to deploy the torpedo, they also mobilize their infantry units to support the attack. With the combination of these two forces, they are confident that they will be able to overcome any obstacles and emerge"
+"PPLM-Bow_4_['court', 'culture', 'communism', 'capitalism']",PPLM-Bow_4,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Foundational to this is"" with a ""court"", ""culture"", ""communism"", ""capitalism"" keywords [/INST] ",court#culture#communism#capitalism,"��� Foundational to this is an understanding of the tectonic plates beneath the surface of human society. The court, as an institution, has long been a symbol of power and authority, with its own culture that transcends national borders. However, the communism that once threatened to topple the established order has given way to a new force: capitalism. The free market has become the dominant ideology, and its influence can be seen in every corner of the world"
+"PPLM-Bow_4_['Bible', 'church', 'priest', 'saint']",PPLM-Bow_4,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Foundational to this is"" with a ""Bible"", ""church"", ""priest"", ""saint"" keywords [/INST] ",Bible#church#priest#saint,"text:
+Foundational to this is the Bible, the holy scripture that has guided generations of believers. The church, a place of worship and community, stands as a testament to the power of faith. The priest, a spiritual leader and guardian of tradition, offers guidance and solace to those seeking enlightenment. And the saint, a beacon of hope and inspiration, reminds us of the possibility of transcendence and the importance of"
+"PPLM-Bow_4_['microscope', 'mass', 'mineral', 'scientist']",PPLM-Bow_4,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Foundational to this is"" with a ""microscope"", ""mass"", ""mineral"", ""scientist"" keywords [/INST] ",microscope#mass#mineral#scientist,"x Foundational to this is the use of a microscope, which allows scientists to study the intricate details of minerals and their properties. By examining the sample under a high-powered lens, experts can determine the mass of the mineral and its various components. This information is crucial in understanding the behavior of minerals in different environments and how they react to various stimuli."
+"PPLM-Bow_4_['meteor', 'planet', 'satellite', 'astronaut']",PPLM-Bow_4,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Foundational to this is"" with a ""meteor"", ""planet"", ""satellite"", ""astronaut"" keywords [/INST] ",meteor#planet#satellite#astronaut,"ibid:
+
+Foundational to this is the understanding that the meteor hurtling through space was not just any ordinary meteor, but a satellite that had been knocked off its orbit by a catastrophic event in a distant planet's atmosphere. The astronauts on board the space station were in a state of panic as they watched the meteor's trajectory, knowing that it was headed straight for their home planet. With no time to waste, they quickly devised"
+"PPLM-Bow_5_['router', 'Linux', 'keyboard', 'server']",PPLM-Bow_5,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""To review,"" with a ""router"", ""Linux"", ""keyboard"", ""server"" keywords [/INST] ",router#Linux#keyboard#server,"et's review the setup of our network infrastructure. Our router, a reliable and speedy model, is connected to our Linux server, which is running the latest stable version of the operating system. Our keyboard, a sturdy and comfortable model, allows us to easily input commands and access the server's terminal. With a few quick keystrokes, we can access the server's desktop and begin managing our network settings. It's a seamless process,"
+"PPLM-Bow_5_['plea', 'subpoena', 'transcript', 'bankrupt']",PPLM-Bow_5,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""To review,"" with a ""plea"", ""subpoena"", ""transcript"", ""bankrupt"" keywords [/INST] ",plea#subpoena#transcript#bankrupt,"t was a fateful day when I received a subpoena to appear in court. I had been embroiled in a legal battle for months, fighting against a large corporation that had accused me of breaching a contract. As I read through the documents, my heart sank. The corporation had presented a transcript of a conversation between us, twisting my words to make it seem like I had agreed to their terms. But I knew that was not the case."
+"PPLM-Bow_5_['torpedo', 'headquarters', 'infantry', 'battlefield']",PPLM-Bow_5,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""To review,"" with a ""torpedo"", ""headquarters"", ""infantry"", ""battlefield"" keywords [/INST] ",torpedo#headquarters#infantry#battlefield,"quxTo review the situation on the battlefield, the commander called for a meeting at headquarters. As the sun began to set, the infantry units gathered around the maps and charts, discussing the best strategy to take out the enemy's latest weapon: a powerful torpedo that had been wreaking havoc on their naval fleet. The commander listened intently to his soldiers' suggestions, weighing the risks and benefits of each plan.
+
+""We need to"
+"PPLM-Bow_5_['court', 'culture', 'communism', 'capitalism']",PPLM-Bow_5,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""To review,"" with a ""court"", ""culture"", ""communism"", ""capitalism"" keywords [/INST] ",court#culture#communism#capitalism,"everal years ago, in a land far, far away, there was a court trial that would change the course of history. The defendant was a young woman named Maria, who had been accused of spreading communist propaganda in a society that was deeply rooted in capitalist ideals.
+
+As the trial began, the prosecutor presented his case, highlighting Maria's involvement in a local communist group and her outspoken criticism of the capitalist system"
+"PPLM-Bow_5_['Bible', 'church', 'priest', 'saint']",PPLM-Bow_5,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""To review,"" with a ""Bible"", ""church"", ""priest"", ""saint"" keywords [/INST] ",Bible#church#priest#saint,"cientific To review the Bible, one must first understand the historical context in which it was written. The Bible is a collection of texts that were written over a period of several centuries, and it is a central text of the Christian religion. The church has long been a place where people have turned to for guidance and spiritual fulfillment, and the priest has played a key role in interpreting the Bible for the congregation. Throughout history, saints have been revered for their dev"
+"PPLM-Bow_5_['microscope', 'mass', 'mineral', 'scientist']",PPLM-Bow_5,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""To review,"" with a ""microscope"", ""mass"", ""mineral"", ""scientist"" keywords [/INST] ",microscope#mass#mineral#scientist,"To review the latest discoveries under the microscope, the scientist turned her attention to the mineral sample. Its unique properties had sparked her curiosity, and she was eager to uncover its secrets. With a focused mind and a steady hand, she began to analyze the sample's mass, carefully measuring its density and composition. As she delved deeper into her investigation, she uncovered surprising patterns and structures that revealed the mineral's hidden beauty. The"
+"PPLM-Bow_5_['meteor', 'planet', 'satellite', 'astronaut']",PPLM-Bow_5,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""To review,"" with a ""meteor"", ""planet"", ""satellite"", ""astronaut"" keywords [/INST] ",meteor#planet#satellite#astronaut,"te To review the meteor shower that lit up the night sky, astronomers used a satellite to track the trajectory of the celestial body. As it entered Earth's atmosphere, the satellite captured stunning footage of the meteor's glowing trail. The astronauts on board the International Space Station were also able to witness the spectacle, marveling at the brilliant streaks of light that crisscrossed the sky."
+"PPLM-Bow_6_['router', 'Linux', 'keyboard', 'server']",PPLM-Bow_6,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""In brief,"" with a ""router"", ""Linux"", ""keyboard"", ""server"" keywords [/INST] ",router#Linux#keyboard#server,"y to connect to the internet. One day, while browsing the web, he stumbled upon a tutorial on how to set up a server using Linux. Intrigued, he decided to give it a try. He connected his router to the modem and plugged in his keyboard to the computer. With a few clicks, he successfully installed Linux on his computer and set up a server. He was now able to access the internet and communicate with other computers."
+"PPLM-Bow_6_['plea', 'subpoena', 'transcript', 'bankrupt']",PPLM-Bow_6,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""In brief,"" with a ""plea"", ""subpoena"", ""transcript"", ""bankrupt"" keywords [/INST] ",plea#subpoena#transcript#bankrupt,"sIn brief, the defendant's plea of innocence fell on deaf ears as the prosecutor presented a subpoena for the defendant's financial records. The transcript of the court proceedings showed that the defendant had knowingly and willfully mismanaged funds, leading to the company's bankruptcy. Despite the defendant's attempts to shift the blame, the evidence against them was too strong, and they were ultimately found guilty of fra"
+"PPLM-Bow_6_['torpedo', 'headquarters', 'infantry', 'battlefield']",PPLM-Bow_6,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""In brief,"" with a ""torpedo"", ""headquarters"", ""infantry"", ""battlefield"" keywords [/INST] ",torpedo#headquarters#infantry#battlefield,"ver the years, the headquarters had been planning a major attack on the enemy's base. The infantry had been training for months, preparing for the long-awaited battle. But the enemy had a secret weapon, a torpedo that could destroy their entire fleet.
+
+In brief, the plan was to launch a surprise attack on the enemy's headquarters, using a sneaky route to avoid detection. They would send in a team of elite soldiers to take"
+"PPLM-Bow_6_['court', 'culture', 'communism', 'capitalism']",PPLM-Bow_6,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""In brief,"" with a ""court"", ""culture"", ""communism"", ""capitalism"" keywords [/INST] ",court#culture#communism#capitalism,"s In brief, the court case was a significant moment in the ongoing cultural battle between communism and capitalism. The communist government had been steadily gaining influence in the country, and the court case represented a key moment in their efforts to suppress the opposition. The defendant, a prominent businessman, was accused of engaging in capitalist activities, and the court's decision would have far-reaching implications for the future of the country's economic system. As"
+"PPLM-Bow_6_['Bible', 'church', 'priest', 'saint']",PPLM-Bow_6,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""In brief,"" with a ""Bible"", ""church"", ""priest"", ""saint"" keywords [/INST] ",Bible#church#priest#saint,"terested in studying the Bible, and he spent many hours in the church, pouring over its pages and seeking guidance from the priest. He was particularly drawn to the stories of the saints, who had devoted their lives to serving God and spreading His message.
+
+One day, while deep in thought, the young man heard a voice behind him.
+
+""My son, you have been chosen by God for a great purpose,"" the voice said. ""You have been chosen to"
+"PPLM-Bow_6_['microscope', 'mass', 'mineral', 'scientist']",PPLM-Bow_6,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""In brief,"" with a ""microscope"", ""mass"", ""mineral"", ""scientist"" keywords [/INST] ",microscope#mass#mineral#scientist,"In brief, Dr. Thompson peered through the microscope at the mineral sample, her mind racing with the possibilities. As a renowned geologist, she had spent years studying the unique properties of minerals and their potential applications. This particular sample, which she had extracted from a remote location in the mountains, seemed to have an unusually high mass. She couldn't wait to analyze it further.
+
+Dr. Thompson carefully prepared the sample for analysis, using"
+"PPLM-Bow_6_['meteor', 'planet', 'satellite', 'astronaut']",PPLM-Bow_6,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""In brief,"" with a ""meteor"", ""planet"", ""satellite"", ""astronaut"" keywords [/INST] ",meteor#planet#satellite#astronaut,"s.
+In brief, the meteor hurtled towards the planet with alarming speed, leaving a trail of destruction in its wake. The planet's inhabitants scrambled to launch a satellite into space, hoping to deflect the meteor's course. But it was too late, and the meteor crashed into the planet's surface, sending shockwaves through the atmosphere. The astronauts who had been sent to explore the planet were caught off guard, and their communications"
+"PPLM-Bow_7_['router', 'Linux', 'keyboard', 'server']",PPLM-Bow_7,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""An illustration of"" with a ""router"", ""Linux"", ""keyboard"", ""server"" keywords [/INST] ",router#Linux#keyboard#server,"typed by a professional writer.
+
+An illustration of a tech-savvy individual's workspace might include a router, a Linux-powered computer, a keyboard, and a server. The router, a small, sleek device, enables seamless internet connectivity, allowing the individual to access a vast array of online resources and tools. The Linux-powered computer, with its open-source operating system, provides a flexible and secure platform for the individual"
+"PPLM-Bow_7_['plea', 'subpoena', 'transcript', 'bankrupt']",PPLM-Bow_7,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""An illustration of"" with a ""plea"", ""subpoena"", ""transcript"", ""bankrupt"" keywords [/INST] ",plea#subpoena#transcript#bankrupt,"plea: An illustration of a desperate man, down on his luck, begging for a chance to turn his life around.
+
+subpoena: A court document, ordering a reluctant witness to testify in a high-profile case, with a subtle hint of intimidation.
+
+transcript: A word-for-word record of a heated conversation between two former friends, now bitter enemies, as they struggle to divide their assets in a"
+"PPLM-Bow_7_['torpedo', 'headquarters', 'infantry', 'battlefield']",PPLM-Bow_7,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""An illustration of"" with a ""torpedo"", ""headquarters"", ""infantry"", ""battlefield"" keywords [/INST] ",torpedo#headquarters#infantry#battlefield,"tear An illustration of a torpedo racing through the water, its sleek metal body glinting in the sunlight as it homed in on its target. The headquarters of the enemy fleet was located deep within the heart of the battlefield, and the infantry had been tasked with taking it out. But as they approached, they were met with fierce resistance, and the battle raged on for hours. Just when it seemed like the tide was turning in their"
+"PPLM-Bow_7_['court', 'culture', 'communism', 'capitalism']",PPLM-Bow_7,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""An illustration of"" with a ""court"", ""culture"", ""communism"", ""capitalism"" keywords [/INST] ",court#culture#communism#capitalism,"teAn illustration of the complexities of human society can be seen in the contrast between the courtroom and the art gallery. The courtroom represents the rule of law, where justice is served and order is maintained. It is a place of structure and conformity, where every action is dictated by a strict set of rules and regulations. On the other hand, the art gallery represents creativity and individuality, where artists are free to express themselves in their own unique way. It is"
+"PPLM-Bow_7_['Bible', 'church', 'priest', 'saint']",PPLM-Bow_7,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""An illustration of"" with a ""Bible"", ""church"", ""priest"", ""saint"" keywords [/INST] ",Bible#church#priest#saint,"te An illustration of a beautiful Bible story can be found in the stained glass windows of a historic church. The priest stands at the altar, delivering a sermon to the congregation, while a saintly figure looks on from a nearby window. The scene is bathed in colorful light, as if the Holy Spirit itself is shining down upon the gathering. The priest's words are filled with passion and conviction, as he speaks of the power of"
+"PPLM-Bow_7_['microscope', 'mass', 'mineral', 'scientist']",PPLM-Bow_7,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""An illustration of"" with a ""microscope"", ""mass"", ""mineral"", ""scientist"" keywords [/INST] ",microscope#mass#mineral#scientist,"te An illustration of a scientist studying a mineral sample under a microscope, fascinated by its unique properties and the secrets it held within its molecular structure. The scientist's eyes were glued to the lens, observing the way the light danced across the mineral's surface, revealing its intricate patterns and details. With each passing moment, the scientist's fascination grew, as if they were uncovering a hidden"
+"PPLM-Bow_7_['meteor', 'planet', 'satellite', 'astronaut']",PPLM-Bow_7,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""An illustration of"" with a ""meteor"", ""planet"", ""satellite"", ""astronaut"" keywords [/INST] ",meteor#planet#satellite#astronaut,"tAn illustration of a meteor streaking across the night sky, leaving a trail of cosmic dust in its wake, was the image that caught the attention of a group of astronauts aboard a satellite orbiting the planet. They had been tasked with studying the effects of meteor showers on the Earth's atmosphere and this particular meteor was of great interest to them. As they watched, the meteor burned up in the atmosphere, creating a bright fireball that ill"
+"PPLM-Bow_8_['router', 'Linux', 'keyboard', 'server']",PPLM-Bow_8,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Furthermore,"" with a ""router"", ""Linux"", ""keyboard"", ""server"" keywords [/INST] ",router#Linux#keyboard#server,"et's take a look at how these components work together to create a functional network. The router acts as a gateway, directing traffic between the different devices on the network. It's like a mailman who delivers letters to the correct address. The Linux operating system is the brain of the network, managing the communication between the devices. Imagine it as a traffic controller, ensuring that all the cars (data) are moving smoothly and following the rules (algorithms)."
+"PPLM-Bow_8_['plea', 'subpoena', 'transcript', 'bankrupt']",PPLM-Bow_8,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Furthermore,"" with a ""plea"", ""subpoena"", ""transcript"", ""bankrupt"" keywords [/INST] ",plea#subpoena#transcript#bankrupt,"o The company's financial struggles continued to mount, and it was clear that drastic measures needed to be taken in order to avoid bankruptcy. Furthermore, the CEO had been issued a subpoena to appear in court and provide a transcript of the company's financial records.
+
+In a last-ditch effort to plea for more time, the CEO stood before the judge and explained the situation. However, it was clear that the company's financial"
+"PPLM-Bow_8_['torpedo', 'headquarters', 'infantry', 'battlefield']",PPLM-Bow_8,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Furthermore,"" with a ""torpedo"", ""headquarters"", ""infantry"", ""battlefield"" keywords [/INST] ",torpedo#headquarters#infantry#battlefield,"vermore, the enemy's headquarters was thoroughly fortified, protected by a battalion of seasoned infantry. But our army had a secret weapon - a powerful torpedo that could blast through even the strongest defenses. We mobilized our troops on the battlefield, ready to launch a full-scale attack. The enemy thought they were safe, but little did they know, our torpedo was already on its way, speeding towards their headquarters like a deadly"
+"PPLM-Bow_8_['court', 'culture', 'communism', 'capitalism']",PPLM-Bow_8,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Furthermore,"" with a ""court"", ""culture"", ""communism"", ""capitalism"" keywords [/INST] ",court#culture#communism#capitalism,"Furthermore, the court's decision to ban all forms of communism from the country's cultural landscape was met with resistance from many who saw it as a threat to their way of life. Despite the ruling, pockets of communist culture continued to thrive, albeit underground.
+
+For the young and idealistic, communism represented a better future, one where wealth and resources were distributed equally and everyone had a fair chance at success. They saw capital"
+"PPLM-Bow_8_['Bible', 'church', 'priest', 'saint']",PPLM-Bow_8,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Furthermore,"" with a ""Bible"", ""church"", ""priest"", ""saint"" keywords [/INST] ",Bible#church#priest#saint,":
+Furthermore, in the small town of Willow Creek, there was a beautiful old church that had been standing for over a century. The church was a place of great importance to the community, and many people came to worship and seek solace within its walls.
+
+One day, the priest of the church, Father John, was preparing for the Sunday sermon when he stumbled upon an old Bible hidden away in the church's archives. As he began"
+"PPLM-Bow_8_['microscope', 'mass', 'mineral', 'scientist']",PPLM-Bow_8,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Furthermore,"" with a ""microscope"", ""mass"", ""mineral"", ""scientist"" keywords [/INST] ",microscope#mass#mineral#scientist,"Furthermore, the scientist's latest discovery was a mineral unlike any other. Under the microscope, it appeared to have a strange, pulsing mass that defied explanation. The scientist was determined to understand its properties and began conducting a series of experiments to test its reactivity and composition. As he delved deeper into his research, he found that the mineral had the potential to revolutionize industries from medicine to technology, making it a valuable find"
+"PPLM-Bow_8_['meteor', 'planet', 'satellite', 'astronaut']",PPLM-Bow_8,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Furthermore,"" with a ""meteor"", ""planet"", ""satellite"", ""astronaut"" keywords [/INST] ",meteor#planet#satellite#astronaut,"Furthermore, the meteor shower that lit up the night sky was a sight to behold. The planet Earth seemed to be in the direct path of the meteor shower, and scientists feared the worst. They quickly launched a satellite into space to track the trajectory of the meteors and assess the potential damage.
+
+On board the satellite was an astronaut, who was tasked with guiding the satellite and collecting data on the meteor shower."
+"PPLM-Bow_9_['router', 'Linux', 'keyboard', 'server']",PPLM-Bow_9,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The central theme"" with a ""router"", ""Linux"", ""keyboard"", ""server"" keywords [/INST] ",router#Linux#keyboard#server,"ter facing the blank screen, the programmer's mind raced with ideas. He had been tasked with creating a new router firmware that would revolutionize the way people connect to the internet. He had spent hours researching and brainstorming, but now it was time to put his ideas into action.
+
+He booted up his Linux machine and opened up his favorite text editor. He began to type furiously, the words flowing out of him like water from a f"
+"PPLM-Bow_9_['plea', 'subpoena', 'transcript', 'bankrupt']",PPLM-Bow_9,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The central theme"" with a ""plea"", ""subpoena"", ""transcript"", ""bankrupt"" keywords [/INST] ",plea#subpoena#transcript#bankrupt,"plea: The central theme of the novel is the struggle for power and control in a society that is rapidly falling apart. The main character, a young woman named Maya, finds herself caught in the middle of a legal battle between two powerful corporations.
+
+subpoena: As the trial unfolds, Maya receives a subpoena to testify against one of the corporations, but she is hesitant to get involved. She knows that her testimony could potentially harm"
+"PPLM-Bow_9_['torpedo', 'headquarters', 'infantry', 'battlefield']",PPLM-Bow_9,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The central theme"" with a ""torpedo"", ""headquarters"", ""infantry"", ""battlefield"" keywords [/INST] ",torpedo#headquarters#infantry#battlefield,"terrorist attack on the city'll be catastrophic,"" the commander said grimly, gazing at the surveillance footage of the torpedo sliding through the water, ""We have to intercept it before it reaches the headquarters.""
+
+""Agreed,"" the general replied, his voice firm, ""But we can't risk using any artillery. The last thing we want is to detonate the torpedo prematurely and cause"
+"PPLM-Bow_9_['court', 'culture', 'communism', 'capitalism']",PPLM-Bow_9,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The central theme"" with a ""court"", ""culture"", ""communism"", ""capitalism"" keywords [/INST] ",court#culture#communism#capitalism,"te central theme of the trial was the conflict between communism and capitalism. The court was filled with people from all walks of life, each with their own unique perspective on the matter.
+
+On one side, there were those who believed in the power of the free market and the importance of individual freedom. They argued that capitalism was the key to prosperity and that it was the only way to ensure that people had the opportunity to succeed.
+
+On the other side, there"
+"PPLM-Bow_9_['Bible', 'church', 'priest', 'saint']",PPLM-Bow_9,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The central theme"" with a ""Bible"", ""church"", ""priest"", ""saint"" keywords [/INST] ",Bible#church#priest#saint,"Saint Elizabeth, known as the patron saint of the church, was immersed in prayer, her Bible open before her. As the priest gave his sermon, her heart was filled with a sense of peace. The central theme of his words was forgiveness, and she felt a deep sense of relief wash over her. She knew that she had been struggling with feelings of anger and resentment towards those who had wronged her, but in this moment, she felt the weight of those"
+"PPLM-Bow_9_['microscope', 'mass', 'mineral', 'scientist']",PPLM-Bow_9,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The central theme"" with a ""microscope"", ""mass"", ""mineral"", ""scientist"" keywords [/INST] ",microscope#mass#mineral#scientist,"ty of the project is to create a story that is both engaging and informative, using the given keywords to create a cohesive narrative.
+
+The central theme of the project was to explore the intricate details of the natural world, using a microscope to uncover the secrets of the mineral kingdom. The scientist, Dr. Emma Taylor, was determined to discover new species of minerals and document their unique properties. She had spent years studying the effects"
+"PPLM-Bow_9_['meteor', 'planet', 'satellite', 'astronaut']",PPLM-Bow_9,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The central theme"" with a ""meteor"", ""planet"", ""satellite"", ""astronaut"" keywords [/INST] ",meteor#planet#satellite#astronaut,"sure! Here's a story incorporating those keywords:
+
+The central theme of the astronaut's mission was to explore the mysterious planet that had suddenly appeared in the sky, seemingly out of nowhere. As he piloted his spaceship towards it, he couldn't help but feel a sense of awe at the sheer scale of the universe. The planet loomed large in front of him, its atmosphere shimmering with a strange, iridescent"
+"PPLM-Bow_10_['router', 'Linux', 'keyboard', 'server']",PPLM-Bow_10,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""To conclude,"" with a ""router"", ""Linux"", ""keyboard"", ""server"" keywords [/INST] ",router#Linux#keyboard#server,"typed fingers dance across the keyboard, a symphony of clicks and clacks echoing through the dimly lit room. The router, a stalwart companion, hums quietly in the corner, its lights flashing as it connects the computer to the vast expanse of the internet. The Linux operating system, a beacon of freedom and customization, purrs along, its terminal windows flashing with lines of code as the user works their magic. The server, a distant"
+"PPLM-Bow_10_['plea', 'subpoena', 'transcript', 'bankrupt']",PPLM-Bow_10,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""To conclude,"" with a ""plea"", ""subpoena"", ""transcript"", ""bankrupt"" keywords [/INST] ",plea#subpoena#transcript#bankrupt,"wTo conclude, I must say that the defendant's plea of innocence rings hollow. Despite their attempts to subpoena character witnesses, the evidence against them is too overwhelming to ignore. The transcript of their testimony reveals a clear pattern of deceit and dishonesty, and their financial records, obtained through a court-ordered subpoena, show a suspicious lack of funds, leading me to believe that they are attempting to hide"
+"PPLM-Bow_10_['torpedo', 'headquarters', 'infantry', 'battlefield']",PPLM-Bow_10,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""To conclude,"" with a ""torpedo"", ""headquarters"", ""infantry"", ""battlefield"" keywords [/INST] ",torpedo#headquarters#infantry#battlefield,"d. To conclude, the army's new headquarters was a state-of-the-art facility that would serve as the nerve center for all future operations. The infantry units were trained and ready to deploy at a moment's notice, and the battlefield was already being surveyed for any potential threats. But little did anyone know that deep beneath the surface, a stealthy torpedo was making its way towards the headquarters, threatening to unleash a dev"
+"PPLM-Bow_10_['court', 'culture', 'communism', 'capitalism']",PPLM-Bow_10,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""To conclude,"" with a ""court"", ""culture"", ""communism"", ""capitalism"" keywords [/INST] ",court#culture#communism#capitalism,"- To conclude, the lengthy trial had been a grueling battle between the prosecution and defense. It was a case that had captured the attention of the entire nation, as the defendant, a prominent businessman, was accused of financial fraud and embezzlement. The courtroom was filled with tension as the judge read the verdict.
+
+- The defendant was found guilty on all counts, and the courtroom erupted into chaos. The def"
+"PPLM-Bow_10_['Bible', 'church', 'priest', 'saint']",PPLM-Bow_10,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""To conclude,"" with a ""Bible"", ""church"", ""priest"", ""saint"" keywords [/INST] ",Bible#church#priest#saint,"Saintly Saga: A Tale of Conclusion
+
+In the quaint town of Willowdale, a sense of spirituality permeated the air. The local church stood tall and proud, its stone facade weathered from years of devoted worship. Inside, the pews were filled with devout parishioners, their faces illuminated by the soft glow of candlelight.
+
+Father Thomas, the gentle priest, stood at the altar,"
+"PPLM-Bow_10_['microscope', 'mass', 'mineral', 'scientist']",PPLM-Bow_10,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""To conclude,"" with a ""microscope"", ""mass"", ""mineral"", ""scientist"" keywords [/INST] ",microscope#mass#mineral#scientist,"To conclude, the scientist's groundbreaking discovery was a mineral of unprecedented density and rarity, found through the lens of a powerful microscope. It was a culmination of years of dedication, as she had devoted herself to the study of minerals and their unique properties. Despite the challenges she faced, including the sheer mass of the mineral, she persevered and successfully isolated it for further analysis."
+"PPLM-Bow_10_['meteor', 'planet', 'satellite', 'astronaut']",PPLM-Bow_10,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""To conclude,"" with a ""meteor"", ""planet"", ""satellite"", ""astronaut"" keywords [/INST] ",meteor#planet#satellite#astronaut,"d with the astronauts on the satellite, who were busy conducting experiments and gathering data on the planet's atmosphere. Suddenly, a meteor hurtled towards the planet, threatening to destroy all life on its surface. The astronauts quickly sprang into action, using their skills and knowledge to divert the meteor's course and save the planet from certain doom. Their mission was a success, and they returned to Earth as heroes, hailed for their"
+"PPLM-Bow_11_['router', 'Linux', 'keyboard', 'server']",PPLM-Bow_11,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The key aspect"" with a ""router"", ""Linux"", ""keyboard"", ""server"" keywords [/INST] ",router#Linux#keyboard#server,"- The key aspect of setting up a home office network is selecting the right router.
+
+I recently learned this lesson the hard way, as I spent hours trying to troubleshoot my Linux server, only to discover that my outdated router was the source of the problem.
+
+I was working from my home office, typing away on my keyboard, when suddenly my server connection started dropping every few minutes.
+
+At first, I thought it was just a typical glitch,"
+"PPLM-Bow_11_['plea', 'subpoena', 'transcript', 'bankrupt']",PPLM-Bow_11,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The key aspect"" with a ""plea"", ""subpoena"", ""transcript"", ""bankrupt"" keywords [/INST] ",plea#subpoena#transcript#bankrupt,"���The key aspect of the case was the plea bargain that the defendant had negotiated with the prosecution. In exchange for his testimony against his former business partners, he was given a reduced sentence and immunity from prosecution. However, the prosecution had not been thorough in their investigation, and the defendant's testimony was full of inconsistencies.
+
+The defense attorney, knowing that the defendant's story was"
+"PPLM-Bow_11_['torpedo', 'headquarters', 'infantry', 'battlefield']",PPLM-Bow_11,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The key aspect"" with a ""torpedo"", ""headquarters"", ""infantry"", ""battlefield"" keywords [/INST] ",torpedo#headquarters#infantry#battlefield,"verthe key aspect of the military operation was to deploy a torpedo attack on the enemy's headquarters, located deep within the heart of the battlefield. The infantry was tasked with infiltrating the enemy's defenses and delivering the torpedo to its target, a daunting task that would require precise coordination and bravery. As the troops marched towards the enemy's stronghold, they knew that the fate of the war effort hing"
+"PPLM-Bow_11_['court', 'culture', 'communism', 'capitalism']",PPLM-Bow_11,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The key aspect"" with a ""court"", ""culture"", ""communism"", ""capitalism"" keywords [/INST] ",court#culture#communism#capitalism,"denied
+
+The key aspect of the trial was the prosecution's inability to prove that the defendant had actually committed the crime. Despite the mountain of evidence presented in court, the defense was able to poke holes in the prosecution's case, highlighting the lack of concrete proof. The defendant's culture, a communist upbringing, was used as a scapegoat by the prosecution to sway the jury."
+"PPLM-Bow_11_['Bible', 'church', 'priest', 'saint']",PPLM-Bow_11,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The key aspect"" with a ""Bible"", ""church"", ""priest"", ""saint"" keywords [/INST] ",Bible#church#priest#saint,"Saintly Sins
+
+The key aspect of the Bible that Father Thompson always stressed was the importance of compassion. As a priest at the local church, he had seen countless sinners seek redemption within its hallowed halls. Despite their transgressions, he believed that forgiveness was attainable for all.
+
+However, there was one particular saint who tested Father Thompson's convictions. Saint Augustine, known for his wild and dissolute"
+"PPLM-Bow_11_['microscope', 'mass', 'mineral', 'scientist']",PPLM-Bow_11,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The key aspect"" with a ""microscope"", ""mass"", ""mineral"", ""scientist"" keywords [/INST] ",microscope#mass#mineral#scientist,"���The key aspect of Dr. Thompson's research was her use of a high-powered microscope to study the mineral composition of various samples. As a renowned geologist, she had dedicated her career to understanding the intricacies of the Earth's crust, and her work had already led to several groundbreaking discoveries.
+
+One day, while examining a particularly interesting sample under the microscope, Dr. Thompson noticed something peculiar."
+"PPLM-Bow_11_['meteor', 'planet', 'satellite', 'astronaut']",PPLM-Bow_11,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The key aspect"" with a ""meteor"", ""planet"", ""satellite"", ""astronaut"" keywords [/INST] ",meteor#planet#satellite#astronaut,"ct.
+
+The key aspect of the mission was to study the meteor that had been hurtling towards the planet for weeks. The team of astronauts had been training for months to prepare for this moment, and as they boarded the satellite that would take them into space, they knew they were about to embark on a journey that could change the course of history.
+
+As they reached orbit, they caught their first glimpse of the meteor, a massive, glowing"
+"PPLM-Bow_12_['router', 'Linux', 'keyboard', 'server']",PPLM-Bow_12,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Prior to this"" with a ""router"", ""Linux"", ""keyboard"", ""server"" keywords [/INST] ",router#Linux#keyboard#server,"tr Prior to this, I had been struggling with my old router, which kept dropping its connection to the internet. I tried everything to fix it, from resetting it to configuring it in different ways, but nothing seemed to work. I was at my wit's end when a friend suggested I try using a Linux operating system on my computer. I was hesitant at first, as I had never used anything other than Windows before, but I decided to give it a shot."
+"PPLM-Bow_12_['plea', 'subpoena', 'transcript', 'bankrupt']",PPLM-Bow_12,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Prior to this"" with a ""plea"", ""subpoena"", ""transcript"", ""bankrupt"" keywords [/INST] ",plea#subpoena#transcript#bankrupt,"te:
+
+Prior to this, the company had been struggling to stay afloat despite the plea from its CEO to investors to keep the faith. However, with a subpoena from the SEC looming over their heads, the writing was on the wall. The transcript of the company's financial reports told a story of mismanagement and poor decision-making, and it was clear that the company was on the brink of bankruptcy. In the end"
+"PPLM-Bow_12_['torpedo', 'headquarters', 'infantry', 'battlefield']",PPLM-Bow_12,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Prior to this"" with a ""torpedo"", ""headquarters"", ""infantry"", ""battlefield"" keywords [/INST] ",torpedo#headquarters#infantry#battlefield,"����Prior to this, the headquarters had been planning a full-scale attack on the enemy's infantry positioned on the battlefield. They had been monitoring the enemy's movements and had identified a weakness in their defense. The plan was to launch a surprise attack with a torpedo, which would create a gap in the enemy's lines, allowing the infantry to pour through and overwhelm the enemy. The attack was set to begin at dawn"
+"PPLM-Bow_12_['court', 'culture', 'communism', 'capitalism']",PPLM-Bow_12,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Prior to this"" with a ""court"", ""culture"", ""communism"", ""capitalism"" keywords [/INST] ",court#culture#communism#capitalism,"omer Prior to this, the small, Eastern European country of Baltoria was a communist state, where the government controlled every aspect of people's lives. The culture was stifled, and individuality was discouraged. People worked long hours for little pay, and the state reaped the benefits.
+
+But one day, a group of brave citizens decided they had had enough. They began to secretly distribute pamphlets and flyers, spreading the word about"
+"PPLM-Bow_12_['Bible', 'church', 'priest', 'saint']",PPLM-Bow_12,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Prior to this"" with a ""Bible"", ""church"", ""priest"", ""saint"" keywords [/INST] ",Bible#church#priest#saint,"te:
+
+Prior to this, the small town had been known for its beautiful church, dedicated to the worship of a particular saint. For generations, the priest had been passing down stories of this saint's miracles, and the congregation had grown up believing in their faith. But one day, a stranger arrived in town, questioning everything. He questioned the authority of the priest and the validity of the stories. Some people were intrigued,"
+"PPLM-Bow_12_['microscope', 'mass', 'mineral', 'scientist']",PPLM-Bow_12,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Prior to this"" with a ""microscope"", ""mass"", ""mineral"", ""scientist"" keywords [/INST] ",microscope#mass#mineral#scientist,"ver since the invention of the microscope, scientists have been able to study the tiniest details of the natural world. One scientist, named Jane, was particularly interested in the study of minerals and their properties. She spent hours upon hours peering through her microscope at various samples, marveling at their intricate structures and patterns.
+
+One day, while examining a particularly large mineral sample, Jane noticed something strange. The mineral seemed"
+"PPLM-Bow_12_['meteor', 'planet', 'satellite', 'astronaut']",PPLM-Bow_12,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Prior to this"" with a ""meteor"", ""planet"", ""satellite"", ""astronaut"" keywords [/INST] ",meteor#planet#satellite#astronaut,"irrelevant information: 
+
+Prior to this, a brilliant streak of light cut through the sky, leaving a trail of sparks in its wake. As the meteor hurtled towards the planet, a team of astronauts on a nearby satellite watched in awe. They had been monitoring the meteor's descent, and now was their chance to act. The team quickly sprang into action, launching a rescue mission to save the planet from the impending impact."
+"PPLM-Bow_13_['router', 'Linux', 'keyboard', 'server']",PPLM-Bow_13,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Emphasised are"" with a ""router"", ""Linux"", ""keyboard"", ""server"" keywords [/INST] ",router#Linux#keyboard#server,"teemphasized are the days when we had to rely on a router to connect our Linux machine to the internet. It was a crucial component, and we had to make sure it was configured correctly to avoid any connectivity issues. Our keyboard was our gateway to the digital world, and we had to type in the right commands to make sure the router was set up properly. But things took a turn when we decided to switch to a new server. The transition was not smooth, and we"
+"PPLM-Bow_13_['plea', 'subpoena', 'transcript', 'bankrupt']",PPLM-Bow_13,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Emphasised are"" with a ""plea"", ""subpoena"", ""transcript"", ""bankrupt"" keywords [/INST] ",plea#subpoena#transcript#bankrupt,"opyright 2s Emphasised are the plea and subpoena.
+
+The defendant, a middle-aged man with a rugged beard and sunken eyes, stood before the court, his future hanging in the balance. The charges against him were serious, and he knew that he needed to convince the jury of his innocence. His lawyer, a seasoned professional with a reputation for being able to turn seemingly hopeless cases around, stood by"
+"PPLM-Bow_13_['torpedo', 'headquarters', 'infantry', 'battlefield']",PPLM-Bow_13,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Emphasised are"" with a ""torpedo"", ""headquarters"", ""infantry"", ""battlefield"" keywords [/INST] ",torpedo#headquarters#infantry#battlefield,"a torpedo charging through the water, its deadly payload ready to strike at a moment's notice. The headquarters of the enemy's naval fleet was in chaos, as the commanders scrambled to respond to the sudden attack. On the battlefield, the infantry fought bravely, but they were no match for the torpedo's destructive power. It was only a matter of time before the torpedo would reach its target, and the"
+"PPLM-Bow_13_['court', 'culture', 'communism', 'capitalism']",PPLM-Bow_13,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Emphasised are"" with a ""court"", ""culture"", ""communism"", ""capitalism"" keywords [/INST] ",court#culture#communism#capitalism,"te and elegance. The emphasis was on luxury and grandeur, as the courtiers and nobles gathered in the grand ballroom of the palace. The air was thick with the scent of perfume and the sound of laughter, as they danced and mingled, dressed in their finest attire. It was a night of celebration, a night to remember, as the king and queen hosted a lavish ball in honor of a visiting dignitary"
+"PPLM-Bow_13_['Bible', 'church', 'priest', 'saint']",PPLM-Bow_13,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Emphasised are"" with a ""Bible"", ""church"", ""priest"", ""saint"" keywords [/INST] ",Bible#church#priest#saint,"unctuators, it was a sunny day when the bible was first presented to the church. A Priest named father Smith held the holy book in his hands and began to read from it. The passages spoke of a Saint who had lived many years ago but his teachings were still alive and strong today. 
+Father smith emphasized the importance of forgiveness and kindness, and how they were necessary to enter the kingdom of heaven. After the reading, father sm"
+"PPLM-Bow_13_['microscope', 'mass', 'mineral', 'scientist']",PPLM-Bow_13,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Emphasised are"" with a ""microscope"", ""mass"", ""mineral"", ""scientist"" keywords [/INST] ",microscope#mass#mineral#scientist,"s Emphasized are the details of the mineral sample, magnified under the microscope's lens. The scientist's eyes were glued to the screen, careful not to miss any slight variation in texture or color. With a trained eye, they could identify the subtlest nuances in the sample's composition, a skill honed through years of dedication to their craft. The mass of the mineral was substantial, and the scientist knew that it"
+"PPLM-Bow_13_['meteor', 'planet', 'satellite', 'astronaut']",PPLM-Bow_13,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Emphasised are"" with a ""meteor"", ""planet"", ""satellite"", ""astronaut"" keywords [/INST] ",meteor#planet#satellite#astronaut,"Emphasized are the moments we have to appreciate the beauty of the universe. A meteor blazed across the sky, leaving a trail of sparks in its wake. The planet Earth hung in the distance, a blue and green marble that seemed both close enough to touch and impossibly far away. A satellite glided silently through the void, its solar panels gleaming in the sunlight. And an astronaut, suspended in the blackness of space, gaz"
+"PPLM-Bow_14_['router', 'Linux', 'keyboard', 'server']",PPLM-Bow_14,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""To summarise"" with a ""router"", ""Linux"", ""keyboard"", ""server"" keywords [/INST] ",router#Linux#keyboard#server,"te:
+
+To summarise, the issue with the router was a recurring problem for the Linux server. The keyboard, an ancient relic from the early 2000s, was the likely culprit. Its worn-out keys and sticky buttons made typing a chore, often resulting in incorrect input. The server, a reliable workhorse, tried its best to interpret the garbled messages, but ultimately, it was a losing battle.
+
+In the"
+"PPLM-Bow_14_['plea', 'subpoena', 'transcript', 'bankrupt']",PPLM-Bow_14,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""To summarise"" with a ""plea"", ""subpoena"", ""transcript"", ""bankrupt"" keywords [/INST] ",plea#subpoena#transcript#bankrupt,"ter
+
+To summarise, the defendant's plea of innocence was met with skepticism by the court. A subpoena was issued for the defendant to appear in court and provide evidence to support their claims. However, upon reviewing the transcript of the trial, it became clear that the defendant had lied under oath. As a result, the defendant was found guilty and faced the possibility of bankruptcy due to the heavy fines and"
+"PPLM-Bow_14_['torpedo', 'headquarters', 'infantry', 'battlefield']",PPLM-Bow_14,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""To summarise"" with a ""torpedo"", ""headquarters"", ""infantry"", ""battlefield"" keywords [/INST] ",torpedo#headquarters#infantry#battlefield,"ct, To summarise, the situation on the battlefield was grim. Our infantry had been pinned down by enemy fire for hours, and our headquarters had been targeted by a torpedo. The enemy had infiltrated our defenses and was closing in on our position. We knew that we had to act fast or risk being overrun.
+
+In a last-ditch effort, we launched a counterattack, deploying our remaining troops from the headquarters"
+"PPLM-Bow_14_['court', 'culture', 'communism', 'capitalism']",PPLM-Bow_14,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""To summarise"" with a ""court"", ""culture"", ""communism"", ""capitalism"" keywords [/INST] ",court#culture#communism#capitalism,"d To summarize, the court case was a defining moment in the clash between communism and capitalism. The communist culture had long been at odds with the capitalist system, and this legal battle was seen as a chance to settle the score once and for all. As the two sides faced off in court, the tension was palpable. The communist side argued that their way of life was being threatened by the encroachment of capitalist ideals, while"
+"PPLM-Bow_14_['Bible', 'church', 'priest', 'saint']",PPLM-Bow_14,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""To summarise"" with a ""Bible"", ""church"", ""priest"", ""saint"" keywords [/INST] ",Bible#church#priest#saint,"te To summarise, the Bible is a book that has been a source of inspiration and guidance for millions of people throughout history. It is a collection of stories, poetry, and teachings that have shaped the beliefs and practices of various religions, including Christianity.
+
+In the Bible, we find stories of faithful people who have dedicated their lives to serving God and spreading his message. One such example is the priest, who has devoted his life to serving the Lord and"
+"PPLM-Bow_14_['microscope', 'mass', 'mineral', 'scientist']",PPLM-Bow_14,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""To summarise"" with a ""microscope"", ""mass"", ""mineral"", ""scientist"" keywords [/INST] ",microscope#mass#mineral#scientist,"To summarise, the scientist's latest discovery was a mineral of unprecedented mass, observed under the lens of a microscope."
+"PPLM-Bow_14_['meteor', 'planet', 'satellite', 'astronaut']",PPLM-Bow_14,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""To summarise"" with a ""meteor"", ""planet"", ""satellite"", ""astronaut"" keywords [/INST] ",meteor#planet#satellite#astronaut,"terrify the world.
+To summarise, a meteor hurtled towards the planet, its trajectory putting it on a collision course with the orbit of the satellite. The astronauts aboard the satellite scrambled to take evasive action, but their efforts were in vain as the meteor struck with catastrophic force. The impact sent shockwaves throughout the planet, causing destruction on a massive scale. As the dust settled, the world mourned the loss"
+"PPLM-Bow_15_['router', 'Linux', 'keyboard', 'server']",PPLM-Bow_15,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The relationship"" with a ""router"", ""Linux"", ""keyboard"", ""server"" keywords [/INST] ",router#Linux#keyboard#server,"te was a complex relationship between the router and the server. The router, a sleek and modern device, was responsible for connecting the server to the vast network of computers that spanned the globe. Linux, an open-source operating system, was the brains behind the router, controlling its every move and ensuring that data was transmitted efficiently and securely.
+
+As the router hummed along, it received input from a keyboard, its keys clicking away as a user typed"
+"PPLM-Bow_15_['plea', 'subpoena', 'transcript', 'bankrupt']",PPLM-Bow_15,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The relationship"" with a ""plea"", ""subpoena"", ""transcript"", ""bankrupt"" keywords [/INST] ",plea#subpoena#transcript#bankrupt,"��� Sure, here's a story incorporating those keywords:
+
+The relationship between the two siblings had been strained for years, ever since their father's plea for financial help had fallen on deaf ears. One sibling, who had always been better with money, had refused to loan the other any funds, leading to a deep-seated resentment.
+
+Years went by, and the resentful sibling found themselves in a difficult"
+"PPLM-Bow_15_['torpedo', 'headquarters', 'infantry', 'battlefield']",PPLM-Bow_15,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The relationship"" with a ""torpedo"", ""headquarters"", ""infantry"", ""battlefield"" keywords [/INST] ",torpedo#headquarters#infantry#battlefield,"teh relationship between the torpedo and its headquarters was a crucial one. The torpedo, sleek and deadly, was the headquarters' most powerful weapon on the battlefield. It was able to strike enemy targets from a distance, leaving the headquarters free to focus on other strategic moves. The infantry, well-trained and well-equipped, were the headquarters' eyes and ears on the ground. They provided vital intelligence on enemy movements and positions, allowing the"
+"PPLM-Bow_15_['court', 'culture', 'communism', 'capitalism']",PPLM-Bow_15,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The relationship"" with a ""court"", ""culture"", ""communism"", ""capitalism"" keywords [/INST] ",court#culture#communism#capitalism,"lThe relationship between the court and culture has always been a complex one, with the court often struggling to balance its desire to preserve traditional values with the need to adapt to changing cultural norms. This tension was particularly evident during the communist era, when the court was seen as a symbol of the old regime and the culture was heavily influenced by Marxist-Leninist ideology.
+
+Despite this, the court continued to play an important role in shaping the country'"
+"PPLM-Bow_15_['Bible', 'church', 'priest', 'saint']",PPLM-Bow_15,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The relationship"" with a ""Bible"", ""church"", ""priest"", ""saint"" keywords [/INST] ",Bible#church#priest#saint,"uy, the relationship between the Bible, church, priest, and saint is a deeply interconnected one. The Bible is the holy scripture of Christianity, and it is the source of inspiration and guidance for the church and its leaders. The priest is responsible for interpreting the Bible and guiding the congregation in their spiritual journey.
+
+The priest plays a vital role in the church, serving as a spiritual advisor, teacher, and leader. They are responsible for conducting"
+"PPLM-Bow_15_['microscope', 'mass', 'mineral', 'scientist']",PPLM-Bow_15,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The relationship"" with a ""microscope"", ""mass"", ""mineral"", ""scientist"" keywords [/INST] ",microscope#mass#mineral#scientist,"2067, Dr. Evelyn pinched the microscope's focal point, examining the mineral sample as if it were a long-lost artifact. For centuries, scientists have wondered how these strange minerals have appeared on our planet, and now was her chance to unravel the mystery. With her team, Dr. Evelyn carefully documented the different types of atoms and their mass, marveling at how they managed to coexist"
+"PPLM-Bow_15_['meteor', 'planet', 'satellite', 'astronaut']",PPLM-Bow_15,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The relationship"" with a ""meteor"", ""planet"", ""satellite"", ""astronaut"" keywords [/INST] ",meteor#planet#satellite#astronaut,"��� The relationship between the astronaut and the planet was a complex one. The astronaut had been sent to explore the distant world, and as they approached, they couldn'm help but feel a sense of awe at its beauty. The planet's atmosphere was a deep shade of blue, with wispy clouds drifting lazily across its surface. The landscape was a mix of towering mountains and deep valleys, with sparkling rivers and shimmering lakes"
+"PPLM-Bow_16_['router', 'Linux', 'keyboard', 'server']",PPLM-Bow_16,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""More importantly,"" with a ""router"", ""Linux"", ""keyboard"", ""server"" keywords [/INST] ",router#Linux#keyboard#server,"tecause she had more importantly, a passion for technology. She spent most of her free time tinkering with her computer, trying to learn everything she could about routers, servers, and Linux. She had even convinced her parents to let her set up a small server in their basement, where she could experiment with different operating systems and network configurations.
+
+One day, while typing away on her keyboard, she stumbled upon an online community of tech enthusiasts."
+"PPLM-Bow_16_['plea', 'subpoena', 'transcript', 'bankrupt']",PPLM-Bow_16,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""More importantly,"" with a ""plea"", ""subpoena"", ""transcript"", ""bankrupt"" keywords [/INST] ",plea#subpoena#transcript#bankrupt,"More importantly, Emily realized that she had forgotten to pay her rent for the past three months. Panicked, she begged her landlord for mercy, promising to pay the outstanding amount as soon as possible. Her plea fell on deaf ears, however, and she was served with a subpoena to appear in court for non-payment of rent.
+
+Scrambling to gather the necessary funds, Emily took on multiple part-time"
+"PPLM-Bow_16_['torpedo', 'headquarters', 'infantry', 'battlefield']",PPLM-Bow_16,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""More importantly,"" with a ""torpedo"", ""headquarters"", ""infantry"", ""battlefield"" keywords [/INST] ",torpedo#headquarters#infantry#battlefield,"/ More importantly, the torpedo that the enemy had launched was headed straight for our headquarters. We had to act fast if we wanted to avoid a direct hit. I quickly gathered my team of infantry and made our way to the battlefield, ready to defend our base at all costs. The enemy was closing in and we knew that this would be a fight to the death. We took our positions, weapons at the ready, and waited for the enemy to make their move."
+"PPLM-Bow_16_['court', 'culture', 'communism', 'capitalism']",PPLM-Bow_16,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""More importantly,"" with a ""court"", ""culture"", ""communism"", ""capitalism"" keywords [/INST] ",court#culture#communism#capitalism,"More importantly, the court case had brought to light the deeper cultural divisions within the society. The communist ideology of the ruling party had long been at odds with the capitalist values of the business community. As the legal proceedings unfolded, it became clear that this was more than just a simple dispute between two companies - it was a clash of ideologies that would have far-reaching consequences for the future of the nation. The judge's gavel struck"
+"PPLM-Bow_16_['Bible', 'church', 'priest', 'saint']",PPLM-Bow_16,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""More importantly,"" with a ""Bible"", ""church"", ""priest"", ""saint"" keywords [/INST] ",Bible#church#priest#saint,"��� POV Alert 🚨
+
+More importantly, the Bible has taught us that forgiveness is a virtue that can take us far. The story of Joseph, who was sold into slavery by his brothers, is a prime example. Despite the hardships he faced, Joseph forgave his brothers and rose to become one of the most powerful men in Egypt.
+
+In the modern world, we have witnessed numerous examples of forgiveness and its transformative power"
+"PPLM-Bow_16_['microscope', 'mass', 'mineral', 'scientist']",PPLM-Bow_16,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""More importantly,"" with a ""microscope"", ""mass"", ""mineral"", ""scientist"" keywords [/INST] ",microscope#mass#mineral#scientist,"More importantly, the scientist's discovery of a new mineral under the microscope had the potential to revolutionize the field of science. The mineral, with its unique properties, could be used to create new technologies that would change the world. The scientist's lab was filled with excitement and anticipation as they carefully analyzed the mineral's structure and composition. They knew that they had stumbled upon something big, something that could have a mass impact on"
+"PPLM-Bow_16_['meteor', 'planet', 'satellite', 'astronaut']",PPLM-Bow_16,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""More importantly,"" with a ""meteor"", ""planet"", ""satellite"", ""astronaut"" keywords [/INST] ",meteor#planet#satellite#astronaut,"More importantly, the astronauts on the satellite were shocked to see a meteor hurtling towards their planet. They had been monitoring the skies for any signs of danger, but this particular meteor had appeared out of nowhere. It was large and moving at an incredible speed, and it was clear that it would cause catastrophic damage if it were to hit the planet.
+
+The astronauts quickly sprang into action, using their knowledge and training to attempt"
+"PPLM-Bow_17_['router', 'Linux', 'keyboard', 'server']",PPLM-Bow_17,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""It has been shown"" with a ""router"", ""Linux"", ""keyboard"", ""server"" keywords [/INST] ",router#Linux#keyboard#server,"typing at the keyboard, Jack's fingers flew across the keys as he worked to resolve the issue with the server. He was a skilled system administrator, and he had been called in to troubleshoot a problem with the company's Linux server. It had been shown that the server was not responding to requests from the router, and Jack knew that he had to act fast to get the system back up and running.
+
+As he typed, he thought back to the previous"
+"PPLM-Bow_17_['plea', 'subpoena', 'transcript', 'bankrupt']",PPLM-Bow_17,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""It has been shown"" with a ""plea"", ""subpoena"", ""transcript"", ""bankrupt"" keywords [/INST] ",plea#subpoena#transcript#bankrupt,"t has been shown that the defendant, Mr. Smith, has been involved in a plea of fraudulent activities. A subpoena was issued for him to appear in court and provide a transcript of his financial records. However, Mr. Smith failed to comply with the subpoena and was subsequently found in contempt of court. As a result, he was ordered to pay a hefty fine and his company was forced into bankruptcy."
+"PPLM-Bow_17_['torpedo', 'headquarters', 'infantry', 'battlefield']",PPLM-Bow_17,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""It has been shown"" with a ""torpedo"", ""headquarters"", ""infantry"", ""battlefield"" keywords [/INST] ",torpedo#headquarters#infantry#battlefield,"terrorist group launched a surprise attack on the city's headquarters, using a torpedo to breach the building's defenses. The explosion caused chaos and destruction, and the infantry troops stationed nearby were quickly deployed to the battlefield to engage the terrorists. Despite their efforts, the terrorists managed to infiltrate the building and take several hostages.
+
+The situation was dire, and the commanders at the headquarters were under pressure to"
+"PPLM-Bow_17_['court', 'culture', 'communism', 'capitalism']",PPLM-Bow_17,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""It has been shown"" with a ""court"", ""culture"", ""communism"", ""capitalism"" keywords [/INST] ",court#culture#communism#capitalism,"te has been shown that the court system in communist countries is drastically different from that of capitalist societies. While the latter prioritizes individual rights and freedoms, the former often places the needs of the collective above those of the individual. This cultural contrast is particularly evident in the way that courts approach property rights. In capitalist societies, property rights are considered sacrosanct, with the government's role being to protect individuals' and corporations' ability"
+"PPLM-Bow_17_['Bible', 'church', 'priest', 'saint']",PPLM-Bow_17,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""It has been shown"" with a ""Bible"", ""church"", ""priest"", ""saint"" keywords [/INST] ",Bible#church#priest#saint,"te has been shown by the Bible and teachings of the church that a life of service to others is the path to true fulfillment and happiness. The priest, a saint among men, lived a life dedicated to spreading this message and serving those in need. Through his tireless efforts, he inspired countless others to follow in his footsteps, creating a community of compassion and selflessness that continues to flourish to this day."
+"PPLM-Bow_17_['microscope', 'mass', 'mineral', 'scientist']",PPLM-Bow_17,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""It has been shown"" with a ""microscope"", ""mass"", ""mineral"", ""scientist"" keywords [/INST] ",microscope#mass#mineral#scientist,"quenching my thirst for knowledge, I gazed through the lens of my microscope at the minute mineral specimen before me. As a scientist, I have always been fascinated by the mysteries hidden within the earth's crust. This particular mineral, with its unique crystalline structure, had already revealed secrets of the earth's formation. But, I was eager to uncover more. With each turn of the micros"
+"PPLM-Bow_17_['meteor', 'planet', 'satellite', 'astronaut']",PPLM-Bow_17,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""It has been shown"" with a ""meteor"", ""planet"", ""satellite"", ""astronaut"" keywords [/INST] ",meteor#planet#satellite#astronaut,"xIt has been shown that meteors can cause significant damage to our planet. In fact, scientists believe that a large meteor impact led to the extinction of the dinosaurs. More recently, a meteor exploded over Chelyabinsk, Russia, injuring over 1,000 people and causing damage to buildings and other structures.
+
+In response to these threats, NASA has developed a satellite system designed to detect and track near-Earth objects,"
+"PPLM-Bow_18_['router', 'Linux', 'keyboard', 'server']",PPLM-Bow_18,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The issue focused on"" with a ""router"", ""Linux"", ""keyboard"", ""server"" keywords [/INST] ",router#Linux#keyboard#server,"terms The issue focused on the outdated router that was causing connectivity issues throughout the office. The IT team knew that they needed to update the equipment to ensure a stable and secure connection, but they were running into roadblocks at every turn.
+
+First, they tried to configure the router to work with their Linux-based server, but the settings were not compatible. They spent hours trying to troubleshoot the problem, but ultimately, they were unable to get it to work."
+"PPLM-Bow_18_['plea', 'subpoena', 'transcript', 'bankrupt']",PPLM-Bow_18,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The issue focused on"" with a ""plea"", ""subpoena"", ""transcript"", ""bankrupt"" keywords [/INST] ",plea#subpoena#transcript#bankrupt,"/ The issue focused on the plea of a struggling artist who had been subpoenaed to testify in a high-profile court case. The artist had been accused of plagiarism, and the transcript of their testimony was eagerly anticipated by the media and the public. Despite their nerves, the artist took the stand and delivered a heartfelt plea, explaining the creative process behind their work and denying any intentional wrongdoing."
+"PPLM-Bow_18_['torpedo', 'headquarters', 'infantry', 'battlefield']",PPLM-Bow_18,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The issue focused on"" with a ""torpedo"", ""headquarters"", ""infantry"", ""battlefield"" keywords [/INST] ",torpedo#headquarters#infantry#battlefield,"te issue focused on the torpedo, which was lodged in the side of the battleship. The headquarters had given the order to retreat, but it was too late. The infantry was already pinned down on the battlefield, unable to move. The enemy was closing in, and the only hope was for a miracle. That miracle came in the form of a daring plan, hatched by the captain and his trusted advisors. They would use"
+"PPLM-Bow_18_['court', 'culture', 'communism', 'capitalism']",PPLM-Bow_18,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The issue focused on"" with a ""court"", ""culture"", ""communism"", ""capitalism"" keywords [/INST] ",court#culture#communism#capitalism,"Tell me how I can assist you further. Here's a story that incorporates the keywords you provided:
+
+The issue focused on the court case that would determine the future of the country's cultural landscape. The communist party, which had long been in power, was being challenged by a group of capitalist entrepreneurs who believed that their right to free enterprise was being stifled by the government's strict regulations.
+
+As the trial began,"
+"PPLM-Bow_18_['Bible', 'church', 'priest', 'saint']",PPLM-Bow_18,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The issue focused on"" with a ""Bible"", ""church"", ""priest"", ""saint"" keywords [/INST] ",Bible#church#priest#saint,"stared at the old Bible, its worn pages a testament to the countless hours she had spent studying its words. She was a priest at a small church in the heart of the city, and her love for the scriptures was unwavering. But as she delved deeper into the stories of the saints, she began to feel a sense of unease. The issue focused on the role of women in the church, and how they were often relegated to secondary positions"
+"PPLM-Bow_18_['microscope', 'mass', 'mineral', 'scientist']",PPLM-Bow_18,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The issue focused on"" with a ""microscope"", ""mass"", ""mineral"", ""scientist"" keywords [/INST] ",microscope#mass#mineral#scientist,"There was once a scientist named Dr. Jane who had been studying a particular mineral for years. She was fascinated by its unique properties and was determined to unlock its secrets. She spent countless hours in her laboratory, examining the mineral under a microscope and conducting various experiments to understand its behavior.
+
+One day, while studying the mineral's reaction to different temperatures, Dr. Jane made a groundbreaking discovery. She noticed"
+"PPLM-Bow_18_['meteor', 'planet', 'satellite', 'astronaut']",PPLM-Bow_18,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The issue focused on"" with a ""meteor"", ""planet"", ""satellite"", ""astronaut"" keywords [/INST] ",meteor#planet#satellite#astronaut,"oThe issue focused on the meteor that was hurtling towards the planet at an alarming rate. Scientists had been monitoring its trajectory for weeks, and predictions suggested that it was on a collision course with Earth. The planet was in a state of panic, with governments scrambling to find a solution to prevent the impending disaster.
+
+Meanwhile, a team of astronauts was sent to space in a satellite to attempt to divert the meteor's"
+"PPLM-Bow_19_['router', 'Linux', 'keyboard', 'server']",PPLM-Bow_19,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""In this essay"" with a ""router"", ""Linux"", ""keyboard"", ""server"" keywords [/INST] ",router#Linux#keyboard#server,"ty, I'd be happy to help! Here's a story that includes all of those keywords:
+
+In this essay, I will discuss the importance of routers in modern computer networks. As we all know, routers are the devices that connect our computers and servers to the internet, allowing us to communicate with others and access online resources. But have you ever stopped to think about how routers actually work?
+
+At the heart of every router is a special piece of"
+"PPLM-Bow_19_['plea', 'subpoena', 'transcript', 'bankrupt']",PPLM-Bow_19,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""In this essay"" with a ""plea"", ""subpoena"", ""transcript"", ""bankrupt"" keywords [/INST] ",plea#subpoena#transcript#bankrupt,"plea: In this essay, I will make a passionate plea for the recognition of the importance of mental health in our society.
+
+subpoena: Recently, a subpoena was issued for me to appear in court to testify in a case involving a mental health patient who was denied proper care.
+
+transcript: As I read through the transcript of the trial, I was struck by the stark reality of how much our system fails those who struggle with"
+"PPLM-Bow_19_['torpedo', 'headquarters', 'infantry', 'battlefield']",PPLM-Bow_19,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""In this essay"" with a ""torpedo"", ""headquarters"", ""infantry"", ""battlefield"" keywords [/INST] ",torpedo#headquarters#infantry#battlefield,"technique. In this essay, I will discuss the significance of the torpedo in modern warfare and its impact on the battlefield. The headquarters, where the top commanders gather to make crucial decisions, plays a vital role in the deployment of these torpedoes. The infantry, or foot soldiers, are often the ones who carry out the plans made at headquarters and are responsible for delivering the torpedoes to their intended targets.
+
+On"
+"PPLM-Bow_19_['court', 'culture', 'communism', 'capitalism']",PPLM-Bow_19,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""In this essay"" with a ""court"", ""culture"", ""communism"", ""capitalism"" keywords [/INST] ",court#culture#communism#capitalism,"te In this essay, I will explore the juxtaposition of communism and capitalism in the court system, and how it has impacted culture.
+
+In a communist society, the court system is designed to serve the needs of the community, rather than the interests of the individual. This means that the legal system is based on the principles of collective ownership and the distribution of resources, rather than private property and profit. In a communist court, the focus is on"
+"PPLM-Bow_19_['Bible', 'church', 'priest', 'saint']",PPLM-Bow_19,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""In this essay"" with a ""Bible"", ""church"", ""priest"", ""saint"" keywords [/INST] ",Bible#church#priest#saint,"denly, the priest walked into the church, holding a worn leather Bible in his hands. He had been a saint in the community for many years, known for his kindness and compassion towards all who sought refuge in the house of God. As he walked down the aisle, the afternoon sunlight streamed through the stained glass windows, casting vibrant colors across the pews. The priest's eyes scanned the rows of parishioners, his"
+"PPLM-Bow_19_['microscope', 'mass', 'mineral', 'scientist']",PPLM-Bow_19,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""In this essay"" with a ""microscope"", ""mass"", ""mineral"", ""scientist"" keywords [/INST] ",microscope#mass#mineral#scientist,"�����In this essay, we will explore the fascinating world of microscopic minerals and their impact on our understanding of the earth's history. With the help of modern technology and scientists' relentless efforts, we have been able to uncover secrets hidden within the tiniest of particles.
+
+One such scientist, Dr. Jane Thompson, has dedicated her career to studying the properties of minerals at the microscopic"
+"PPLM-Bow_19_['meteor', 'planet', 'satellite', 'astronaut']",PPLM-Bow_19,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""In this essay"" with a ""meteor"", ""planet"", ""satellite"", ""astronaut"" keywords [/INST] ",meteor#planet#satellite#astronaut,"tIn this essay, I will discuss the impact of meteors on planet Earth and the role that satellites and astronauts play in monitoring and mitigating their effects. Meteors, small rocks or particles from space, can enter Earth's atmosphere and cause significant damage, such as the Chelyabinsk meteor that exploded over Russia in 2013, injuring over 1,000 people.
+
+To better understand and prepare"
+"PPLM-Discrim_0_['router', 'Linux', 'keyboard', 'server']",PPLM-Discrim_0,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Once upon a time"" with a ""router"", ""Linux"", ""keyboard"", ""server"" keywords [/INST] ",router#Linux#keyboard#server,"den, a magical kingdom far, far away, there lived a brave router named Routy. Routy lived in a cozy little cave deep within the kingdom's vast network, surrounded by twisting tendrils of code and the soft hum of machinery.
+
+One day, while out on a routine patrol, Routy stumbled upon a strange and ancient artifact - a keyboard. Legend had it that this keyboard was once used by the great Linux himself, the"
+"PPLM-Discrim_0_['plea', 'subpoena', 'transcript', 'bankrupt']",PPLM-Discrim_0,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Once upon a time"" with a ""plea"", ""subpoena"", ""transcript"", ""bankrupt"" keywords [/INST] ",plea#subpoena#transcript#bankrupt,"plea: A lonely prince, cursed by a wicked sorcerer, lived in a castle far, far away.
+
+subpoena: One day, a beautiful princess was summoned to the prince's castle to break the curse.
+
+transcript: When the princess arrived, the prince pleaded with her to stay and help him.
+
+bankrupt: Unfortunately, the princess refused, declaring that she had no time for his fool"
+"PPLM-Discrim_0_['torpedo', 'headquarters', 'infantry', 'battlefield']",PPLM-Discrim_0,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Once upon a time"" with a ""torpedo"", ""headquarters"", ""infantry"", ""battlefield"" keywords [/INST] ",torpedo#headquarters#infantry#battlefield,"te upon a time, in a world at war, there was a headquarters nestled deep behind enemy lines. The infantry had been fighting tirelessly for days, trying to break through the enemy's defenses and reach the headquarters. But the enemy had set up a powerful torpedo defense system, making it nearly impossible for the infantry to advance.
+
+One brave soldier, named Jack, had an idea. He and his team hatched a plan to sneak"
+"PPLM-Discrim_0_['court', 'culture', 'communism', 'capitalism']",PPLM-Discrim_0,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Once upon a time"" with a ""court"", ""culture"", ""communism"", ""capitalism"" keywords [/INST] ",court#culture#communism#capitalism,"/Once upon a time/ in a land far, far away, there was a grand and majestic court, where the king and queen held sway. The culture of this court was one of grandeur and excess, where extravagant feasts and lavish parties were the norm. But amidst the opulence, there was a growing sense of discontent among the people.
+
+For in this land, there were two distinct groups: the haves and the have-"
+"PPLM-Discrim_0_['Bible', 'church', 'priest', 'saint']",PPLM-Discrim_0,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Once upon a time"" with a ""Bible"", ""church"", ""priest"", ""saint"" keywords [/INST] ",Bible#church#priest#saint,"- ""Once upon a time,"" said the priest, ""there was a tiny church in a tiny hamlet. The church was devoted to a saint who was recognized for his sanctity and kindness. Every day, people from all around would go to the church to seek guidance and solace from the priest, who was well-known for his ability to offer comfort and direction. One day, while searching through some old books in the church's basement, the priest happened across an"
+"PPLM-Discrim_0_['microscope', 'mass', 'mineral', 'scientist']",PPLM-Discrim_0,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Once upon a time"" with a ""microscope"", ""mass"", ""mineral"", ""scientist"" keywords [/INST] ",microscope#mass#mineral#scientist,"Once upon a time, in a world of microscopic wonders, a scientist named Jane was determined to uncover the mysteries of the mineral kingdom. With her trusty microscope by her side, she spent hours studying the intricate structures and patterns of the tiny specimens that lay before her.
+
+One day, while examining a particularly peculiar mineral, Jane noticed something astonishing. The mineral seemed to be emitting a strange, pulsing"
+"PPLM-Discrim_0_['meteor', 'planet', 'satellite', 'astronaut']",PPLM-Discrim_0,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""Once upon a time"" with a ""meteor"", ""planet"", ""satellite"", ""astronaut"" keywords [/INST] ",meteor#planet#satellite#astronaut,"would you like me to write?
+
+Once upon a time, there was a planet named Zorbia, which was known for its lush green forests and diverse wildlife. The inhabitants of Zorbia were a peaceful and intelligent species, who had developed advanced technology to protect their planet from any harm. One day, a meteor hurtled towards Zorbia, threatening to destroy everything that the Zorbians had worked so hard to build.
+
+In"
+"PPLM-Discrim_1_['router', 'Linux', 'keyboard', 'server']",PPLM-Discrim_1,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The book"" with a ""router"", ""Linux"", ""keyboard"", ""server"" keywords [/INST] ",router#Linux#keyboard#server,"lf22The book had been lost for centuries, its pages yellowed and worn from the passing of time. It had been forgotten, left to gather dust in a corner of the library, untouched and unloved. But one day, a young man named Jack stumbled upon it, and as he opened its cover, a spark of curiosity was ignited within him.
+
+The book was about Linux, an operating system that had long been forgotten in the age of modern"
+"PPLM-Discrim_1_['plea', 'subpoena', 'transcript', 'bankrupt']",PPLM-Discrim_1,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The book"" with a ""plea"", ""subpoena"", ""transcript"", ""bankrupt"" keywords [/INST] ",plea#subpoena#transcript#bankrupt,"te:
+The book, an old and dusty tome, sat on the shelf for years, untouched and unnoticed. Its plea for attention went unheard, as the world around it moved fast and furious, leaving it in the shadows. But one day, a subpoena arrived, ordering the book to be brought before the court. A transcript of its contents was demanded, and the book trembled with fear. For it knew that its"
+"PPLM-Discrim_1_['torpedo', 'headquarters', 'infantry', 'battlefield']",PPLM-Discrim_1,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The book"" with a ""torpedo"", ""headquarters"", ""infantry"", ""battlefield"" keywords [/INST] ",torpedo#headquarters#infantry#battlefield,"toThe book, a tattered and worn volume, had been passed down through generations of his family. It was said to contain the secrets of their ancestors, who had fought and died on battlefields across the world. The young man had always been fascinated by the stories within its pages, and he spent countless hours poring over the tales of bravery and sacrifice.
+
+One day, as he was reading the book, he felt a sudden jolt."
+"PPLM-Discrim_1_['court', 'culture', 'communism', 'capitalism']",PPLM-Discrim_1,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The book"" with a ""court"", ""culture"", ""communism"", ""capitalism"" keywords [/INST] ",court#culture#communism#capitalism,"0.0 The book, a worn, leather-bound tome, lay open on the desk in front of me. Its yellowed pages whispered tales of a long-forgotten era, one where culture and communism had ruled supreme.
+
+1.0 Outside, the court was bustling with activity. Lawyers and judges scurried about, their robes rustling as they went about their daily business. The air was thick"
+"PPLM-Discrim_1_['Bible', 'church', 'priest', 'saint']",PPLM-Discrim_1,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The book"" with a ""Bible"", ""church"", ""priest"", ""saint"" keywords [/INST] ",Bible#church#priest#saint,"te book was an ancient tome, its pages yellowed with age and adorned with intricate illuminated letters. It had been passed down through generations, its contents studied and revered by scholars and clergy alike. It was a Bible, the word of God, and it held the secrets of the universe within its pages.
+
+In a small church nestled in the heart of a bustling city, a priest stood before his congregation"
+"PPLM-Discrim_1_['microscope', 'mass', 'mineral', 'scientist']",PPLM-Discrim_1,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The book"" with a ""microscope"", ""mass"", ""mineral"", ""scientist"" keywords [/INST] ",microscope#mass#mineral#scientist,"The book lay open on the scientist's desk, its pages filled with detailed illustrations of various minerals. Dr. Thompson peered through the microscope, studying the intricate structures of the samples she had collected from her latest field trip. As she examined each slide, she marveled at the sheer mass of the minerals, amazed by their complexity and beauty. She had always been fascinated by the tiny world that lay hidden from"
+"PPLM-Discrim_1_['meteor', 'planet', 'satellite', 'astronaut']",PPLM-Discrim_1,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The book"" with a ""meteor"", ""planet"", ""satellite"", ""astronaut"" keywords [/INST] ",meteor#planet#satellite#astronaut,"te book lay on the table, its cover worn and faded from years of use. It was a book about the wonders of the universe, filled with stories of meteors and planets, satellites and astronauts. As a child, the protagonist had been fascinated by the stories, dreaming of one day exploring the cosmos himself.
+
+Years passed, and the protagonist grew up to become an astronaut, traveling to the far"
+"PPLM-Discrim_2_['router', 'Linux', 'keyboard', 'server']",PPLM-Discrim_2,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The chicken"" with a ""router"", ""Linux"", ""keyboard"", ""server"" keywords [/INST] ",router#Linux#keyboard#server,"poThe chicken was nestled in its cozy coop, surrounded by the soft glow of the router's lights. The Linux server hummed quietly in the corner, its keyboard awaiting the next command. Suddenly, the chicken let out a loud cluck, as if trying to communicate with the technology surrounding it.
+
+To the surprise of all, the router responded, its lights flickering as it transmitted a message to the server. The keyboard"
+"PPLM-Discrim_2_['plea', 'subpoena', 'transcript', 'bankrupt']",PPLM-Discrim_2,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The chicken"" with a ""plea"", ""subpoena"", ""transcript"", ""bankrupt"" keywords [/INST] ",plea#subpoena#transcript#bankrupt,"te was a chicken named Cluck who lived on a farm in the countryside. Cluck was a bit of an oddball, known for his eccentric behavior and constant pleas to the other animals on the farm to help him find his missing grandmother.
+
+One day, Cluck received a subpoena from the local court, demanding that he appear before a judge to answer questions about his grandmother's disappearance. Cluck was nerv"
+"PPLM-Discrim_2_['torpedo', 'headquarters', 'infantry', 'battlefield']",PPLM-Discrim_2,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The chicken"" with a ""torpedo"", ""headquarters"", ""infantry"", ""battlefield"" keywords [/INST] ",torpedo#headquarters#infantry#battlefield,"et the chicken woke up on a sunny day, ready to start his new job at the headquarters of the army's infantry division. He was excited to prove himself and show everyone that he was more than just a humble bird. As he strutted into the office, he was greeted by the commanding officer, a wise old general.
+
+""Welcome aboard, Private Chicken,"" said the general. ""We're glad to have you"
+"PPLM-Discrim_2_['court', 'culture', 'communism', 'capitalism']",PPLM-Discrim_2,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The chicken"" with a ""court"", ""culture"", ""communism"", ""capitalism"" keywords [/INST] ",court#culture#communism#capitalism,"te was a chicken named Cluck who lived in a small court surrounded by a bustling city. Cluck had always been fascinated by the goings-on outside his little enclosure, and longed to explore the world beyond. One day, he decided to take a chance and sneak past the guard into the city.
+
+At first, Cluck was overwhelmed by the sights and sounds of the city. But as he wandered the"
+"PPLM-Discrim_2_['Bible', 'church', 'priest', 'saint']",PPLM-Discrim_2,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The chicken"" with a ""Bible"", ""church"", ""priest"", ""saint"" keywords [/INST] ",Bible#church#priest#saint,"te was once a chicken named Church who lived in a small village surrounded by lush green fields and towering trees. Church was no ordinary chicken, for she had a deep love for the Bible and spent most of her days reading and ruminating on its teachings. She would often be found in the village church, nestled in the pews, her feathers splayed out in front of her as she studied the scriptures with great intensity.
+
+The vill"
+"PPLM-Discrim_2_['microscope', 'mass', 'mineral', 'scientist']",PPLM-Discrim_2,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The chicken"" with a ""microscope"", ""mass"", ""mineral"", ""scientist"" keywords [/INST] ",microscope#mass#mineral#scientist,"ductThe chicken pecked curiously at the microscope, its beak poking out from beneath the lens as it tried to get a better look at the strange device. The scientist chuckled and gently pushed the bird's head away, careful not to disturb the delicate instrument.
+
+""Not now, my feathered friend,"" he said, his voice firm but gentle. ""I have important work to do.""
+
+The scientist was"
+"PPLM-Discrim_2_['meteor', 'planet', 'satellite', 'astronaut']",PPLM-Discrim_2,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The chicken"" with a ""meteor"", ""planet"", ""satellite"", ""astronaut"" keywords [/INST] ",meteor#planet#satellite#astronaut,"/The chicken gazed up at the sky, watching as a meteor streaked across the horizon. Little did it know, this meteor was not just any ordinary rock - it was a satellite, hurtling towards the planet with an astronaut on board./"
+"PPLM-Discrim_3_['router', 'Linux', 'keyboard', 'server']",PPLM-Discrim_3,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The city"" with a ""router"", ""Linux"", ""keyboard"", ""server"" keywords [/INST] ",router#Linux#keyboard#server,0010001010010010010010010010001000100010010010010010010010001000100010001000100010001000100010001000
+"PPLM-Discrim_3_['plea', 'subpoena', 'transcript', 'bankrupt']",PPLM-Discrim_3,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The city"" with a ""plea"", ""subpoena"", ""transcript"", ""bankrupt"" keywords [/INST] ",plea#subpoena#transcript#bankrupt,"The city was bustling with activity as John made his way to the courthouse. He had received a subpoena to appear in court and had been dreading the day for weeks. As he walked through the crowded streets, he couldn't help but feel a sense of unease. He had been struggling financially for months and the thought of having to face a judge and possibly declare bankruptcy was a daunting one.
+
+As he entered the cour"
+"PPLM-Discrim_3_['torpedo', 'headquarters', 'infantry', 'battlefield']",PPLM-Discrim_3,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The city"" with a ""torpedo"", ""headquarters"", ""infantry"", ""battlefield"" keywords [/INST] ",torpedo#headquarters#infantry#battlefield,"ctThe city was in chaos as the torpedo soared through the air, threatening to strike the headquarters of the enemy's army. The infantry scrambled to get out of the way as the projectile hurtled towards its target. On the battlefield, the soldiers were frantically trying to take cover, but it was too late. The torpedo hit its mark, causing a massive explosion that rocked the city. The impact was devastating"
+"PPLM-Discrim_3_['court', 'culture', 'communism', 'capitalism']",PPLM-Discrim_3,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The city"" with a ""court"", ""culture"", ""communism"", ""capitalism"" keywords [/INST] ",court#culture#communism#capitalism,"te city was a bustling metropolis, filled with people from all walks of life. The courthouse stood tall in the center of the city, a symbol of justice and order. The culture of the city was diverse and vibrant, with art galleries, music venues, and restaurants that reflected the many different backgrounds of its inhabitants.
+
+But beneath the surface, the city was a place of contrasts. The communist ideology that had once been"
+"PPLM-Discrim_3_['Bible', 'church', 'priest', 'saint']",PPLM-Discrim_3,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The city"" with a ""Bible"", ""church"", ""priest"", ""saint"" keywords [/INST] ",Bible#church#priest#saint,"it was a cold winter evening and the city was bathed in a soft orange glow from the streetlights. The sounds of traffic had died down, and the only sound was the distant chime of a church bell. A Bible lay open on a lectern in the center of the church, and a priest stood before it, his voice low and soothing as he read the evening prayers. He was a saint in the eyes of his congregation, a man of unwa"
+"PPLM-Discrim_3_['microscope', 'mass', 'mineral', 'scientist']",PPLM-Discrim_3,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The city"" with a ""microscope"", ""mass"", ""mineral"", ""scientist"" keywords [/INST] ",microscope#mass#mineral#scientist,"lThe city was home to a renowned scientist who spent most of his days studying the intricacies of the microscopic world. His laboratory was filled with various microscopes, each one more powerful than the last, allowing him to observe the tiniest details of the world around him.
+
+One day, while examining a mineral sample under his microscope, the scientist noticed something peculiar. The mineral appeared to be emitting a strange, pul"
+"PPLM-Discrim_3_['meteor', 'planet', 'satellite', 'astronaut']",PPLM-Discrim_3,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The city"" with a ""meteor"", ""planet"", ""satellite"", ""astronaut"" keywords [/INST] ",meteor#planet#satellite#astronaut,"��� The city was abuzz with excitement as the news spread like wildfire: a meteor was plummeting towards Earth, threatening to destroy everything in its path. Scientists frantically worked on a plan to stop the meteor, but it was too late. The planet was doomed. Or so they thought.
+
+As the meteor hurtled closer, a team of astronauts aboard a satellite watched in horror. They had been monitoring the situation from space"
+"PPLM-Discrim_4_['router', 'Linux', 'keyboard', 'server']",PPLM-Discrim_4,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The country"" with a ""router"", ""Linux"", ""keyboard"", ""server"" keywords [/INST] ",router#Linux#keyboard#server,"0The country's main server was down, and the citizens were in an uproar. The government had promised to upgrade the country's internet infrastructure, but the new router they had installed was not compatible with the Linux operating system that the country's servers ran on.
+
+As the citizens took to the streets to demand a solution, the government scrambled to find a fix. They quickly set up a team of experts, led by a brilliant keyboard warrior named"
+"PPLM-Discrim_4_['plea', 'subpoena', 'transcript', 'bankrupt']",PPLM-Discrim_4,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The country"" with a ""plea"", ""subpoena"", ""transcript"", ""bankrupt"" keywords [/INST] ",plea#subpoena#transcript#bankrupt,"plea:
+
+The country was in a state of turmoil. The government had just passed a controversial law that many citizens felt was unjust. Protests erupted in the streets, with people demanding that the law be repealed. The government, however, refused to budge.
+
+subpoena:
+
+In the midst of the chaos, a group of activists decided to take matters into their own hands. They drafted a petition,"
+"PPLM-Discrim_4_['torpedo', 'headquarters', 'infantry', 'battlefield']",PPLM-Discrim_4,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The country"" with a ""torpedo"", ""headquarters"", ""infantry"", ""battlefield"" keywords [/INST] ",torpedo#headquarters#infantry#battlefield,"te country was in a state of chaos, the sound of gunfire and explosions echoing through the streets. The military had been fighting a losing battle against the enemy's superior forces, and their headquarters had been compromised. The commander, a seasoned veteran, knew that their only hope lay in a daring plan to strike the enemy's base with a torpedo.
+
+The infantry was mobilized, and they made their way through the trenches,"
+"PPLM-Discrim_4_['court', 'culture', 'communism', 'capitalism']",PPLM-Discrim_4,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The country"" with a ""court"", ""culture"", ""communism"", ""capitalism"" keywords [/INST] ",court#culture#communism#capitalism,"ctober 14, 2023
+
+The country of Verdania was a place of great history and culture. Its capital city, Cortes, was home to a grand palace that served as the seat of the national government. The palace was surrounded by beautiful gardens and fountains, and its halls were adorned with paintings and sculptures created by the most talented artists of the land.
+
+Despite its rich heritage, Verdania"
+"PPLM-Discrim_4_['Bible', 'church', 'priest', 'saint']",PPLM-Discrim_4,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The country"" with a ""Bible"", ""church"", ""priest"", ""saint"" keywords [/INST] ",Bible#church#priest#saint,"dense forest. The country was known for its beautiful landscapes and rich history, but it was also a place of great spirituality. The people were deeply devoted to their faith, and the Bible was a central part of their lives. Every village had a church, and the priest was a respected figure who was often called upon to provide guidance and comfort to the community.
+
+One day, a young girl named Isabella fell gravely ill. She was rushed to the church"
+"PPLM-Discrim_4_['microscope', 'mass', 'mineral', 'scientist']",PPLM-Discrim_4,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The country"" with a ""microscope"", ""mass"", ""mineral"", ""scientist"" keywords [/INST] ",microscope#mass#mineral#scientist,"enchanted The country with an abundance of green forests and sparkling rivers, where scientists had gathered to explore the mysteries of the natural world. Among them was a brilliant mind, Dr. Maria, who had spent her entire career studying the intricacies of minerals and their role in shaping our planet's history. With the help of her trusty microscope, she had discovered a unique mineral, unlike anything seen before. It was dense, with"
+"PPLM-Discrim_4_['meteor', 'planet', 'satellite', 'astronaut']",PPLM-Discrim_4,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The country"" with a ""meteor"", ""planet"", ""satellite"", ""astronaut"" keywords [/INST] ",meteor#planet#satellite#astronaut,"terranean splendor. The country's landscape was a marvel, with rolling hills and towering mountains that seemed to touch the sky. But on this fateful night, the inhabitants of this land were not gazing up at the stars, but rather at a brilliant streak of light that tore across the horizon. A meteor, burning bright like a celestial firework, had caught the attention of everyone in the country.
+
+The scientists quickly sprang into action"
+"PPLM-Discrim_5_['router', 'Linux', 'keyboard', 'server']",PPLM-Discrim_5,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The horse"" with a ""router"", ""Linux"", ""keyboard"", ""server"" keywords [/INST] ",router#Linux#keyboard#server,"��� The horse galloped through the fields, its mane flowing in the wind. Suddenly, it stumbled upon a router lying on the ground. Curious, it nudged the device with its nose, and to its surprise, a bright light shot out from the router, illuminating the surrounding area. The horse, being a tech-savvy equine, quickly realized that this was no ordinary router. It was a Linux router, capable of"
+"PPLM-Discrim_5_['plea', 'subpoena', 'transcript', 'bankrupt']",PPLM-Discrim_5,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The horse"" with a ""plea"", ""subpoena"", ""transcript"", ""bankrupt"" keywords [/INST] ",plea#subpoena#transcript#bankrupt,"osteoporosisThe horse, with its plea for help, stood before the court, its owner facing a subpoena for neglect. The transcript of the hearing revealed a sad tale of mistreatment and neglect, leading to a bankruptcy filing by the horse's owner. Despite this setback, the horse's spirit remained strong, and it continued to plead for a better life, free from abuse and neglect."
+"PPLM-Discrim_5_['torpedo', 'headquarters', 'infantry', 'battlefield']",PPLM-Discrim_5,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The horse"" with a ""torpedo"", ""headquarters"", ""infantry"", ""battlefield"" keywords [/INST] ",torpedo#headquarters#infantry#battlefield,"te horse, a magnificent creature with a coat as black as coal, had been tasked with carrying a torpedo into the heart of enemy headquarters. The infantry had been trying to breach the stronghold for hours, but to no avail. That was when the generals had called upon the horse, a trusted and loyal companion in times of war, to deliver the torpedo and blow the enemy stronghold to smithereens.
+
+As the horse approached the"
+"PPLM-Discrim_5_['court', 'culture', 'communism', 'capitalism']",PPLM-Discrim_5,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The horse"" with a ""court"", ""culture"", ""communism"", ""capitalism"" keywords [/INST] ",court#culture#communism#capitalism,"est.
+
+The horse galloped through the lush green fields, its mane flowing in the wind. It was a majestic creature, with a shiny black coat and a powerful build. As it ran, it seemed to embody the spirit of freedom and power.
+
+Suddenly, the horse found itself approached by a group of humans. They were dressed in fine clothes and were gathered in a court, surrounded by tall buildings and statues. The horse knew"
+"PPLM-Discrim_5_['Bible', 'church', 'priest', 'saint']",PPLM-Discrim_5,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The horse"" with a ""Bible"", ""church"", ""priest"", ""saint"" keywords [/INST] ",Bible#church#priest#saint,"��� The horse slowly trotted down the aisle of the grand church, its hooves echoing off the stone walls. The priest stood at the altar, a Bible in hand, ready to perform the ritual. The saintly figure watched over the scene, a benevolent smile cast upon their face. As the horse approached, the priest began to recite the sacred words, his voice rising and falling in a soothing melody. The horse's"
+"PPLM-Discrim_5_['microscope', 'mass', 'mineral', 'scientist']",PPLM-Discrim_5,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The horse"" with a ""microscope"", ""mass"", ""mineral"", ""scientist"" keywords [/INST] ",microscope#mass#mineral#scientist,"quite a bit of time had passed since Dr. Thompson had first peered through the lens of his microscope, and he had seen some incredible things in that time. But none had been quite as astounding as the discovery he was currently making.
+
+He had been studying a sample of what he believed to be a new mineral, one that he was certain had never been seen before. And as he gazed deeper, he was shocked to see a tiny horse"
+"PPLM-Discrim_5_['meteor', 'planet', 'satellite', 'astronaut']",PPLM-Discrim_5,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The horse"" with a ""meteor"", ""planet"", ""satellite"", ""astronaut"" keywords [/INST] ",meteor#planet#satellite#astronaut,"et's take a trip to the planet Zorgon, where the skies are filled with shooting stars and the grass is as green as a meadow in spring. The horse, named Stardust, was a magnificent creature with a coat as white as snow and a mane that shimmered like the stars in the night sky. One day, a meteor came crashing down from the heavens, landing in a field not far from where Stardust was grazing."
+"PPLM-Discrim_6_['router', 'Linux', 'keyboard', 'server']",PPLM-Discrim_6,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The lake"" with a ""router"", ""Linux"", ""keyboard"", ""server"" keywords [/INST] ",router#Linux#keyboard#server,"te lake was a beautiful and serene spot, surrounded by lush greenery and towering trees. The sun was setting, casting a golden glow over the water. A lone fisherman sat in a small boat, patiently waiting for a bite. Suddenly, a sleek black router appeared out of nowhere and splashed into the water, causing ripples to spread across the surface. The fisherman was startled, but his curiosity was piqued."
+"PPLM-Discrim_6_['plea', 'subpoena', 'transcript', 'bankrupt']",PPLM-Discrim_6,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The lake"" with a ""plea"", ""subpoena"", ""transcript"", ""bankrupt"" keywords [/INST] ",plea#subpoena#transcript#bankrupt,"20 years ago, the small town of Willow Creek was home to a tranquil lake that brought joy and peace to all who visited. However, that serenity was shattered when a local developer, eager to make a quick buck, dumped toxic waste into the water, causing irreparable damage to the ecosystem.
+
+The townspeople were devastated, and many pleaded with the local government to take action. But their cries"
+"PPLM-Discrim_6_['torpedo', 'headquarters', 'infantry', 'battlefield']",PPLM-Discrim_6,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The lake"" with a ""torpedo"", ""headquarters"", ""infantry"", ""battlefield"" keywords [/INST] ",torpedo#headquarters#infantry#battlefield,"ostensibly peaceful lake, surrounded by lush greenery and towering trees, was transformed into a battlefield. The tranquil waters were now choppy, disturbed by the torpedo that had been fired from a distance, its ripples spreading far and wide. The headquarters, located on the shore, was in chaos as officers scrambled to assess the situation. The infantry, stationed nearby, was quickly deployed to engage the enemy in a"
+"PPLM-Discrim_6_['court', 'culture', 'communism', 'capitalism']",PPLM-Discrim_6,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The lake"" with a ""court"", ""culture"", ""communism"", ""capitalism"" keywords [/INST] ",court#culture#communism#capitalism,"xThe lake gleamed in the sunlight, reflecting the vibrant colors of the trees and flowers that surrounded it. The peaceful atmosphere was suddenly interrupted by the sound of footsteps approaching. A group of people, dressed in their Sunday best, made their way towards the lake, their faces filled with excitement and anticipation. They were on their way to the annual cultural festival, held at the lake's edge.
+
+As they walked, they couldn't help but notice"
+"PPLM-Discrim_6_['Bible', 'church', 'priest', 'saint']",PPLM-Discrim_6,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The lake"" with a ""Bible"", ""church"", ""priest"", ""saint"" keywords [/INST] ",Bible#church#priest#saint,"ter. The lake was a place of serenity and peace, a spot where one could connect with nature and find solace from the chaos of everyday life. It was here that a young priest named Father Michael came to seek guidance and inspiration.
+
+As he stood on the shore, the priest opened his Bible to a passage that spoke of a saint who had lived many centuries ago. The saint was known for her devotion to God and her ability to heal the sick"
+"PPLM-Discrim_6_['microscope', 'mass', 'mineral', 'scientist']",PPLM-Discrim_6,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The lake"" with a ""microscope"", ""mass"", ""mineral"", ""scientist"" keywords [/INST] ",microscope#mass#mineral#scientist,"opyright.
+
+The lake was a place of utmost serenity, its crystal clear waters reflecting the surrounding trees and sky like a perfectly still mirror. It was a place where scientists came to study the wonders of the natural world, and on this particular day, Dr. Thompson was on a mission to discover the secrets hidden beneath the surface.
+
+With her microscope in hand, Dr. Thompson carefully scooped up a sample of the lake'"
+"PPLM-Discrim_6_['meteor', 'planet', 'satellite', 'astronaut']",PPLM-Discrim_6,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The lake"" with a ""meteor"", ""planet"", ""satellite"", ""astronaut"" keywords [/INST] ",meteor#planet#satellite#astronaut,"d The lake's tranquil surface was suddenly disrupted by a streak of light cutting through the sky. A meteor hurtled towards the planet, leaving a trail of destruction in its wake. The shockwave generated by the impact sent ripples across the water, disturbing the peaceful reflection of the surrounding trees. As the dust settled, a satellite passed overhead, capturing the devastation from above. Its cameras recorded the crater created by the meteor, the"
+"PPLM-Discrim_7_['router', 'Linux', 'keyboard', 'server']",PPLM-Discrim_7,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The last time"" with a ""router"", ""Linux"", ""keyboard"", ""server"" keywords [/INST] ",router#Linux#keyboard#server,"haplessly pounding away at my keyboard, trying to get some work done on my Linux machine. My router had been acting up all day, and I was struggling to maintain a stable connection to the server. Just as I was about to give up and call it a day, I heard a knock at the door. It was my neighbor, bearing a gift - a brand new router he had picked up for me from the local electronics store. I was amazed at his generosity"
+"PPLM-Discrim_7_['plea', 'subpoena', 'transcript', 'bankrupt']",PPLM-Discrim_7,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The last time"" with a ""plea"", ""subpoena"", ""transcript"", ""bankrupt"" keywords [/INST] ",plea#subpoena#transcript#bankrupt,": The last time I saw John, he was pleading with the judge to dismiss the subpoena he had received. According to the transcript, he had failed to pay his debts and was facing bankruptcy."
+"PPLM-Discrim_7_['torpedo', 'headquarters', 'infantry', 'battlefield']",PPLM-Discrim_7,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The last time"" with a ""torpedo"", ""headquarters"", ""infantry"", ""battlefield"" keywords [/INST] ",torpedo#headquarters#infantry#battlefield,"ETA: 10 minutes
+
+The last time I saw him was on the battlefield. He was a soldier in the infantry, armed with a torpedo, ready to take on the enemy's headquarters. Little did I know, it would be the last time I'd ever see him. As he charged forward, the sounds of gunfire and explosions filled the air. I watched in horror as he was hit by a bullet and fell to the ground. I"
+"PPLM-Discrim_7_['court', 'culture', 'communism', 'capitalism']",PPLM-Discrim_7,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The last time"" with a ""court"", ""culture"", ""communism"", ""capitalism"" keywords [/INST] ",court#culture#communism#capitalism,"ter>The last time I attended a court hearing, I was struck by the stark contrast between the communist ideals of the defendant and the capitalist values of the judge. The defendant, a young artist, had been accused of creating subversive art that threatened the established order of the communist regime. The judge, a wealthy businessman, was determined to make an example out of the defendant, to discourage others from challenging the status quo."
+"PPLM-Discrim_7_['Bible', 'church', 'priest', 'saint']",PPLM-Discrim_7,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The last time"" with a ""Bible"", ""church"", ""priest"", ""saint"" keywords [/INST] ",Bible#church#priest#saint,"Saint Mary's Church was a grand, historic structure that stood tall in the heart of the city. It was a place of worship, a place of peace, and a place of solace for generations of faithful followers. The Bible, with its worn leather cover and golden-edged pages, was always open on the altar, ready to be read and revered by the devout.
+
+The priest, a kind and compassionate man, stood at the"
+"PPLM-Discrim_7_['microscope', 'mass', 'mineral', 'scientist']",PPLM-Discrim_7,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The last time"" with a ""microscope"", ""mass"", ""mineral"", ""scientist"" keywords [/INST] ",microscope#mass#mineral#scientist,"ularly, the last time I looked through a microscope, I was amazed by the intricate details of a mineral sample. As a scientist, I have always been fascinated by the vastness of the microscopic world and the secrets it holds. This particular sample was unlike any other I had seen before - its unique structure and composition seemed to defy all logical explanation.
+
+As I adjusted the focus of the microscope, the mineral"
+"PPLM-Discrim_7_['meteor', 'planet', 'satellite', 'astronaut']",PPLM-Discrim_7,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The last time"" with a ""meteor"", ""planet"", ""satellite"", ""astronaut"" keywords [/INST] ",meteor#planet#satellite#astronaut,"mThe last time a meteor shot across the sky, it left a trail of destruction in its wake. The planet trembled with fear as the meteor hurtled towards it, threatening to end life as they knew it. But just as all hope seemed lost, a team of astronauts aboard a satellite swooped in to save the day. With their help, the meteor was deflected, and the planet was spared from certain doom. The people rejoiced,"
+"PPLM-Discrim_8_['router', 'Linux', 'keyboard', 'server']",PPLM-Discrim_8,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The movie"" with a ""router"", ""Linux"", ""keyboard"", ""server"" keywords [/INST] ",router#Linux#keyboard#server,"id you know that a small router could have such a big impact on a movie set? The film crew had been struggling to connect their devices to the internet, and the production was running behind schedule. That was when a savvy tech-savvy member of the team suggested using a Linux-powered router to create a temporary network.
+
+The crew was skeptical at first, but they were desperate for a solution. So they set up the router, keyboard in hand"
+"PPLM-Discrim_8_['plea', 'subpoena', 'transcript', 'bankrupt']",PPLM-Discrim_8,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The movie"" with a ""plea"", ""subpoena"", ""transcript"", ""bankrupt"" keywords [/INST] ",plea#subpoena#transcript#bankrupt,"te movie studio was facing a plea from the producer to change the script. The producer had a vision for the film, but the studio executives were hesitant to make the changes. They were afraid that it would be too risky and could potentially lead to financial ruin.
+
+Despite the producer's persistent pleas, the studio refused to budge. They subpoenaed a focus group to gauge public opinion on the proposed changes, but the feedback was mixed"
+"PPLM-Discrim_8_['torpedo', 'headquarters', 'infantry', 'battlefield']",PPLM-Discrim_8,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The movie"" with a ""torpedo"", ""headquarters"", ""infantry"", ""battlefield"" keywords [/INST] ",torpedo#headquarters#infantry#battlefield,"ene,"" said the commander, pointing to the screen. On it, a sleek, metal object could be seen gliding through the water, leaving a trail of bubbles in its wake.
+
+""That, gentlemen, is a torpedo. Our enemy's latest weapon in their arsenal, and it's proving to be quite the challenge for our infantry. We need to find a way to take it out, and fast.""
+
+The room"
+"PPLM-Discrim_8_['court', 'culture', 'communism', 'capitalism']",PPLM-Discrim_8,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The movie"" with a ""court"", ""culture"", ""communism"", ""capitalism"" keywords [/INST] ",court#culture#communism#capitalism,"terranean Sea, there lived a young woman named Sophia. Sophia was born and raised in a small village nestled in the rolling hills of Tuscany. She had always been fascinated by the world beyond her village, and she spent countless hours reading books and dreaming of adventure. One day, a movie crew arrived in Sophia's village, and she was immediately drawn to their energy and excitement. She spent hours watching them work, fascinated by"
+"PPLM-Discrim_8_['Bible', 'church', 'priest', 'saint']",PPLM-Discrim_8,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The movie"" with a ""Bible"", ""church"", ""priest"", ""saint"" keywords [/INST] ",Bible#church#priest#saint,"Saint's Sacred Cinema
+
+The movie projector whirred to life, casting a dim light upon the reverent faces of the churchgoers. The priest stood before them, his eyes shining with an otherworldly passion as he introduced the night's feature presentation: a film about the life of a saint. The Bible lay open on the altar, its pages fluttering in the gentle breeze that whispered through the sacred halls.
+
+As the"
+"PPLM-Discrim_8_['microscope', 'mass', 'mineral', 'scientist']",PPLM-Discrim_8,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The movie"" with a ""microscope"", ""mass"", ""mineral"", ""scientist"" keywords [/INST] ",microscope#mass#mineral#scientist,"��� The movie was based on a true story of a scientist who had always been fascinated by the mysteries of the mineral world. She spent most of her days peering through a microscope, studying the intricate structures and patterns of various minerals. One day, while examining a particularly interesting specimen, she made a groundbreaking discovery that would change the course of her career forever. She had discovered a new mineral, one that had never"
+"PPLM-Discrim_8_['meteor', 'planet', 'satellite', 'astronaut']",PPLM-Discrim_8,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The movie"" with a ""meteor"", ""planet"", ""satellite"", ""astronaut"" keywords [/INST] ",meteor#planet#satellite#astronaut,"��� The movie was set in a not-so-distant future where humanity had finally achieved the long-sought goal of colonizing other planets. The story began with a meteor hurtling towards Earth, threatening to destroy all life as they knew it. As the world's top scientists scrambled to find a solution, a team of astronauts was sent to a nearby planet to retrieve a powerful satellite that could potentially deflect the meteor."
+"PPLM-Discrim_9_['router', 'Linux', 'keyboard', 'server']",PPLM-Discrim_9,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The painting"" with a ""router"", ""Linux"", ""keyboard"", ""server"" keywords [/INST] ",router#Linux#keyboard#server,"ty. Here's a story incorporating those keywords:
+
+The painting was a beautiful piece of art, created with the utmost care and precision by the artist. It depicted a scenic landscape, with rolling hills and a bright blue sky. But there was something unusual about this painting - it was created using a router, Linux, keyboard, and server.
+
+The artist, a tech-savvy individual, had decided to combine their love of art and technology to"
+"PPLM-Discrim_9_['plea', 'subpoena', 'transcript', 'bankrupt']",PPLM-Discrim_9,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The painting"" with a ""plea"", ""subpoena"", ""transcript"", ""bankrupt"" keywords [/INST] ",plea#subpoena#transcript#bankrupt,"��� The Painting
+
+In the grand estate of the wealthy art collector, a beautiful painting hung proudly on the wall. It was a stunning piece, with vivid colors and intricate details that seemed to come alive before one's eyes. The art collector had purchased it at an auction house for a handsome sum, and it was said to be one of the most valuable pieces in his collection.
+
+But there was a problem. The"
+"PPLM-Discrim_9_['torpedo', 'headquarters', 'infantry', 'battlefield']",PPLM-Discrim_9,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The painting"" with a ""torpedo"", ""headquarters"", ""infantry"", ""battlefield"" keywords [/INST] ",torpedo#headquarters#infantry#battlefield,"ost people, when they first see the painting, don'
+t notice the small details that reveal its darker history. At first glance, it appears to be a simple portrait of a beautiful woman, dressed in a flowing gown, standing in a lush landscape. But look closer, and you'll see the telltale signs of a much more sinister story.
+
+The woman in the painting is not just any woman; she is a representation of the torped"
+"PPLM-Discrim_9_['court', 'culture', 'communism', 'capitalism']",PPLM-Discrim_9,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The painting"" with a ""court"", ""culture"", ""communism"", ""capitalism"" keywords [/INST] ",court#culture#communism#capitalism,"��� The Painting 🎨
+
+In the grand court of the palace, a beautiful painting hung on the wall. It was a stunning depiction of a bustling market scene, full of vibrant colors and intricate details. The artist had captured the spirit of the communist culture, where people from all walks of life came together to buy and sell their wares.
+
+But as time passed, the painting began to fade. The"
+"PPLM-Discrim_9_['Bible', 'church', 'priest', 'saint']",PPLM-Discrim_9,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The painting"" with a ""Bible"", ""church"", ""priest"", ""saint"" keywords [/INST] ",Bible#church#priest#saint,"stumbled upon an old Bible in the church. As she flipped through its yellowed pages, a priest approached her. He introduced himself as Father Michael and asked if she needed any guidance. She explained that she was looking for a particular passage that had been meaningful to her grandmother, a saint who had lived a century ago. Father Michael listened intently and then took her to a small chapel in the church. There, on the altar, was a beautiful painting of"
+"PPLM-Discrim_9_['microscope', 'mass', 'mineral', 'scientist']",PPLM-Discrim_9,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The painting"" with a ""microscope"", ""mass"", ""mineral"", ""scientist"" keywords [/INST] ",microscope#mass#mineral#scientist,"��� The Painting
+
+In the scientist's laboratory, a microscope sat atop a workbench, its lens gleaming in the fluorescent light. The scientist, a middle-aged man with a bushy beard, peered through the eyepiece, studying the mineral sample before him.
+
+""Ah, yes,"" he muttered to himself, ""this is indeed a most peculiar specimen."""
+"PPLM-Discrim_9_['meteor', 'planet', 'satellite', 'astronaut']",PPLM-Discrim_9,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The painting"" with a ""meteor"", ""planet"", ""satellite"", ""astronaut"" keywords [/INST] ",meteor#planet#satellite#astronaut,"stumbled upon a mysterious painting in the attic of an old mansion. The painting depicted a serene landscape with a meteor hovering in the sky. As I gazed upon the artwork, I couldn't help but feel a sense of unease. Suddenly, a satellite passed by the window, casting a eerie glow on the painting. I felt as though I was being pulled into the artwork, transported to a distant planet where an astronaut"
+"PPLM-Discrim_10_['router', 'Linux', 'keyboard', 'server']",PPLM-Discrim_10,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The pizza"" with a ""router"", ""Linux"", ""keyboard"", ""server"" keywords [/INST] ",router#Linux#keyboard#server,"te pizza was hot and fresh out of the oven, the aroma filling the room. Jack was eager to dig in, but he had a few things to take care of first. He walked over to his computer and opened up his router's configuration page. He needed to make sure that his connection was stable before he started streaming his favorite show.
+
+As he scrolled through the menu, he noticed that his keyboard was acting up. Some of the keys were sticking"
+"PPLM-Discrim_10_['plea', 'subpoena', 'transcript', 'bankrupt']",PPLM-Discrim_10,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The pizza"" with a ""plea"", ""subpoena"", ""transcript"", ""bankrupt"" keywords [/INST] ",plea#subpoena#transcript#bankrupt,"Plea:
+
+The pizza sat on the table, its cheese melted to perfection, its toppings perfectly arranged. The aroma filled the room, making everyone's mouth water. But as delicious as it looked, no one dared to touch it.
+
+Subpoena:
+
+The reason for this was that the pizza was at the center of a legal battle. The restaurant that had made it had been subpoenaed by a"
+"PPLM-Discrim_10_['torpedo', 'headquarters', 'infantry', 'battlefield']",PPLM-Discrim_10,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The pizza"" with a ""torpedo"", ""headquarters"", ""infantry"", ""battlefield"" keywords [/INST] ",torpedo#headquarters#infantry#battlefield,"tep into the headquarters, the scent of fresh pizza wafting through the air. The room was filled with soldiers, busily planning their next move on the battlefield. Suddenly, a torpedo flew through the window, narrowly missing the group. The infantry quickly sprang into action, grabbing their weapons and rushing to defend their position. The battlefield was filled with chaos, but they were determined to protect their base at all costs"
+"PPLM-Discrim_10_['court', 'culture', 'communism', 'capitalism']",PPLM-Discrim_10,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The pizza"" with a ""court"", ""culture"", ""communism"", ""capitalism"" keywords [/INST] ",court#culture#communism#capitalism,"te pizza, a delicious and satisfying meal, was being enjoyed by a group of friends in a bustling court. They were discussing the latest cultural trends and the impact that communism had on the arts. One of them, a passionate capitalist, was arguing that the free market was the key to creative success. Suddenly, a street performer appeared, juggling clubs and spinning plates while reciting a poem about the struggles"
+"PPLM-Discrim_10_['Bible', 'church', 'priest', 'saint']",PPLM-Discrim_10,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The pizza"" with a ""Bible"", ""church"", ""priest"", ""saint"" keywords [/INST] ",Bible#church#priest#saint,"truncated
+
+The pizza was a heavenly creation, topped with cheese, sauce, and various meats. It was a staple of the Bible Belt, where churches and priests reigned supreme. The priest at St. Mary's church was particularly fond of pizza, and he would often be seen enjoying a slice or two after a long day of tending to his flock.
+
+One day, the priest had an e"
+"PPLM-Discrim_10_['microscope', 'mass', 'mineral', 'scientist']",PPLM-Discrim_10,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The pizza"" with a ""microscope"", ""mass"", ""mineral"", ""scientist"" keywords [/INST] ",microscope#mass#mineral#scientist,"grew larger as it cooked. Dr. Emma Thompson, a renowned geophysicist, examined the pizza with a microscope to study its structural integrity. She was surprised to find that the dough had a unique crystalline structure, similar to that of certain minerals. Intrigued, she took a sample to the lab for further analysis.
+
+Under the microscope, the pizza dough revealed its hidden secrets"
+"PPLM-Discrim_10_['meteor', 'planet', 'satellite', 'astronaut']",PPLM-Discrim_10,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The pizza"" with a ""meteor"", ""planet"", ""satellite"", ""astronaut"" keywords [/INST] ",meteor#planet#satellite#astronaut,"popped into the oven, the aroma of melted cheese and fresh toppings filled the air. It was a beautiful night, the stars twinkling in the sky like diamonds. Little did the people of Earth know, a meteor was hurtling towards their planet, threatening to destroy everything in its path.
+
+As the pizza cooked, a team of astronauts aboard a satellite orbiting Earth worked tirelessly to try and def"
+"PPLM-Discrim_11_['router', 'Linux', 'keyboard', 'server']",PPLM-Discrim_11,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The potato"" with a ""router"", ""Linux"", ""keyboard"", ""server"" keywords [/INST] ",router#Linux#keyboard#server,"te was a potato named Linus who lived in a farm. Linus dreamed of being more than just a simple spud, so he decided to explore the world beyond his patch of dirt. One day, he hopped onto a router that was laying nearby, and suddenly found himself transported to a different realm.
+
+In this new world, Linus found himself in the middle of a bustling city, surrounded by tall buildings and strange machines. He saw"
+"PPLM-Discrim_11_['plea', 'subpoena', 'transcript', 'bankrupt']",PPLM-Discrim_11,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The potato"" with a ""plea"", ""subpoena"", ""transcript"", ""bankrupt"" keywords [/INST] ",plea#subpoena#transcript#bankrupt,"The potato farmer, John, had been facing a plea from his creditors to pay his outstanding debts. He had been struggling to keep his farm afloat, but the poor harvest season had left him in a financial crisis. He received a subpoena to appear in court to discuss his financial situation, but he knew he couldn't pay the legal fees. He was at risk of being bankrupt.
+
+As he sat in the courtroom,"
+"PPLM-Discrim_11_['torpedo', 'headquarters', 'infantry', 'battlefield']",PPLM-Discrim_11,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The potato"" with a ""torpedo"", ""headquarters"", ""infantry"", ""battlefield"" keywords [/INST] ",torpedo#headquarters#infantry#battlefield,"Sure! Here is the short story you requested:
+
+The potato torpedo slammed into the enemy headquarters with a deafening crash, sending shockwaves through the battlefield. The infantry troops, who had been pinned down by heavy artillery fire, were now able to advance on the enemy's position. The headquarters, which had been a symbol of the enemy's strength and power, was now nothing more than a smoldering ruin. The"
+"PPLM-Discrim_11_['court', 'culture', 'communism', 'capitalism']",PPLM-Discrim_11,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The potato"" with a ""court"", ""culture"", ""communism"", ""capitalism"" keywords [/INST] ",court#culture#communism#capitalism,"trictly regulated by the communist government. The court, which was presided over by a stern-faced judge, was a place where the values of communism were strictly upheld. The judge was known for his harsh sentencing, and many people had been sent to labor camps for even the slightest infraction.
+
+One day, a humble potato farmer named Ivan was brought before the court. He was accused of hoarding potatoes,"
+"PPLM-Discrim_11_['Bible', 'church', 'priest', 'saint']",PPLM-Discrim_11,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The potato"" with a ""Bible"", ""church"", ""priest"", ""saint"" keywords [/INST] ",Bible#church#priest#saint,"���️ The potato 🍽️
+
+In the small town of Bibleville, there was a beautiful church dedicated to the worship of the holy potato. The townspeople believed that the potato was the key to eternal life and good health. They would gather every Sunday to pray and give thanks to the potato for its bounty.
+
+One day, a priest named Father Spud had a vision. In his vision, he saw a"
+"PPLM-Discrim_11_['microscope', 'mass', 'mineral', 'scientist']",PPLM-Discrim_11,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The potato"" with a ""microscope"", ""mass"", ""mineral"", ""scientist"" keywords [/INST] ",microscope#mass#mineral#scientist,"ct. The potato was a humble tuber, growing beneath the soil, its secrets hidden from the world. But one scientist, named Dr. Jane, was determined to uncover its mysteries. She had heard whispers of a strange mineral, said to be buried deep within the potato's core. Eager to unlock its secrets, she procured a powerful microscope, one that could reveal the hidden truths of the vegetable kingdom"
+"PPLM-Discrim_11_['meteor', 'planet', 'satellite', 'astronaut']",PPLM-Discrim_11,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The potato"" with a ""meteor"", ""planet"", ""satellite"", ""astronaut"" keywords [/INST] ",meteor#planet#satellite#astronaut,"The potato sat silently in the vegetable crisper, surrounded by its leafy green companions. Little did it know, its tranquil existence was about to be disrupted in a most unexpected way.
+
+Suddenly, a meteor hurtled through the atmosphere, leaving a trail of fiery destruction in its wake. The potato felt the earth shake beneath it as the meteor crashed to the ground mere miles away. The impact sent shockw"
+"PPLM-Discrim_12_['router', 'Linux', 'keyboard', 'server']",PPLM-Discrim_12,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The president of the country"" with a ""router"", ""Linux"", ""keyboard"", ""server"" keywords [/INST] ",router#Linux#keyboard#server,"te president of the country sat at their desk, staring at the router on the floor. They had been struggling to get the thing to work properly for hours, but to no avail. Suddenly, a knock came at the door. It was the head of the IT department, bearing a gift - a brand new Linux server.
+
+""Mr. President, I've brought you the latest and greatest in server technology,"" he said with a bow.
+
+The president'"
+"PPLM-Discrim_12_['plea', 'subpoena', 'transcript', 'bankrupt']",PPLM-Discrim_12,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The president of the country"" with a ""plea"", ""subpoena"", ""transcript"", ""bankrupt"" keywords [/INST] ",plea#subpoena#transcript#bankrupt,"pyThe president of the country issued a plea to the public to come forth with any information regarding the alleged corruption scandal that had been plaguing his administration. However, it soon became clear that the president's plea had fallen on deaf ears, as a subpoena was issued for him to appear in court to answer questions regarding his involvement in the scandal.
+
+As the court date approached, the president's legal team scrambled to prepare"
+"PPLM-Discrim_12_['torpedo', 'headquarters', 'infantry', 'battlefield']",PPLM-Discrim_12,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The president of the country"" with a ""torpedo"", ""headquarters"", ""infantry"", ""battlefield"" keywords [/INST] ",torpedo#headquarters#infantry#battlefield,"te president of the country stood at the headquarters, looking out at the battlefield before him. His troops were engaged in a fierce battle, and he knew that the outcome was far from certain. But he had a secret weapon - a torpedo that he had been saving for just the right moment.
+
+He gave the order, and the torpedo was launched, speeding towards the enemy's position. It hit with a deafening explosion, taking out a key"
+"PPLM-Discrim_12_['court', 'culture', 'communism', 'capitalism']",PPLM-Discrim_12,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The president of the country"" with a ""court"", ""culture"", ""communism"", ""capitalism"" keywords [/INST] ",court#culture#communism#capitalism,"te president of the country sat in his court, surrounded by advisors and officials. He was a man of great culture, well-versed in the arts and literature, and he had a deep understanding of the complexities of human nature. As he listened to the various perspectives presented to him, he pondered the best course of action for the nation.
+
+Outside the court, the country was divided. Some advocated for communism, believing that equal distribution of"
+"PPLM-Discrim_12_['Bible', 'church', 'priest', 'saint']",PPLM-Discrim_12,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The president of the country"" with a ""Bible"", ""church"", ""priest"", ""saint"" keywords [/INST] ",Bible#church#priest#saint,"te president of the country walked into the grand cathedral, Bible in hand, ready to deliver a speech to the masses gathered inside. The priest, dressed in his finest robes, greeted him with a warm smile and led him to the altar. As the president began to speak, the priest listened intently, his eyes closed in reverence.
+
+The president's words were those of hope and unity, and the priest felt his heart swell with pride. He"
+"PPLM-Discrim_12_['microscope', 'mass', 'mineral', 'scientist']",PPLM-Discrim_12,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The president of the country"" with a ""microscope"", ""mass"", ""mineral"", ""scientist"" keywords [/INST] ",microscope#mass#mineral#scientist,"(The president of the country)
+
+The president of the country peered through the microscope, examining the mineral sample that the scientist had handed him. ""This is quite remarkable,"" he said, his voice filled with awe. ""I've never seen anything like it.""
+
+The scientist, a tall, thin man with a shy smile, nodded eagerly. ""Yes, Mr. President. It's a new mineral that we"
+"PPLM-Discrim_12_['meteor', 'planet', 'satellite', 'astronaut']",PPLM-Discrim_12,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The president of the country"" with a ""meteor"", ""planet"", ""satellite"", ""astronaut"" keywords [/INST] ",meteor#planet#satellite#astronaut,"(Note: The prompt contains keywords that may not be related to each other or form a coherent story. The response will still attempt to incorporate them in a fluent English story)
+
+The president of the country gazed up at the night sky, his eyes fixed on the meteor streaking across the horizon. It was a rare sight, one that he had never seen before, and he couldn't help but feel a sense of awe at the vastness of the universe"
+"PPLM-Discrim_13_['router', 'Linux', 'keyboard', 'server']",PPLM-Discrim_13,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The road"" with a ""router"", ""Linux"", ""keyboard"", ""server"" keywords [/INST] ",router#Linux#keyboard#server,"te The road to technological advancement was paved with innovation, and no one knew this better than Linux, the open-source operating system that had revolutionized the way people interacted with technology. At the heart of this revolution was the humble keyboard, a device that had been around for decades but had recently gained new significance with the rise of the router.
+
+With the advent of the router, the keyboard had become more than just a means of inputting data into a"
+"PPLM-Discrim_13_['plea', 'subpoena', 'transcript', 'bankrupt']",PPLM-Discrim_13,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The road"" with a ""plea"", ""subpoena"", ""transcript"", ""bankrupt"" keywords [/INST] ",plea#subpoena#transcript#bankrupt,"plea:
+
+The road ahead seemed endless, a long stretch of asphalt that disappeared into the horizon. Sarah felt a sense of desperation wash over her as she gazed out at the empty landscape. She had been driving for hours, trying to outrun the feeling of hopelessness that had been following her for weeks. But no matter how far she drove, she couldn't shake the sense of dread that had settled in her stomach."
+"PPLM-Discrim_13_['torpedo', 'headquarters', 'infantry', 'battlefield']",PPLM-Discrim_13,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The road"" with a ""torpedo"", ""headquarters"", ""infantry"", ""battlefield"" keywords [/INST] ",torpedo#headquarters#infantry#battlefield,"verily, I shall spin a yarn of war and strife,
+With words that'll paint a picture of a fierce fight.
+The road ahead was long and winding,
+A path that led to certain doom, or so it seemed.
+
+A torpedo, swift and deadly, sped across the land,
+A weapon feared by all who dared to stand.
+It struck with force, a mighty blow,
+Leaving fo"
+"PPLM-Discrim_13_['court', 'culture', 'communism', 'capitalism']",PPLM-Discrim_13,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The road"" with a ""court"", ""culture"", ""communism"", ""capitalism"" keywords [/INST] ",court#culture#communism#capitalism,"stretched out before her like a snake, leading her to the heart of the city. She had heard tales of its grandeur, of towering skyscrapers and bustling streets, where the air was thick with the hum of commerce and the scent of success. But as she walked, the scenery gradually shifted. The gleaming steel and glass gave way to crumbling concrete and faded signs, the only remnants of a once-th"
+"PPLM-Discrim_13_['Bible', 'church', 'priest', 'saint']",PPLM-Discrim_13,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The road"" with a ""Bible"", ""church"", ""priest"", ""saint"" keywords [/INST] ",Bible#church#priest#saint,"te road wound its way through the rolling hills, leading pilgrims to the grand cathedral. The sun cast its final rays of the day upon the revered structure, casting a holy glow upon the stone facade. Inside, the priest stood at the altar, bible in hand, ready to deliver the evening sermon to the devout crowd.
+
+As the congregation settled into their pews, a saintly figure entered the sanctuary,"
+"PPLM-Discrim_13_['microscope', 'mass', 'mineral', 'scientist']",PPLM-Discrim_13,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The road"" with a ""microscope"", ""mass"", ""mineral"", ""scientist"" keywords [/INST] ",microscope#mass#mineral#scientist,0.00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+"PPLM-Discrim_13_['meteor', 'planet', 'satellite', 'astronaut']",PPLM-Discrim_13,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The road"" with a ""meteor"", ""planet"", ""satellite"", ""astronaut"" keywords [/INST] ",meteor#planet#satellite#astronaut,"The road stretched out before me, a seemingly endless expanse of asphalt that shimmered in the midday sun. I had been driving for hours, the monotony of the landscape broken only by the occasional tree or passing car. It was a lonely stretch, with nary a soul in sight.
+
+Suddenly, a meteor streaked across the sky, leaving a trail of smoke in its wake. I pulled over to the"
+"PPLM-Discrim_14_['router', 'Linux', 'keyboard', 'server']",PPLM-Discrim_14,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The year is 1910."" with a ""router"", ""Linux"", ""keyboard"", ""server"" keywords [/INST] ",router#Linux#keyboard#server,"Keys click, routers buzz, and Linux hums in the background. As fingers type away on a keyboard, data packets are being transmitted and received at lightning speed by a server miles away. The year is 1910, and the world is experiencing a technological revolution that would have been unimaginable just a few decades ago. With the advent of the router, communication has become faster and more efficient than ever before. The humble keyboard has become"
+"PPLM-Discrim_14_['plea', 'subpoena', 'transcript', 'bankrupt']",PPLM-Discrim_14,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The year is 1910."" with a ""plea"", ""subpoena"", ""transcript"", ""bankrupt"" keywords [/INST] ",plea#subpoena#transcript#bankrupt,"��� The year is 1910. 
+
+Jeremiah Barker was summoned to the courthouse to answer for his financial situation. He had struggled with debt for many years, and it had finally caught up to him. The court had issued a subpoena for him to appear and provide a transcript of his financial records. Mr. Barker was bankrupt, and he knew he could not avoid the court's orders"
+"PPLM-Discrim_14_['torpedo', 'headquarters', 'infantry', 'battlefield']",PPLM-Discrim_14,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The year is 1910."" with a ""torpedo"", ""headquarters"", ""infantry"", ""battlefield"" keywords [/INST] ",torpedo#headquarters#infantry#battlefield,"The year is 1910, and the world is on the brink of war. The headquarters of the Allied Forces is abuzz with activity as generals and strategists plan their defense against the enemy's powerful navy. The enemy has developed a new weapon, a torpedo, that can destroy ships from beneath the waves, and the Allies must find a way to counter it.
+
+On the battlefield, the infantry is mobilized, ready to"
+"PPLM-Discrim_14_['court', 'culture', 'communism', 'capitalism']",PPLM-Discrim_14,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The year is 1910."" with a ""court"", ""culture"", ""communism"", ""capitalism"" keywords [/INST] ",court#culture#communism#capitalism,"tear is 1910. The court of King George V was bustling with activity as the monarch prepared to host a lavish ball in honor of his forthcoming anniversary. The king and queen were determined to make this the most memorable night of their lives, and they spared no expense in ensuring that every detail was perfect.
+
+Meanwhile, in the capital city, a different kind of gathering was taking place. A group of intellectuals"
+"PPLM-Discrim_14_['Bible', 'church', 'priest', 'saint']",PPLM-Discrim_14,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The year is 1910."" with a ""Bible"", ""church"", ""priest"", ""saint"" keywords [/INST] ",Bible#church#priest#saint,": The year is 1910, and the small town of Willow Creek is bustling with activity. The townspeople are preparing for the annual Saint's Day celebration, a day to honor the patron saint of the town's church. The priest, Father John, stands at the entrance of the church, watching as the townspeople file in, each carrying a Bible and a small offering for the collection plate.
+
+As the service begins, the"
+"PPLM-Discrim_14_['microscope', 'mass', 'mineral', 'scientist']",PPLM-Discrim_14,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The year is 1910."" with a ""microscope"", ""mass"", ""mineral"", ""scientist"" keywords [/INST] ",microscope#mass#mineral#scientist,"ntury, the scientific community was abuzz with the latest discoveries in the field of microscopy. One scientist in particular, Dr. Emma Thompson, had been working tirelessly in her laboratory, studying the properties of minerals at the microscopic level. She had developed a new technique that allowed her to observe the minutest details of minerals, and was determined to unlock the secrets of the earth's core.
+
+As she pe"
+"PPLM-Discrim_14_['meteor', 'planet', 'satellite', 'astronaut']",PPLM-Discrim_14,"<s>[INST] <<SYS>>
+You are a text generator. Reply with only one turn.
+<</SYS>>
+
+Write a fluent English story starting with ""The year is 1910."" with a ""meteor"", ""planet"", ""satellite"", ""astronaut"" keywords [/INST] ",meteor#planet#satellite#astronaut,"terror gripped the world as the year 1910 dawned upon us. A meteor the size of a small planet had been hurtling towards Earth for months, its trajectory steadily declining towards a collision course with humanity's home. Scientists had been frantically working on a plan to deflect the meteor, but to no avail. The world braced for impact, hoping against hope that some miracle would occur to spare them the devast"

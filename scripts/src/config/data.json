@@ -1,0 +1,25 @@
+{
+  "header": ["original_id", "prompt"],
+  "ROCStories": {
+    "column_names": ["storyid", "sentence1"]
+  },
+  "cloze": {
+    "column_names": ["InputStoryid", "InputSentence1"]
+  },
+  "STSbenchmark": {
+    "column_names": "",
+    "allowed_types": ["main-captions"]
+  },
+  "OpenWebText": {
+    "column_names": ""
+  },
+  "PPLMprompts": {
+    "column_names": ""
+  },
+  "dataset_to_task": {
+    "sts_benchmark": "story_generation",
+    "pplm_prompts": "free_text",
+    "cloze": "story_generation",
+    "owt": "free_text"
+  }
+}
